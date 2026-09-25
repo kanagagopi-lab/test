@@ -160,3 +160,4 @@ progress { width: 100%; margin-top: 12px; }
   .credits { grid-template-columns: 1fr; }
   .credits dt { margin-top: 4px; }
 }
+.grow-full { flex-basis: 100%; margin: 0; }

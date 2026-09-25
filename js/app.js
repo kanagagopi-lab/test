@@ -1,6 +1,6 @@
 import { FIELDS, flattenFilms, dedupe, index, search, isEmptyQuery, facet, distinct } from './search.js';
-import { loadLibrary, saveLibrary, mergeFilms, clearLibrary } from './store.js';
-import { createClient, DEFAULT_CATEGORY } from './wikipedia.js';
+import { loadLibrary, saveLibrary, mergeFilms, clearLibrary, filmKey } from './store.js';
+import { createClient, DEFAULT_CATEGORY, FIRST_YEAR, wikiUrl } from './wikipedia.js';
 
 const PAGE = 50;
 const FACET_KEYS = ['musicDirectors', 'lyricists', 'singers', 'actors', 'directors', 'film'];
@@ -11,7 +11,8 @@ const form = $('#search');
 const wiki = createClient();
 
 let seedFilms = [];
-let libraryFilms = loadLibrary();
+let libraryFilms = [];
+let stopRequested = false;
 let songs = [];
 let indexed = [];
 let shown = PAGE;
@@ -203,29 +204,37 @@ function log(msg) {
 }
 
 function setBusy(busy) {
-  for (const id of ['#import-cat', '#import-titles', '#clear', '#export']) $(id).disabled = busy;
+  for (const id of ['#import-years', '#import-cat', '#import-titles', '#clear', '#export']) $(id).disabled = busy;
   $('#progress').hidden = !busy;
+  $('#stop').hidden = !busy;
 }
 
-function onProgress({ done, total, message }) {
-  const p = $('#progress');
-  p.max = total || 1;
-  p.value = done;
-  log(message);
-}
-
+// Imports titles in chunks, saving after each so a long run can be stopped and resumed.
 async function runImport(getTitles) {
   setBusy(true);
+  stopRequested = false;
+  const p = $('#progress');
+  p.removeAttribute('value');
   try {
-    const titles = await getTitles();
+    let titles = await getTitles();
+    if ($('#skip-existing').checked) {
+      const have = new Set(libraryFilms.map(filmKey));
+      const before = titles.length;
+      titles = titles.filter((t) => !have.has(wikiUrl(t)));
+      if (before !== titles.length) log(`Skipping ${before - titles.length} film(s) already in the library.`);
+    }
     if (!titles.length) { log('Nothing to import.'); return; }
     const CHUNK = 100;
     let imported = 0;
+    p.max = titles.length;
     for (let i = 0; i < titles.length; i += CHUNK) {
-      const films = await wiki.importTitles(titles.slice(i, i + CHUNK), onProgress);
+      if (stopRequested) { log(`Stopped after ${i} of ${titles.length} article(s). Run again to continue.`); break; }
+      const films = await wiki.importTitles(titles.slice(i, i + CHUNK), ({ message }) => log(message));
       libraryFilms = mergeFilms(libraryFilms, films);
       imported += films.length;
-      if (!saveLibrary(libraryFilms)) log('Warning: browser storage is full or unavailable. Songs will be lost on reload.');
+      p.value = Math.min(i + CHUNK, titles.length);
+      log(`Progress: ${p.value} / ${titles.length} article(s)`);
+      if (!(await saveLibrary(libraryFilms))) log('Warning: browser storage is full or unavailable. Songs will be lost on reload.');
       rebuild();
     }
     log(`Done. ${imported} film(s) added or updated.`);
@@ -237,11 +246,23 @@ async function runImport(getTitles) {
 }
 
 function wireLibrary() {
+  $('#year-to').value = new Date().getFullYear();
+  $('#stop').addEventListener('click', () => { stopRequested = true; log('Stopping after the current batch…'); });
+
+  $('#import-years').addEventListener('click', () => runImport(async () => {
+    const from = Math.max(FIRST_YEAR, Number($('#year-from').value) || FIRST_YEAR);
+    const to = Math.max(from, Number($('#year-to').value) || new Date().getFullYear());
+    log(`Reading the film lists for ${from}–${to}…`);
+    const titles = await wiki.yearListFilms(from, to, ({ message }) => log(message));
+    log(`Found ${titles.length} film article(s).`);
+    return titles;
+  }));
+
   $('#import-cat').addEventListener('click', () => runImport(async () => {
     const cat = $('#cat').value.trim() || DEFAULT_CATEGORY;
-    const limit = Number($('#cat-limit').value) || 300;
+    const limit = Number($('#cat-limit').value) || 1000;
     log(`Listing ${cat}…`);
-    const titles = await wiki.categoryMembers(cat, { limit, subcats: $('#cat-subcats').checked });
+    const titles = await wiki.categoryMembers(cat, { limit, depth: Number($('#cat-depth').value) });
     log(`Found ${titles.length} article(s).`);
     return titles;
   }));
@@ -265,7 +286,7 @@ function wireLibrary() {
       const films = Array.isArray(data) ? data : data.films;
       if (!Array.isArray(films)) throw new Error('expected { "films": [...] }');
       libraryFilms = mergeFilms(libraryFilms, films);
-      saveLibrary(libraryFilms);
+      await saveLibrary(libraryFilms);
       log(`Loaded ${films.length} film(s) from ${file.name}.`);
       rebuild();
     } catch (err) {
@@ -274,10 +295,10 @@ function wireLibrary() {
     e.target.value = '';
   });
 
-  $('#clear').addEventListener('click', () => {
+  $('#clear').addEventListener('click', async () => {
     if (!confirm('Remove all imported songs from this browser? The starter set stays.')) return;
     libraryFilms = [];
-    clearLibrary();
+    await clearLibrary();
     log('Imported songs removed.');
     rebuild();
   });
@@ -299,8 +320,13 @@ async function main() {
   $('#more').addEventListener('click', () => { shown += PAGE; render(); });
   wireLibrary();
 
-  const [seed, bundled] = await Promise.all([loadJson('data/seed.json'), loadJson('data/wikipedia.json')]);
-  seedFilms = [...(seed?.films ?? []), ...(bundled?.films ?? [])];
+  // data/datasets.json lists every bundled dataset (the starter set plus files built by
+  // scripts/build-dataset.mjs); fall back to the starter set alone.
+  const manifest = await loadJson('data/datasets.json');
+  const files = manifest?.files?.length ? manifest.files : ['seed.json'];
+  const [library, ...datasets] = await Promise.all([loadLibrary(), ...files.map((f) => loadJson(`data/${f}`))]);
+  libraryFilms = library;
+  seedFilms = datasets.flatMap((d) => d?.films ?? []);
   rebuild();
 }
 

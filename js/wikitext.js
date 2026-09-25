@@ -230,7 +230,9 @@ export function baseTitle(title) {
 /**
  * Parse one article. Returns
  * { kind: 'film' | 'soundtrack' | 'other', film, year, directors, actors,
- *   musicDirectors, songs, filmLink }
+ *   musicDirectors, songs, filmLink, soundtrackLink }
+ * filmLink: for a soundtrack article, the film it belongs to.
+ * soundtrackLink: for a film article without a song list, its separate soundtrack article.
  */
 export function parsePage(title, text) {
   const filmBox = findTemplates(text, /^infobox (tamil )?film$/i)[0]?.params;
@@ -260,15 +262,53 @@ export function parsePage(title, text) {
       ?? null;
   }
 
+  let soundtrackLink = null;
+  if (kind === 'film' && !songs.length) {
+    const music = sectionRanges(text, heads, /soundtrack|music|songs/i).map(([a, b]) => text.slice(a, b)).join('\n');
+    const main = findTemplates(music, /^(main|main article|further|see also)$/i)
+      .flatMap((t) => Object.entries(t.params).filter(([k]) => /^\d+$/.test(k)).map(([, v]) => v.trim()));
+    const linked = [...text.matchAll(/\[\[([^\]|#]+\((?:[^)]*\s)?soundtrack\))(?:\|[^\]]*)?\]\]/gi)].map((m) => m[1].trim());
+    soundtrackLink = main.find((l) => /soundtrack|album/i.test(l)) ?? linked[0] ?? null;
+  }
+
+  // Films without a release date in the infobox usually say "is a 1995 Indian Tamil-language film".
+  const lead = heads.length ? text.slice(0, heads[0].start) : text;
+  const leadYear = yearOf(clean(lead.replace(/\{\{[\s\S]*?\}\}/g, '')).match(/\bis an? (?:\w+ )?(\d{4})\b/)?.[1]);
+
   return {
     kind,
     film: kind === 'soundtrack' ? baseTitle(title) : name,
-    year: yearOf(box.released ?? box.release_date ?? box.release_dates ?? box.release ?? ''),
+    year: yearOf(box.released ?? box.release_date ?? box.release_dates ?? box.release ?? '') ?? leadYear,
     directors: filmBox ? toList(filmBox.director ?? '') : [],
     actors: filmBox ? toList(filmBox.starring ?? '') : [],
     musicDirectors: toList(filmBox?.music ?? albumBox?.artist ?? ''),
     language: clean(filmBox?.language ?? albumBox?.language ?? ''),
     songs,
     filmLink,
+    soundtrackLink,
   };
+}
+
+// Film article titles linked from a "List of Tamil films of <year>" page. Film titles are
+// italicised in those tables (''[[Roja (film)|Roja]]''), which separates them from the
+// cast / crew links in the same rows.
+export function filmLinksFromList(text) {
+  const body = text.replace(/<!--[\s\S]*?-->/g, '').replace(/<ref[^>]*\/>|<ref[^>]*>[\s\S]*?<\/ref>/gi, '');
+  const out = new Set();
+  for (const m of body.matchAll(/''\s*\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]\s*''/g)) {
+    const t = m[1].trim().replace(/_/g, ' ');
+    if (!t || t.includes(':') || /^list of/i.test(t)) continue;
+    out.add(t[0].toUpperCase() + t.slice(1));
+  }
+  return [...out];
+}
+
+// Wikipedia's year-list page titles. Early decades are also covered by decade pages.
+export function yearListTitles(from, to) {
+  const titles = [];
+  for (let y = from; y <= to; y++) titles.push(`List of Tamil films of ${y}`);
+  for (let d = Math.floor(from / 10) * 10; d <= to; d += 10) {
+    if (d < 1960) titles.push(`List of Tamil films of the ${d}s`);
+  }
+  return titles;
 }

@@ -1,0 +1,65 @@
+# Builds the Wikipedia song dataset on GitHub's servers and commits it to the branch the
+# workflow runs on. Run it from the Actions tab ("Build song dataset" → "Run workflow").
+# It also refreshes the most recent decades monthly.
+name: Build song dataset
+
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: 'Year range, e.g. 1931-2026 (one file per decade)'
+        default: '1931-2026'
+        required: true
+      force:
+        description: 'Rebuild decades that already have a file'
+        type: boolean
+        default: false
+      category:
+        description: 'Optional extra category to import as well (e.g. Category:Tamil film soundtracks)'
+        default: 'Category:Tamil film soundtracks'
+        required: false
+  schedule:
+    - cron: '17 3 1 * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-dataset-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm test
+      - name: Build by year
+        env:
+          YEARS: ${{ github.event.inputs.years }}
+          FORCE: ${{ github.event.inputs.force }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            # Monthly: refresh the last two decades, where new films are still being added.
+            THIS=$(date +%Y)
+            node scripts/build-dataset.mjs --years "$(( THIS / 10 * 10 - 10 ))-$THIS" --force
+          else
+            node scripts/build-dataset.mjs --years "$YEARS" $([ "$FORCE" = "true" ] && echo --force)
+          fi
+      - name: Build extra category
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.category != ''
+        env:
+          CATEGORY: ${{ github.event.inputs.category }}
+        run: node scripts/build-dataset.mjs --category "$CATEGORY"
+      - name: Commit dataset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Update Wikipedia song dataset"
+          git push

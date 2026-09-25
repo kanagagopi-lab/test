@@ -58,17 +58,42 @@
 
     <details class="panel library" id="library">
       <summary>Library: <span id="lib-stats"></span></summary>
-      <p>The built-in starter set covers a few well-known films. Import more from Wikipedia. The import runs in your browser and saves to this device.</p>
+      <p>Search covers the starter set, any bundled datasets and anything you import here. Imports run in your browser, go straight to Wikipedia and are saved on this device.</p>
+      <div class="import">
+        <label class="field narrow">
+          <span>From year</span>
+          <input id="year-from" type="number" value="1931" min="1931" max="2100">
+        </label>
+        <label class="field narrow">
+          <span>To year</span>
+          <input id="year-to" type="number" min="1931" max="2100">
+        </label>
+        <button id="import-years" type="button">Import films by year</button>
+        <p class="small grow-full">Reads Wikipedia's <em>List of Tamil films of &lt;year&gt;</em> pages, which list almost every Tamil film, then imports each film's songs. A full 1931–today run fetches several thousand articles and takes a while. You can stop it and resume later.</p>
+      </div>
       <div class="import">
         <label class="field grow">
           <span>Wikipedia category</span>
-          <input id="cat" value="Category:Tamil film soundtracks">
+          <input id="cat" value="Category:Tamil film soundtracks" list="cat-suggestions">
+          <datalist id="cat-suggestions">
+            <option value="Category:Tamil film soundtracks"></option>
+            <option value="Category:Tamil-language films"></option>
+            <option value="Category:Tamil-language songs"></option>
+          </datalist>
         </label>
         <label class="field narrow">
           <span>Max articles</span>
-          <input id="cat-limit" type="number" value="300" min="1" max="5000">
+          <input id="cat-limit" type="number" value="1000" min="1" max="50000">
         </label>
-        <label class="check"><input id="cat-subcats" type="checkbox"> include subcategories</label>
+        <label class="field narrow">
+          <span>Subcategories</span>
+          <select id="cat-depth">
+            <option value="0">none</option>
+            <option value="1">1 level</option>
+            <option value="2">2 levels</option>
+            <option value="3">3 levels</option>
+          </select>
+        </label>
         <button id="import-cat" type="button">Import category</button>
       </div>
       <div class="import">
@@ -77,6 +102,10 @@
           <textarea id="titles" rows="3" placeholder="Nayakan&#10;Kaadhal Kottai&#10;Anniyan (soundtrack)"></textarea>
         </label>
         <button id="import-titles" type="button">Import articles</button>
+      </div>
+      <div class="import">
+        <label class="check"><input id="skip-existing" type="checkbox" checked> skip films already in the library</label>
+        <button id="stop" type="button" class="danger" hidden>Stop import</button>
       </div>
       <progress id="progress" hidden></progress>
       <pre id="log" class="log" aria-live="polite"></pre>
