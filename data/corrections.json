@@ -9,6 +9,16 @@
      "A. R. Rahman"
     ]
    }
+  },
+  {
+   "film": "Boys",
+   "year": 2003,
+   "song": "Ale Ale",
+   "set": {
+    "musicDirectors": [
+     "A. R. Rahman"
+    ]
+   }
   }
  ]
 }
