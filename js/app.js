@@ -1,6 +1,7 @@
 import { FIELDS, flattenFilms, dedupe, canonicalize, index, search, isEmptyQuery, facet, distinct } from './search.js';
 import { loadLibrary, saveLibrary, mergeFilms, clearLibrary, filmKey, loadLocalCorrections, saveLocalCorrections } from './store.js';
 import { applyCorrections, validateCorrection } from './corrections.js';
+import { baseTitle } from './wikitext.js';
 import { createClient, DEFAULT_CATEGORY, FIRST_YEAR, wikiUrl } from './wikipedia.js';
 
 const PAGE = 50;
@@ -33,7 +34,8 @@ async function loadJson(url) {
 
 function rebuild() {
   const films = applyCorrections(
-    [...libraryFilms.map((f) => ({ ...f, source: f.source ?? 'Wikipedia' })), ...seedFilms],
+    [...libraryFilms.map((f) => ({ ...f, source: f.source ?? 'Wikipedia' })), ...seedFilms]
+      .map((f) => ({ ...f, film: baseTitle(f.film) })),
     [...sharedCorrections, ...localCorrections],
   );
   songs = dedupe(canonicalize(flattenFilms(films, 'Starter set')));

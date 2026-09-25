@@ -188,6 +188,12 @@ function sectionRanges(text, heads, re) {
   return ranges;
 }
 
+// Background score / BGM track lists are instrumentals, not songs.
+const SCORE = /\b(score|bgm|background|instrumentals?|theme music|original music)\b/i;
+function isScore(label) {
+  return !!label && SCORE.test(label) && !/\bsongs?\b/i.test(label);
+}
+
 function isOtherLanguage(label) {
   return !!label && OTHER_LANGS.test(label) && !/tamil/i.test(label);
 }
@@ -199,6 +205,7 @@ export function parseTrackListings(text) {
     const p = t.params;
     const h = headingBefore(heads, t.start);
     if (isOtherLanguage(clean(p.headline)) || isOtherLanguage(h?.title)) continue;
+    if (isScore(clean(p.headline)) || isScore(h?.title)) continue;
     const extraIsSinger = /sing|artist|vocal|perform/i.test(clean(p.extra_column ?? ''));
     for (let n = 1; n < 100; n++) {
       if (p[`title${n}`] == null) continue;
@@ -307,7 +314,9 @@ export function parseSongTables(text) {
 }
 
 export function baseTitle(title) {
-  return String(title).replace(/\s*\((?:\d{4} )?(?:tamil )?(?:film|soundtrack|album)\)\s*$/i, '').trim();
+  // "Roja (film)", "Beast (2022 Indian film)", "Leo (upcoming film)", "Roja (soundtrack)",
+  // "Ponniyin Selvan (Original Score)" → the plain film name.
+  return String(title).replace(/\s*\([^()]*\b(?:film|soundtrack|album|score)\)\s*$/i, '').trim();
 }
 
 /**
@@ -336,7 +345,15 @@ function parsePageInner(title, text) {
     const ranges = albumBox && !filmBox
       ? [[0, text.length]]
       : sectionRanges(text, heads, /soundtrack|music|songs|track ?list/i);
-    for (const [a, b] of ranges) songs.push(...parseSongTables(text.slice(a, b)));
+    for (const [a, b] of ranges) {
+      // Skip tables that sit under a "Background score" style sub-heading.
+      const part = text.slice(a, b);
+      const partHeads = headings(part);
+      for (const table of part.match(/^\{\|[\s\S]*?^\|\}/gm) ?? []) {
+        if (isScore(headingBefore(partHeads, part.indexOf(table))?.title)) continue;
+        songs.push(...parseSongTables(table));
+      }
+    }
   }
 
   const kind = filmBox ? 'film' : albumBox ? 'soundtrack' : 'other';

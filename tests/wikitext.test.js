@@ -159,3 +159,36 @@ test('merged (rowspan/colspan) cells fill every row they cover', () => {
   assert.deepEqual(c.lyricists, []); // "00:49" is a duration, never a name
   assert.equal(c.length, '00:49');
 });
+
+test('film names lose Wikipedia disambiguation', async () => {
+  const { baseTitle } = await import('../js/wikitext.js');
+  for (const [t, want] of [['Beast (2022 Indian film)', 'Beast'], ['Thayumanavar (1938 film)', 'Thayumanavar'],
+    ['Dhruva Natchathiram (upcoming film)', 'Dhruva Natchathiram'], ['Roja (soundtrack)', 'Roja'],
+    ['Ponniyin Selvan (Original Score)', 'Ponniyin Selvan'], ['Nayakan', 'Nayakan'], ['Vedavathi (Seetha Jananam)', 'Vedavathi (Seetha Jananam)']]) {
+    assert.equal(baseTitle(t), want);
+  }
+});
+
+test('background score track lists are not songs', () => {
+  const text = `{{Infobox film|name=Beast}}
+== Soundtrack ==
+{{Track listing|extra_column=Singer(s)|title1=Arabic Kuthu|extra1=[[Anirudh Ravichander]], [[Jonita Gandhi]]}}
+=== Background score ===
+{{Track listing|title1=Missile Launch|title2=Hijacked}}
+{{Track listing|headline=Original Score|title1=The Raw Agent}}`;
+  assert.deepEqual(parsePage('Beast (2022 Indian film)', text).songs.map((s) => s.title), ['Arabic Kuthu']);
+  const tables = `{{Infobox film|name=X}}
+== Music ==
+{| class="wikitable"
+! Song !! Singers
+|-
+| Real Song || [[Mano]]
+|}
+=== Background score ===
+{| class="wikitable"
+! Title
+|-
+| Theme 1
+|}`;
+  assert.deepEqual(parsePage('X', tables).songs.map((s) => s.title), ['Real Song']);
+});
