@@ -199,8 +199,8 @@
     "Balu Mahendra"
    ],
    "actors": [
-    "Shoba Mahendra",
-    "Pratap"
+    "Shoba",
+    "Pratap Pothen"
    ],
    "musicDirectors": [
     "Ilaiyaraaja"
@@ -338,7 +338,7 @@
    ],
    "actors": [
     "Mohan",
-    "Poornima Jayaram"
+    "Poornima Bhagyaraj"
    ],
    "musicDirectors": [
     "Ilaiyaraaja"
@@ -435,7 +435,7 @@
    ],
    "actors": [
     "Sivakumar",
-    "Suhasini",
+    "Suhasini Maniratnam",
     "Sulakshana"
    ],
    "musicDirectors": [
@@ -565,7 +565,7 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:25"
@@ -576,7 +576,7 @@
       "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:36"
@@ -587,7 +587,7 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:24"
@@ -599,7 +599,7 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:32"
@@ -610,7 +610,7 @@
       "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:46"
@@ -743,7 +743,7 @@
    ],
    "actors": [
     "Kamal Haasan",
-    "Saranya"
+    "Saranya Ponvannan"
    ],
    "musicDirectors": [
     "Ilaiyaraaja"
@@ -821,7 +821,7 @@
    "actors": [
     "Prabhu",
     "Karthik",
-    "Amala",
+    "Amala Akkineni",
     "Nirosha"
    ],
    "musicDirectors": [
@@ -834,7 +834,7 @@
       "Ilaiyaraaja"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:42"
@@ -845,7 +845,7 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:25"
@@ -857,7 +857,7 @@
       "K. S. Chithra"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:40"
@@ -868,7 +868,7 @@
       "K. S. Chithra"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:37"
@@ -880,7 +880,7 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:41"
@@ -891,7 +891,7 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:27"
@@ -904,7 +904,7 @@
    "film": "Apoorva Sagodharargal",
    "year": 1989,
    "directors": [
-    "Singeetam Srinivasa Rao"
+    "Singeetham Srinivasa Rao"
    ],
    "actors": [
     "Kamal Haasan",
@@ -996,7 +996,7 @@
    ],
    "actors": [
     "Rajinikanth",
-    "Khushbu",
+    "Khushbu Sundar",
     "Sarath Babu"
    ],
    "musicDirectors": [
@@ -1072,7 +1072,7 @@
    ],
    "actors": [
     "Arvind Swamy",
-    "Madhubala",
+    "Madhoo",
     "Nassar",
     "Pankaj Kapur"
    ],
@@ -1154,7 +1154,7 @@
       "Hariharan"
      ],
      "lyricists": [
-      "Subramanya Bharathi"
+      "Subramania Bharati"
      ],
      "musicDirectors": [
       "A. R. Rahman"
@@ -1182,7 +1182,7 @@
    "film": "Kaadhalan",
    "year": 1994,
    "directors": [
-    "Shankar"
+    "S. Shankar"
    ],
    "actors": [
     "Prabhu Deva",
@@ -1195,7 +1195,7 @@
     {
      "title": "Ennavale Adi Ennavale",
      "singers": [
-      "Unni Krishnan",
+      "P. Unnikrishnan",
       "Sujatha Mohan"
      ],
      "lyricists": [
@@ -1389,7 +1389,7 @@
      "singers": [
       "S. P. Pallavi",
       "Noel James",
-      "Anupama",
+      "Annupamaa",
       "Malgudi Subha",
       "Srinivas"
      ],
@@ -1597,7 +1597,7 @@
      "singers": [
       "S. P. Balasubrahmanyam",
       "Harini",
-      "Savitha Reddy"
+      "Savitha Radhakrishnan"
      ],
      "lyricists": [
       "Vairamuthu"
@@ -1621,7 +1621,7 @@
      "singers": [
       "Mano",
       "Febi Mani",
-      "Ganga"
+      "Ganga Sitharasu"
      ],
      "lyricists": [
       "Vairamuthu"
@@ -1659,7 +1659,7 @@
     {
      "title": "Endrendrum Punnagai",
      "singers": [
-      "Praveen Mani",
+      "Pravin Mani",
       "Clinton Cerejo",
       "Srinivas",
       "Shankar Mahadevan",
@@ -1682,7 +1682,7 @@
     {
      "title": "Kadhal Sadugudu (Nagila Nagila)",
      "singers": [
-      "S. P. B. Charan",
+      "S. P. Charan",
       "Naveen"
      ],
      "lyricists": [],
@@ -1754,7 +1754,7 @@
     {
      "title": "Snegithane Snegithane (Film version)",
      "singers": [
-      "Ustad Sultan Khan",
+      "Sultan Khan",
       "Sadhana Sargam",
       "Srinivas"
      ],
@@ -1773,7 +1773,7 @@
     "Gautham Vasudev Menon"
    ],
    "actors": [
-    "Madhavan",
+    "R. Madhavan",
     "Abbas",
     "Reema Sen"
    ],
@@ -1788,7 +1788,7 @@
       "Timmy"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "5:56"
@@ -1819,7 +1819,7 @@
     {
      "title": "Vaseegara",
      "singers": [
-      "Bombay Jayashree"
+      "Bombay Jayashri"
      ],
      "lyricists": [
       "Thamarai"
@@ -1834,7 +1834,7 @@
       "Tippu"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:40"
@@ -1865,11 +1865,11 @@
     {
      "title": "Venmathiye",
      "singers": [
-      "Roop Kumar Rathod",
+      "Roopkumar Rathod",
       "Tippu"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "5:28"
@@ -1877,7 +1877,7 @@
     {
      "title": "Ivan Yaaro",
      "singers": [
-      "Unni Krishnan",
+      "P. Unnikrishnan",
       "Harini"
      ],
      "lyricists": [
@@ -2085,7 +2085,7 @@
     {
      "title": "Devare Devare",
      "singers": [
-      "S. P. B. Charan"
+      "S. P. Charan"
      ],
      "lyricists": [
       "Sawan Kumar Sawan"
@@ -2177,7 +2177,7 @@
     {
      "title": "Kannum Kannum Nokia",
      "singers": [
-      "Lesle Lewis",
+      "Leslee Lewis",
       "Andrea Jeremiah",
       "Vasundhara Das",
       "Ranjith"
@@ -2203,7 +2203,7 @@
     {
      "title": "Kadhal Yaanai",
      "singers": [
-      "Nakul",
+      "Nakkhul",
       "Melwyn Peris",
       "G. V. Prakash Kumar"
      ],
@@ -2229,7 +2229,7 @@
      "title": "Andangkaka",
      "singers": [
       "Jassie Gift",
-      "K K",
+      "KK",
       "Shreya Ghoshal",
       "Saindhavi"
      ],
@@ -2246,7 +2246,7 @@
       "Chennai Chorale"
      ],
      "lyricists": [
-      "Febi",
+      "Febi Mani",
       "Nina"
      ],
      "musicDirectors": [],
@@ -2311,7 +2311,7 @@
     {
      "title": "Yaadho",
      "singers": [
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Madhan Karky"
@@ -2324,7 +2324,7 @@
     {
      "title": "Kannunjal",
      "singers": [
-      "Sudha Raghunathan"
+      "Sudha Ragunathan"
      ],
      "lyricists": [
       "Uma Devi"
@@ -2421,7 +2421,7 @@
     {
      "title": "Adada Vaa",
      "singers": [
-      "Ilayaraaja",
+      "Ilaiyaraaja",
       "Andrea Jeremiah",
       "SuVi"
      ],
@@ -2489,11 +2489,11 @@
    "actors": [
     "Jai",
     "Shiva",
-    "Premji",
+    "Premgi Amaren",
     "Nithin Sathya",
     "Aravind Akash",
     "Vijay Vasanth",
-    "Vijayalakshmi Feroz",
+    "Vijayalakshmi Ahathian",
     "Ajay Raj"
    ],
    "musicDirectors": [
@@ -2579,7 +2579,7 @@
     {
      "title": "Yaaro",
      "singers": [
-      "S. P. B. Charan",
+      "S. P. Charan",
       "Venkat Prabhu"
      ],
      "lyricists": [
@@ -2591,7 +2591,7 @@
     {
      "title": "Jalsa",
      "singers": [
-      "Sabesh",
+      "Sabesh–Murali",
       "Gana Ulaganathan",
       "Gana Pazhani",
       "Karunas",
@@ -2623,7 +2623,7 @@
    "film": "Sivaji: The Boss",
    "year": 2007,
    "directors": [
-    "Shankar"
+    "S. Shankar"
    ],
    "actors": [
     "Rajinikanth",
@@ -2653,7 +2653,7 @@
      "singers": [
       "Blaaze",
       "Tanvi Shah",
-      "Ravi \"Rags\" Khote",
+      "Ravi Khote",
       "Suresh Peters"
      ],
      "lyricists": [
@@ -2693,7 +2693,7 @@
      "title": "Sahana",
      "singers": [
       "Udit Narayan",
-      "Chinmayi",
+      "Chinmayi Sripada",
       "A. R. Rahman"
      ],
      "lyricists": [
@@ -2740,7 +2740,7 @@
    ],
    "actors": [
     "Hrithik Roshan",
-    "Aishwarya Rai Bachchan"
+    "Aishwarya Rai"
    ],
    "musicDirectors": [
     "A. R. Rahman"
@@ -2858,7 +2858,7 @@
      "title": "Nenjukkul Peidhidum",
      "singers": [
       "Hariharan",
-      "Devan",
+      "Devan Ekambaram",
       "V. V. Prasanna"
      ],
      "lyricists": [
@@ -3008,7 +3008,7 @@
      "singers": [
       "Benny Dayal",
       "Haricharan",
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Pa. Vijay"
@@ -3061,7 +3061,7 @@
      "title": "Yaarodu Yaaro",
      "singers": [
       "Yuvan Shankar Raja",
-      "Ustad Sultan Khan"
+      "Sultan Khan"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -3070,7 +3070,7 @@
     {
      "title": "Yogi Theme In Saarangi",
      "singers": [
-      "Ustad Sultan Khan"
+      "Sultan Khan"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -3079,7 +3079,7 @@
     {
      "title": "Seermevum Koovathiley",
      "singers": [
-      "Ameer",
+      "Ameer Sultan",
       "Naveen Madhav",
       "Snehan",
       "Jijuba"
@@ -3113,11 +3113,11 @@
    "film": "Enthiran",
    "year": 2010,
    "directors": [
-    "Shankar"
+    "S. Shankar"
    ],
    "actors": [
     "Rajinikanth",
-    "Aishwarya Rai Bachchan",
+    "Aishwarya Rai",
     "Danny Denzongpa"
    ],
    "musicDirectors": [
@@ -3140,7 +3140,7 @@
     {
      "title": "Boom Boom Robot Da",
      "singers": [
-      "Yogi B",
+      "Poetic Ammo",
       "Keerthi Sagathia",
       "Shweta Mohan",
       "Tanvi Shah"
@@ -3155,7 +3155,7 @@
      "title": "Irumbile Oru Idhaiyam",
      "singers": [
       "A. R. Rahman",
-      "Kash n' Krissy"
+      "Lady Kash and Krissy"
      ],
      "lyricists": [
       "Madhan Karky",
@@ -3181,7 +3181,7 @@
      "singers": [
       "Pradeep Kumar",
       "Pravin Mani",
-      "Yogi B"
+      "Poetic Ammo"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -3191,7 +3191,7 @@
      "title": "Kilimanjaro",
      "singers": [
       "Javed Ali",
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Pa. Vijay"
@@ -3323,10 +3323,10 @@
    "actors": [
     "Jai",
     "Vaibhav Reddy",
-    "Premji",
+    "Premgi Amaren",
     "Aravind Akash",
     "Sampath Raj",
-    "Piaa Bajpai",
+    "Pia Bajpiee",
     "Sneha"
    ],
    "musicDirectors": [
@@ -3340,7 +3340,7 @@
       "Karthik Raja",
       "Venkat Prabhu",
       "Bhavatharini",
-      "Premji Amaran",
+      "Premgi Amaren",
       "Yuvan Shankar Raja"
      ],
      "lyricists": [
@@ -3355,7 +3355,7 @@
       "Ilaiyaraaja"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "2:55"
@@ -3540,14 +3540,14 @@
    ],
    "actors": [
     "Rajpal Yadav",
-    "Dalip Singh Rana",
+    "The Great Khali",
     "Om Puri",
     "Sharat Saxena",
     "Manoj Joshi",
     "Nargis Bagheri"
    ],
    "musicDirectors": [
-    "Sreenivas",
+    "Srinivas",
     "Sharreth"
    ],
    "songs": [
@@ -3811,8 +3811,8 @@
    ],
    "actors": [
     "Vikram",
-    "Aishwarya Rai Bachchan",
-    "Prithviraj"
+    "Aishwarya Rai",
+    "Prithviraj Sukumaran"
    ],
    "musicDirectors": [
     "A. R. Rahman"
@@ -3836,7 +3836,7 @@
      "title": "Usure Pogudhey",
      "singers": [
       "Karthik",
-      "Mohammad Irfan Ali"
+      "Mohammed Irfan"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -3877,10 +3877,10 @@
      "title": "Keda Kari",
      "singers": [
       "Benny Dayal",
-      "Bhakkiyaraj",
+      "Bamba Bakya",
       "A. R. Reihana",
       "Tanvi Shah",
-      "Mili Nair",
+      "MILI",
       "SuVi"
      ],
      "lyricists": [],
@@ -3949,7 +3949,7 @@
    "actors": [
     "Shiva",
     "Lekha Washington",
-    "S. P. B. Charan"
+    "S. P. Charan"
    ],
    "musicDirectors": [
     "G. V. Prakash Kumar"
@@ -3981,7 +3981,7 @@
      "title": "Porkkalam",
      "singers": [
       "Alwa Vasu",
-      "Yogi B"
+      "Poetic Ammo"
      ],
      "lyricists": [
       "Yugabharathi"
@@ -4004,7 +4004,7 @@
      "title": "Ayyayo",
      "singers": [
       "S. P. Balasubrahmanyam",
-      "S. P. B. Charan",
+      "S. P. Charan",
       "Prashanthini"
      ],
      "lyricists": [
@@ -4046,7 +4046,7 @@
    ],
    "actors": [
     "Silambarasan",
-    "Trisha"
+    "Trisha Krishnan"
    ],
    "musicDirectors": [
     "A. R. Rahman"
@@ -4065,7 +4065,7 @@
     {
      "title": "Anbil Avan",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Devan Ekambaram"
      ],
      "lyricists": [],
@@ -4086,7 +4086,7 @@
      "title": "Hosanna",
      "singers": [
       "Blaaze",
-      "Suzanne",
+      "Suzanne D'Mello",
       "Vijay Prakash"
      ],
      "lyricists": [],
@@ -4153,9 +4153,9 @@
     "Vishal",
     "Arya",
     "G. M. Kumar",
-    "R. K.",
+    "Radha Krishnan Chidambaram",
     "Madhu Shalini",
-    "Janani Iyer"
+    "Janani"
    ],
    "musicDirectors": [
     "Yuvan Shankar Raja"
@@ -4239,7 +4239,7 @@
    "film": "Deiva Thirumagal",
    "year": 2011,
    "directors": [
-    "Vijay"
+    "A. L. Vijay"
    ],
    "actors": [
     "Vikram",
@@ -4357,13 +4357,13 @@
      "title": "Thee Illai",
      "singers": [
       "Naresh Iyer",
-      "Mukesh",
-      "Gopal Rao",
+      "Mukesh Mohamed",
+      "Agosh",
       "Mahathi",
       "Ranina Reddy"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "5:27"
@@ -4410,8 +4410,7 @@
      "title": "Bathing at Cannes",
      "singers": [
       "Emcee Jesz",
-      "Lady Kash",
-      "Krissy",
+      "Lady Kash and Krissy",
       "Ranina Reddy"
      ],
      "lyricists": [
@@ -4425,7 +4424,7 @@
      "title": "Nenjil Nenjil",
      "singers": [
       "Harish Raghavendra",
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Madhan Karky"
@@ -4485,7 +4484,7 @@
       "Suchitra"
      ],
      "lyricists": [
-      "P. Vijay"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
      "length": "5:34"
@@ -4507,7 +4506,7 @@
      "singers": [
       "Vijay Prakash",
       "Karthik",
-      "Shalini",
+      "Pop Shalini",
       "Shruti Haasan"
      ],
      "lyricists": [
@@ -4544,7 +4543,7 @@
     {
      "title": "The Rise of Damo",
      "singers": [
-      "Hao Wang",
+      "M.I.C.",
       "Sunitha Sarathy"
      ],
      "lyricists": [
@@ -4567,7 +4566,7 @@
     "Jiiva",
     "Ajmal Ameer",
     "Karthika Nair",
-    "Piaa Bajpai"
+    "Pia Bajpiee"
    ],
    "musicDirectors": [
     "Harris Jayaraj"
@@ -4628,7 +4627,7 @@
      "title": "Venpaniyae",
      "singers": [
       "Sriram Parthasarathy",
-      "Bombay Jayashree"
+      "Bombay Jayashri"
      ],
      "lyricists": [
       "Pa. Vijay"
@@ -4652,7 +4651,7 @@
      "singers": [
       "Hariharan",
       "Shweta Mohan",
-      "Chinmayi Sripaada"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Viveka"
@@ -4672,9 +4671,9 @@
    ],
    "actors": [
     "Ajith Kumar",
-    "Arjun",
+    "Arjun Sarja",
     "Trisha Krishnan",
-    "Lakshmi Rai"
+    "Raai Laxmi"
    ],
    "musicDirectors": [
     "Yuvan Shankar Raja"
@@ -4687,11 +4686,11 @@
       "Ranjith",
       "Anitha Karthikeyan",
       "Premgi Amaren",
-      "Rita"
+      "Rita Thyagarajan"
      ],
      "lyricists": [
       "Vaali",
-      "Rita",
+      "Rita Thyagarajan",
       "Yuvan Shankar Raja"
      ],
      "musicDirectors": [
@@ -4702,7 +4701,7 @@
     {
      "title": "Nee Naan",
      "singers": [
-      "S. P. B. Charan",
+      "S. P. Charan",
       "Bhavatharini"
      ],
      "lyricists": [
@@ -4720,7 +4719,7 @@
       "Suchitra"
      ],
      "lyricists": [
-      "Vaalee",
+      "Vaali",
       "Gangai Amaran"
      ],
      "musicDirectors": [
@@ -4743,7 +4742,7 @@
       "M.K. Balaji"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [
       "Yuvan Shankar Raja"
@@ -4956,7 +4955,7 @@
      "title": "Unnale Unnale",
      "singers": [
       "Thaman S",
-      "Rita"
+      "Rita Thyagarajan"
      ],
      "lyricists": [
       "Yugabharathi"
@@ -5057,7 +5056,7 @@
      "title": "Malar Villile",
      "singers": [
       "Shreya Ghoshal",
-      "Darshana K. T."
+      "Darshana KT"
      ],
      "lyricists": [
       "Na. Muthukumar"
@@ -5145,11 +5144,11 @@
    "actors": [
     "Vimal",
     "Ineya",
-    "Bhagyaraj",
+    "K. Bhagyaraj",
     "Ponvannan"
    ],
    "musicDirectors": [
-    "Ghibran"
+    "Ghibran Vaibodha"
    ],
    "songs": [
     {
@@ -5166,7 +5165,7 @@
     {
      "title": "Sara Sara Saara Kathu",
      "singers": [
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Vairamuthu"
@@ -5200,7 +5199,7 @@
     {
      "title": "Thaila Thaila",
      "singers": [
-      "Rita"
+      "Rita Thyagarajan"
      ],
      "lyricists": [
       "Ve. Ramasamy"
@@ -5228,7 +5227,7 @@
    "film": "Vaanam",
    "year": 2011,
    "directors": [
-    "Krish"
+    "Krish Jagarlamudi"
    ],
    "actors": [
     "Silambarasan",
@@ -5310,10 +5309,10 @@
    "film": "Velayudham",
    "year": 2011,
    "directors": [
-    "M. Raja"
+    "Mohan Raja"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Genelia D'Souza",
     "Hansika Motwani"
    ],
@@ -5514,7 +5513,7 @@
    "actors": [
     "Viji Chandrasekhar",
     "G. Marimuthu",
-    "Uma",
+    "Uma Padmanabhan",
     "Rajie Vijay Sarathy",
     "Jayaprakash",
     "Sampath Raj"
@@ -5562,7 +5561,7 @@
     {
      "title": "Maayavi",
      "singers": [
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Madhan Karky"
@@ -5627,7 +5626,7 @@
     "Pa. Ranjith"
    ],
    "actors": [
-    "Dinesh",
+    "V R Dinesh",
     "Nandita Swetha",
     "Aishwarya Rajesh"
    ],
@@ -5825,11 +5824,11 @@
    "actors": [
     "Manoj Bajpayee",
     "Nawazuddin Siddiqui",
-    "Rajkumar Rao",
+    "Rajkummar Rao",
     "Vega Tamotia",
     "Sauraseni Maitra",
     "Jaideep Ahlawat",
-    "Alexx ONell"
+    "Alexx O'Nell"
    ],
    "musicDirectors": [
     "Shankar–Ehsaan–Loy"
@@ -6223,7 +6222,7 @@
     {
      "title": "Sollitaley Ava Kaadhala",
      "singers": [
-      "K. G. Ranjith",
+      "Ranjith",
       "Shreya Ghoshal"
      ],
      "lyricists": [],
@@ -6299,10 +6298,10 @@
    "film": "Nanban",
    "year": 2012,
    "directors": [
-    "Shankar"
+    "S. Shankar"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Jiiva",
     "Srikanth",
     "Ileana D'Cruz",
@@ -6341,7 +6340,7 @@
      "title": "Asku Laska",
      "singers": [
       "Vijay Prakash",
-      "Chinmayi",
+      "Chinmayi Sripada",
       "SuVi"
      ],
      "lyricists": [
@@ -6517,7 +6516,7 @@
      "title": "Kaadhal Oru",
      "singers": [
       "Aalap Raju",
-      "Vedala Hemachandra",
+      "Hemachandra",
       "Sunitha Sarathy"
      ],
      "lyricists": [
@@ -6542,7 +6541,7 @@
      "title": "Akila Akila",
      "singers": [
       "Aalap Raju",
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Sharmila"
      ],
      "lyricists": [
@@ -6834,7 +6833,7 @@
    ],
    "actors": [
     "Silambarasan",
-    "Varalakshmi"
+    "Varalaxmi Sarathkumar"
    ],
    "musicDirectors": [
     "Dharan Kumar"
@@ -6944,7 +6943,7 @@
     "A. R. Murugadoss"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Kajal Aggarwal"
    ],
    "musicDirectors": [
@@ -6984,7 +6983,7 @@
      "title": "Poi Varava",
      "singers": [
       "Karthik",
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Pa. Vijay"
@@ -6995,7 +6994,7 @@
     {
      "title": "Google Google",
      "singers": [
-      "Vijay",
+      "C. Joseph Vijay",
       "Andrea Jeremiah",
       "Krishna Iyer",
       "Joe"
@@ -7126,11 +7125,11 @@
    "film": "Ameerin Aadhi Bhagavan",
    "year": 2013,
    "directors": [
-    "Ameer"
+    "Ameer Sultan"
    ],
    "actors": [
     "Ravi Mohan",
-    "Neetu Chandra",
+    "Nitu Chandra",
     "Sudha Chandran",
     "Saiju Kurup"
    ],
@@ -7222,7 +7221,7 @@
     "Ajith Kumar",
     "Arya",
     "Nayanthara",
-    "Taapsee"
+    "Taapsee Pannu"
    ],
    "musicDirectors": [
     "Yuvan Shankar Raja"
@@ -7293,7 +7292,7 @@
    "actors": [
     "Karthi",
     "Hansika Motwani",
-    "Premji"
+    "Premgi Amaren"
    ],
    "musicDirectors": [
     "Yuvan Shankar Raja"
@@ -7355,7 +7354,7 @@
      "title": "Run for your Life",
      "singers": [
       "Psycho.unit",
-      "Gaana Bala"
+      "Gana Bala"
      ],
      "lyricists": [
       "Psycho.unit",
@@ -7371,7 +7370,7 @@
       "G. V. Prakash Kumar",
       "D. Imman",
       "Vijay Antony",
-      "S. Thaman"
+      "Thaman S"
      ],
      "lyricists": [
       "Gangai Amaran"
@@ -7454,7 +7453,7 @@
       "Hiphop Tamizha"
      ],
      "lyricists": [
-      "Vaalee",
+      "Vaali",
       "Yo Yo Honey Singh",
       "Hiphop Tamizha"
      ],
@@ -7568,12 +7567,12 @@
     {
      "title": "Magudi Magudi",
      "singers": [
-      "Aaryan Dinesh Kanagaratnam",
-      "Chinmayee",
+      "Dinesh Kanagaratnam",
+      "Chinmayi Sripada",
       "Tanvi Shah"
      ],
      "lyricists": [
-      "Aaryan Dinesh Kanagaratnam"
+      "Dinesh Kanagaratnam"
      ],
      "musicDirectors": [],
      "length": "03:32"
@@ -7635,7 +7634,7 @@
      "title": "Innum Konjam Naeram",
      "singers": [
       "Vijay Prakash",
-      "Swetha Mohan"
+      "Shweta Mohan"
      ],
      "lyricists": [
       "Kabilan",
@@ -7648,10 +7647,10 @@
      "title": "Naetru Aval Irundhal",
      "singers": [
       "Vijay Prakash",
-      "Chinmayi Sripaada"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "4:58"
@@ -7665,7 +7664,7 @@
       "Sofia Ashraf"
      ],
      "lyricists": [
-      "Vaalee",
+      "Vaali",
       "Sofia Ashraf"
      ],
      "musicDirectors": [],
@@ -7704,7 +7703,7 @@
       "A. R. Rahman"
      ],
      "lyricists": [
-      "Vaalee",
+      "Vaali",
       "Dhanush"
      ],
      "musicDirectors": [],
@@ -7817,7 +7816,7 @@
    "actors": [
     "Atharvaa",
     "Vedhika",
-    "Dhansika"
+    "Sai Dhanshika"
    ],
    "musicDirectors": [
     "G. V. Prakash Kumar"
@@ -7893,7 +7892,7 @@
    ],
    "actors": [
     "Vishal",
-    "Trisha",
+    "Trisha Krishnan",
     "Sunaina"
    ],
    "musicDirectors": [
@@ -8021,7 +8020,7 @@
       "Rob Mass"
      ],
      "lyricists": [
-      "Hiphop Tamizha Adhi"
+      "Hiphop Tamizha"
      ],
      "musicDirectors": [],
      "length": "2:37"
@@ -8360,10 +8359,10 @@
    ],
    "actors": [
     "Sathya",
-    "Miya"
+    "Miya George"
    ],
    "musicDirectors": [
-    "Ghibran"
+    "Ghibran Vaibodha"
    ],
    "songs": [
     {
@@ -8371,7 +8370,7 @@
      "singers": [
       "Yazin Nizar",
       "Thomson Andrews",
-      "Ghibran"
+      "Ghibran Vaibodha"
      ],
      "lyricists": [
       "Madhan Karky"
@@ -8528,7 +8527,7 @@
     "Raju Murugan"
    ],
    "actors": [
-    "Dinesh",
+    "V R Dinesh",
     "Malvika Nair"
    ],
    "musicDirectors": [
@@ -8610,7 +8609,7 @@
     "Manju Warrier"
    ],
    "musicDirectors": [
-    "Gopi Sunder"
+    "Gopi Sundar"
    ],
    "songs": [
     {
@@ -9019,7 +9018,7 @@
    ],
    "actors": [
     "Mohanlal",
-    "Vijay",
+    "C. Joseph Vijay",
     "Kajal Aggarwal"
    ],
    "musicDirectors": [
@@ -9065,7 +9064,7 @@
     {
      "title": "Kandaangi Kandaangi",
      "singers": [
-      "Vijay",
+      "C. Joseph Vijay",
       "Shreya Ghoshal"
      ],
      "lyricists": [
@@ -9077,7 +9076,7 @@
     {
      "title": "Yeppa Maama Treatu?",
      "singers": [
-      "A. V. Pooja",
+      "Pooja Vaidyanath",
       "D. Imman",
       "Snigdha Chandra"
      ],
@@ -9196,7 +9195,7 @@
     {
      "title": "Thiruppugazh",
      "singers": [
-      "Vani Jayaram"
+      "Vani Jairam"
      ],
      "lyricists": [
       "Arunagirinathar"
@@ -9211,7 +9210,7 @@
       "Bela Shende"
      ],
      "lyricists": [
-      "Vaalee"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "10:29"
@@ -9227,7 +9226,7 @@
     "A. R. Murugadoss"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Samantha Ruth Prabhu",
     "Neil Nitin Mukesh",
     "Sathish"
@@ -9272,7 +9271,7 @@
     {
      "title": "Selfie Pulla",
      "singers": [
-      "Vijay",
+      "C. Joseph Vijay",
       "Sunidhi Chauhan"
      ],
      "lyricists": [
@@ -9419,7 +9418,7 @@
      "title": "Idhayam",
      "singers": [
       "Srinivas",
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -9488,7 +9487,7 @@
      "title": "Oh Nanba",
      "singers": [
       "S. P. Balasubrahmanyam",
-      "Aaryan Dinesh Kanagaratnam"
+      "Dinesh Kanagaratnam"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -9591,7 +9590,7 @@
       "Dhee"
      ],
      "lyricists": [
-      "Uma Devi K"
+      "Uma Devi"
      ],
      "musicDirectors": [],
      "length": "4:13"
@@ -9738,10 +9737,10 @@
    ],
    "actors": [
     "Abhinay Vaddi",
-    "Abbas Mirza",
+    "Abbas",
     "Suhasini Maniratnam",
     "Kevin McGowan",
-    "Bhama",
+    "Bhama Kurup",
     "Michael Lieber"
    ],
    "musicDirectors": [
@@ -9752,7 +9751,7 @@
      "title": "Narayana",
      "singers": [
       "Karthik Suresh",
-      "Vani Jayaram"
+      "Vani Jairam"
      ],
      "lyricists": [
       "Vaali"
@@ -9778,7 +9777,7 @@
       "P. Unnikrishnan"
      ],
      "lyricists": [
-      "Thirumalisai Alvar"
+      "Tirumalisai Alvar"
      ],
      "musicDirectors": [],
      "length": "3:38"
@@ -9787,7 +9786,7 @@
      "title": "Thuli Thuliyai",
      "singers": [
       "Ramesh Vinayakam",
-      "Kaushiki Chakrabarty"
+      "Kaushiki Chakraborty"
      ],
      "lyricists": [
       "Na. Muthukumar"
@@ -9831,7 +9830,7 @@
    "film": "Saivam",
    "year": 2014,
    "directors": [
-    "Vijay"
+    "A. L. Vijay"
    ],
    "actors": [
     "Nassar",
@@ -9856,8 +9855,8 @@
     {
      "title": "Kokkara Kozhi",
      "singers": [
-      "Chinna Ponnu",
-      "Gaana Bala",
+      "Chinnaponnu",
+      "Gana Bala",
       "Ashwitha",
       "Harish",
       "Aishwarya"
@@ -9908,15 +9907,15 @@
     "Nazriya Nazim"
    ],
    "musicDirectors": [
-    "Ghibran"
+    "Ghibran Vaibodha"
    ],
    "songs": [
     {
      "title": "Chillendra Chillendra",
      "singers": [
-      "Ghibran",
+      "Ghibran Vaibodha",
       "Sundar Narayana Rao",
-      "Kaushiki Chakrabarty",
+      "Kaushiki Chakraborty",
       "Munna Shaoukat Ali"
      ],
      "lyricists": [
@@ -9930,7 +9929,7 @@
      "title": "Enthaaraa Enthaaraa",
      "singers": [
       "Shadab Faridi",
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Karthik Netha"
@@ -10124,7 +10123,7 @@
      "singers": [
       "Shankar Mahadevan",
       "Sunidhi Chauhan",
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Vairamuthu"
@@ -10196,13 +10195,13 @@
    ],
    "actors": [
     "Dulquer Salmaan",
-    "Parvathy",
+    "Parvathy Thiruvothu",
     "Aparna Gopinath",
     "Nedumudi Venu",
     "Soubin Shahir"
    ],
    "musicDirectors": [
-    "Gopi Sunder"
+    "Gopi Sundar"
    ],
    "songs": [
     {
@@ -10265,7 +10264,7 @@
     {
      "title": "Pagada",
      "singers": [
-      "Shabir"
+      "Shabir Sulthan"
      ],
      "lyricists": [
       "Thamarai"
@@ -10287,7 +10286,7 @@
     {
      "title": "Maara & Paaru",
      "singers": [
-      "Ghibran"
+      "Ghibran Vaibodha"
      ],
      "lyricists": [
       "Thamarai"
@@ -10325,7 +10324,7 @@
    "film": "I",
    "year": 2015,
    "directors": [
-    "Shankar"
+    "S. Shankar"
    ],
    "actors": [
     "Vikram",
@@ -10399,7 +10398,7 @@
     {
      "title": "Ennodu Nee Irundhaal",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Sid Sriram"
      ],
      "lyricists": [
@@ -10455,7 +10454,7 @@
     {
      "title": "Isai Veesi",
      "singers": [
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Madhan Karky"
@@ -10602,7 +10601,7 @@
      "title": "Thappa Dhaan Theriyum",
      "singers": [
       "Dhanush",
-      "Chinna Ponnu",
+      "Chinnaponnu",
       "Magizhini Manimaaran"
      ],
      "lyricists": [
@@ -10625,14 +10624,14 @@
     "Suriya",
     "Nayanthara",
     "Pranitha Subhash",
-    "Premji",
-    "Parthiban",
-    "Samuthirakani",
+    "Premgi Amaren",
+    "R. Parthiban",
+    "P. Samuthirakani",
     "Riyaz Khan"
    ],
    "musicDirectors": [
     "Yuvan Shankar Raja",
-    "S. Thaman"
+    "Thaman S"
    ],
    "songs": [
     {
@@ -10653,7 +10652,7 @@
     {
      "title": "Naan Aval Illai",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Karthik"
      ],
      "lyricists": [
@@ -10719,7 +10718,7 @@
       "Viveka"
      ],
      "musicDirectors": [
-      "S. Thaman"
+      "Thaman S"
      ],
      "length": "03:28"
     },
@@ -10839,27 +10838,26 @@
     "Mani Ratnam"
    ],
    "actors": [
-    "Dulquer Salman",
+    "Dulquer Salmaan",
     "Nithya Menen"
    ],
    "musicDirectors": [
     "Songs",
     "A. R. Rahman",
     "Score",
-    "A. R. Rahman",
     "Qutub-E-Kripa"
    ],
    "songs": [
     {
      "title": "Kaara Attakkaaraa",
      "singers": [
-      "Aaryan Dinesh Kanagaratnam",
+      "Dinesh Kanagaratnam",
       "Darshana KT",
       "Shashaa Tirupati",
       "Aalap Raju"
      ],
      "lyricists": [
-      "Aaryan Dinesh Kanagaratnam",
+      "Dinesh Kanagaratnam",
       "A. R. Rahman",
       "Mani Ratnam"
      ],
@@ -10893,7 +10891,7 @@
      "title": "Mental Manadhil",
      "singers": [
       "A. R. Rahman",
-      "Aalaap Raju",
+      "Aalap Raju",
       "Jonita Gandhi"
      ],
      "lyricists": [
@@ -10977,7 +10975,7 @@
     "Vishal",
     "Kajal Aggarwal",
     "Soori",
-    "Samuthirakani"
+    "P. Samuthirakani"
    ],
    "musicDirectors": [
     "D. Imman"
@@ -11008,7 +11006,7 @@
     {
      "title": "Naa Soodana Mogini",
      "singers": [
-      "Jyoti Nooran"
+      "Nooran Sisters"
      ],
      "lyricists": [
       "Vairamuthu",
@@ -11079,10 +11077,10 @@
     "Gautami",
     "Nivetha Thomas",
     "Esther Anil",
-    "Asha Sarath"
+    "Asha Sharath"
    ],
    "musicDirectors": [
-    "Ghibran"
+    "Ghibran Vaibodha"
    ],
    "songs": [
     {
@@ -11322,7 +11320,7 @@
     {
      "title": "Aasai Peraasai",
      "singers": [
-      "Jayam Ravi"
+      "Ravi Mohan"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -11350,7 +11348,7 @@
     "Nassar"
    ],
    "musicDirectors": [
-    "Ghibran"
+    "Ghibran Vaibodha"
    ],
    "songs": [
     {
@@ -11397,7 +11395,7 @@
       "Yazin Nizar",
       "Ranjith",
       "T. S. Ayyappan",
-      "Ghibran"
+      "Ghibran Vaibodha"
      ],
      "lyricists": [
       "Kamal Hassan"
@@ -11597,7 +11595,7 @@
      "title": "Adhaaru Adhaaru",
      "singers": [
       "Vijay Prakash",
-      "Gaana Bala"
+      "Gana Bala"
      ],
      "lyricists": [
       "Vignesh Shivan"
@@ -11622,7 +11620,7 @@
     {
      "title": "Idhayathai Yedho Ondru",
      "singers": [
-      "Chinmayi"
+      "Chinmayi Sripada"
      ],
      "lyricists": [
       "Thamarai"
@@ -11642,7 +11640,7 @@
    ],
    "actors": [
     "Suriya",
-    "Samantha",
+    "Samantha Ruth Prabhu",
     "Nithya Menen"
    ],
    "musicDirectors": [
@@ -11824,7 +11822,7 @@
    "film": "Aruvi",
    "year": 2016,
    "directors": [
-    "Arun Prabu Purushothaman"
+    "Arun Prabu"
    ],
    "actors": [
     "Aditi Balan",
@@ -11841,7 +11839,7 @@
      "singers": [
       "Vedanth Bharadwaj",
       "Praniti",
-      "Bindhumalini Narayanaswamy"
+      "Bindhumalini"
      ],
      "lyricists": [
       "Kutti Revathi"
@@ -11867,7 +11865,7 @@
      ],
      "lyricists": [
       "Kutti Revathi",
-      "Arun Prabu Purushothaman"
+      "Arun Prabu"
      ],
      "musicDirectors": [],
      "length": "4:15"
@@ -12329,7 +12327,7 @@
     "Rajinikanth",
     "Radhika Apte",
     "Winston Chao",
-    "Dhansika"
+    "Sai Dhanshika"
    ],
    "musicDirectors": [
     "Santhosh Narayanan"
@@ -12359,7 +12357,7 @@
       "Shweta Mohan"
      ],
      "lyricists": [
-      "Uma Devi K"
+      "Uma Devi"
      ],
      "musicDirectors": [],
      "length": "4:35"
@@ -13026,7 +13024,7 @@
     "Rajkiran",
     "Keerthy Suresh",
     "Soori",
-    "Samuthirakani",
+    "P. Samuthirakani",
     "Achyuth Kumar"
    ],
    "musicDirectors": [
@@ -13085,7 +13083,7 @@
      "title": "Yennamma Ippadi Panreengalema",
      "singers": [
       "D. Imman",
-      "Aaryan Dinesh Kanagaratnam"
+      "Dinesh Kanagaratnam"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -13426,8 +13424,8 @@
     "Atlee"
    ],
    "actors": [
-    "Vijay",
-    "Samantha Ruth",
+    "C. Joseph Vijay",
+    "Samantha Ruth Prabhu",
     "Amy Jackson"
    ],
    "musicDirectors": [
@@ -13474,7 +13472,7 @@
     {
      "title": "Chella Kutti",
      "singers": [
-      "Vijay",
+      "C. Joseph Vijay",
       "Neeti Mohan"
      ],
      "lyricists": [
@@ -13724,7 +13722,7 @@
       "Sooraj Santhosh"
      ],
      "lyricists": [
-      "Mahakavi Subramaniya Bharatiyar"
+      "Subramania Bharati"
      ],
      "musicDirectors": [
       "Masala Coffee"
@@ -13749,7 +13747,7 @@
      "title": "Kaantha",
      "singers": [
       "Sooraj Santhosh",
-      "Varun Sunil"
+      "Masala Coffee"
      ],
      "lyricists": [
       "GKB"
@@ -13816,7 +13814,7 @@
     "Rajesh Balachandiran"
    ],
    "musicDirectors": [
-    "Ghibran"
+    "Ghibran Vaibodha"
    ],
    "songs": [
     {
@@ -13888,7 +13886,7 @@
      ],
      "lyricists": [
       "Karthik Netha",
-      "Ghibran"
+      "Ghibran Vaibodha"
      ],
      "musicDirectors": [],
      "length": "4:40"
@@ -13907,7 +13905,7 @@
     {
      "title": "Vaadi Vaadi",
      "singers": [
-      "Ghibran"
+      "Ghibran Vaibodha"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -13985,7 +13983,6 @@
     "Songs",
     "A. R. Rahman",
     "Score",
-    "A. R. Rahman",
     "Qutub-E-Kripa"
    ],
    "songs": [
@@ -14067,7 +14064,7 @@
     "Atlee"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "S. J. Suryah",
     "Kajal Aggarwal",
     "Samantha Ruth Prabhu",
@@ -14118,7 +14115,7 @@
     {
      "title": "Mersal Arasan",
      "singers": [
-      "G.V. Prakash Kumar",
+      "G. V. Prakash Kumar",
       "Naresh Iyer",
       "Sharanya Srinivas",
       "T. G. Vishwaprasad"
@@ -14140,7 +14137,7 @@
     "Rathna Kumar"
    ],
    "actors": [
-    "Vaibhav",
+    "Vaibhav Reddy",
     "Priya Bhavani Shankar",
     "Vivek Prasanna",
     "Indhuja Ravichandran"
@@ -14257,7 +14254,7 @@
    ],
    "actors": [
     "Mahesh Babu",
-    "S.J. Suryah",
+    "S. J. Suryah",
     "Rakul Preet Singh"
    ],
    "musicDirectors": [
@@ -14338,7 +14335,7 @@
     "Abhimanyu Singh"
    ],
    "musicDirectors": [
-    "Ghibran"
+    "Ghibran Vaibodha"
    ],
    "songs": [
     {
@@ -14347,7 +14344,7 @@
       "Ranjith"
      ],
      "lyricists": [
-      "Ghibran",
+      "Ghibran Vaibodha",
       "Ranjith"
      ],
      "musicDirectors": [],
@@ -14654,13 +14651,13 @@
    "film": "Vikram Vedha",
    "year": 2017,
    "directors": [
-    "Pushkar–Gayathri"
+    "Pushkar–Gayatri"
    ],
    "actors": [
     "R. Madhavan",
     "Vijay Sethupathi",
-    "Shraddha",
-    "Varalaxmi",
+    "Shraddha Srinath",
+    "Varalaxmi Sarathkumar",
     "Kathir"
    ],
    "musicDirectors": [
@@ -14962,10 +14959,10 @@
     {
      "title": "Anthaathi",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Govind Vasantha",
       "Bhadra Rajin",
-      "M. Nassar"
+      "Nassar"
      ],
      "lyricists": [
       "Uma Devi"
@@ -15151,7 +15148,7 @@
     {
      "title": "Oohale",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Govind Vasantha"
      ],
      "lyricists": [
@@ -15163,7 +15160,7 @@
     {
      "title": "Komma Veedi",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Govind Vasantha"
      ],
      "lyricists": [
@@ -15175,7 +15172,7 @@
     {
      "title": "Anantham",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Govind Vasantha"
      ],
      "lyricists": [
@@ -15192,7 +15189,7 @@
    "film": "2.0",
    "year": 2018,
    "directors": [
-    "Shankar"
+    "S. Shankar"
    ],
    "actors": [
     "Rajinikanth",
@@ -15357,7 +15354,7 @@
     "Mani Ratnam"
    ],
    "actors": [
-    "Arvind Swami",
+    "Arvind Swamy",
     "Silambarasan",
     "Arun Vijay",
     "Vijay Sethupathi"
@@ -15366,8 +15363,7 @@
     "Score",
     "A. R. Rahman",
     "Qutub-E-Kripa",
-    "Songs",
-    "A. R. Rahman"
+    "Songs"
    ],
    "songs": [
     {
@@ -15433,7 +15429,7 @@
     {
      "title": "Madura Marikozhundhae",
      "singers": [
-      "Swetha Mohan",
+      "Shweta Mohan",
       "Anuradha Sriram",
       "Aparna Narayanan",
       "Madhumitha Shankar"
@@ -15469,7 +15465,7 @@
    "actors": [
     "Rajinikanth",
     "Nana Patekar",
-    "Samuthirakani",
+    "P. Samuthirakani",
     "Easwari Rao",
     "Huma Qureshi",
     "Pankaj Tripathi"
@@ -16006,7 +16002,7 @@
     "A. R. Murugadoss"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Keerthy Suresh",
     "Varalaxmi Sarathkumar",
     "Radha Ravi"
@@ -16015,7 +16011,6 @@
     "Songs",
     "A. R. Rahman",
     "Score",
-    "A. R. Rahman",
     "Qutub-E-Kripa"
    ],
    "songs": [
@@ -16177,7 +16172,7 @@
    ],
    "musicDirectors": [
     "Songs",
-    "Ajay–Atul",
+    "Ajay-Atul",
     "Score",
     "John Stewart Eduri"
    ],
@@ -16304,7 +16299,7 @@
     {
      "title": "Idhu Enna Maayamo",
      "singers": [
-      "Ranjith Govind"
+      "Ranjith"
      ],
      "lyricists": [
       "Sivakarthikeyan"
@@ -16381,7 +16376,7 @@
     {
      "title": "Yen Minukki",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Teejay Arunasalam"
      ],
      "lyricists": [
@@ -16446,7 +16441,7 @@
     "Atlee"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Nayanthara",
     "Jackie Shroff",
     "Kathir",
@@ -16456,7 +16451,6 @@
     "Songs",
     "A. R. Rahman",
     "Score",
-    "A. R. Rahman",
     "Qutub-E-Kripa"
    ],
    "songs": [
@@ -16475,7 +16469,7 @@
     {
      "title": "Verithanam",
      "singers": [
-      "Vijay"
+      "C. Joseph Vijay"
      ],
      "lyricists": [
       "Vivek"
@@ -16498,7 +16492,7 @@
     {
      "title": "Maatharey",
      "singers": [
-      "Chinmayi",
+      "Chinmayi Sripada",
       "Madhura Dhara Talluri",
       "Sireesha",
       "Akshara",
@@ -16583,7 +16577,7 @@
      "singers": [
       "Naresh Iyer",
       "Velmurugan",
-      "Malavika Manoj",
+      "Mali",
       "Deepika"
      ],
      "lyricists": [
@@ -16641,7 +16635,7 @@
    "actors": [
     "Hiphop Tamizha",
     "Anagha",
-    "Karu Pazhaniappan",
+    "Karu Palaniappan",
     "Harish Uthaman"
    ],
    "musicDirectors": [
@@ -16727,7 +16721,7 @@
      "title": "Vengamavan",
      "singers": [
       "Hiphop Tamizha",
-      "Chinna Ponnu"
+      "Chinnaponnu"
      ],
      "lyricists": [
       "Hiphop Tamizha"
@@ -16783,9 +16777,9 @@
     "Rajinikanth",
     "Vijay Sethupathi",
     "Nawazuddin Siddiqui",
-    "Sasikumar",
+    "M. Sasikumar",
     "Simran",
-    "Trisha"
+    "Trisha Krishnan"
    ],
    "musicDirectors": [
     "Anirudh Ravichander"
@@ -16852,7 +16846,7 @@
       "Anthony Daasan"
      ],
      "lyricists": [
-      "Ku. Karthik"
+      "Ku Karthik"
      ],
      "musicDirectors": [],
      "length": "2:54"
@@ -17016,7 +17010,7 @@
     "Samantha Ruth Prabhu",
     "Ramya Krishnan",
     "Mysskin",
-    "Gayathrie",
+    "Gayathrie Shankar",
     "Ashwanth Ashokkumar",
     "Bagavathi Perumal"
    ],
@@ -17573,7 +17567,7 @@
    ],
    "actors": [
     "Rajinikanth",
-    "Khushbu",
+    "Khushbu Sundar",
     "Meena",
     "Nayanthara",
     "Keerthy Suresh",
@@ -18045,7 +18039,7 @@
    "actors": [
     "Suriya",
     "Lijomol Jose",
-    "Manikandan"
+    "K. Manikandan"
    ],
    "musicDirectors": [
     "Sean Roldan"
@@ -18682,7 +18676,7 @@
     "Lokesh Kanagaraj"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Vijay Sethupathi",
     "Malavika Mohanan"
    ],
@@ -18716,7 +18710,7 @@
     {
      "title": "Kutti Story",
      "singers": [
-      "Vijay",
+      "C. Joseph Vijay",
       "Anirudh Ravichander"
      ],
      "lyricists": [
@@ -18915,14 +18909,13 @@
    "musicDirectors": [
     "Songs",
     "Shaan Rahman",
-    "Sushin Shyam",
     "Sushin Shyam"
    ],
    "songs": [
     {
      "title": "Thee Minnal",
      "singers": [
-      "Santhosh Hariharan"
+      "Super Singer 3"
      ],
      "lyricists": [
       "Rajesh Malarvannan"
@@ -19110,7 +19103,7 @@
     "Nelson Dilipkumar"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Pooja Hegde"
    ],
    "musicDirectors": [
@@ -19132,10 +19125,10 @@
     {
      "title": "Jolly O Gymkhana",
      "singers": [
-      "Vijay"
+      "C. Joseph Vijay"
      ],
      "lyricists": [
-      "Ku. Karthik"
+      "Ku Karthik"
      ],
      "musicDirectors": [],
      "length": "3:28"
@@ -19381,7 +19374,7 @@
    "film": "Etharkkum Thunindhavan",
    "year": 2022,
    "directors": [
-    "Pandiraj"
+    "Pandiraaj"
    ],
    "actors": [
     "Suriya",
@@ -19501,7 +19494,7 @@
    ],
    "actors": [
     "Vijay Sethupathi",
-    "Gayathrie",
+    "Gayathrie Shankar",
     "Guru Somasundaram",
     "Shaji Chen",
     "Jewel Mary",
@@ -19588,7 +19581,7 @@
    ],
    "actors": [
     "Vikram",
-    "Aishwarya Rai Bachchan",
+    "Aishwarya Rai",
     "Karthi",
     "Ravi Mohan",
     "Trisha Krishnan",
@@ -19606,7 +19599,7 @@
      "title": "Ponni Nadhi",
      "singers": [
       "A. R. Rahman",
-      "A. R. Raihanah",
+      "A. R. Reihana",
       "Bamba Bakya"
      ],
      "lyricists": [
@@ -19692,7 +19685,7 @@
      "singers": [
       "Pavithra Chari",
       "Vrusha Balu",
-      "Padmaja Sreenivasan",
+      "Super Singer 10",
       "Aravind Srinivas",
       "Sridhar Sena",
       "Manoj Krishna"
@@ -19793,7 +19786,7 @@
     {
      "title": "Ranjithame",
      "singers": [
-      "Vijay",
+      "C. Joseph Vijay",
       "M. M. Manasi"
      ],
      "lyricists": [
@@ -20030,7 +20023,7 @@
     "Karthi",
     "Raashii Khanna",
     "Rajisha Vijayan",
-    "Chunky Pandey",
+    "Chunky Panday",
     "Laila"
    ],
    "musicDirectors": [
@@ -21630,7 +21623,7 @@
    "actors": [
     "Dulquer Salmaan",
     "Shabeer Kallarakkal",
-    "Aishwarya Lakshmi",
+    "Aishwarya Lekshmi",
     "Prasanna",
     "Gokul Suresh",
     "Nyla Usha",
@@ -21640,8 +21633,7 @@
     "Songs",
     "Jakes Bejoy",
     "Shaan Rahman",
-    "Score",
-    "Jakes Bejoy"
+    "Score"
    ],
    "songs": [
     {
@@ -22134,10 +22126,10 @@
     "Lokesh Kanagaraj"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Sanjay Dutt",
-    "Arjun",
-    "Trisha"
+    "Arjun Sarja",
+    "Trisha Krishnan"
    ],
    "musicDirectors": [
     "Anirudh Ravichander"
@@ -22158,7 +22150,7 @@
     {
      "title": "Naa Ready",
      "singers": [
-      "Vijay",
+      "C. Joseph Vijay",
       "Anirudh Ravichander",
       "Asal Kolaar"
      ],
@@ -22641,8 +22633,7 @@
     "Songs",
     "Vishal–Shekhar",
     "Score",
-    "Sanchit Balhara",
-    "Ankit Balhara"
+    "Sanchit Balhara and Ankit Balhara"
    ],
    "songs": [
     {
@@ -22656,7 +22647,7 @@
       "Vishal Dadlani"
      ],
      "musicDirectors": [
-      "VishalShekhar"
+      "Vishal{{endash}}Shekhar"
      ],
      "length": "4:18"
     },
@@ -22684,8 +22675,7 @@
       "Kit Bee"
      ],
      "musicDirectors": [
-      "Sanchit",
-      "Ankit Balhara"
+      "Sanchit Balhara and Ankit Balhara"
      ],
      "length": "2:37"
     },
@@ -22891,12 +22881,12 @@
    ],
    "actors": [
     "Vikram",
-    "Aishwarya Rai Bachchan",
+    "Aishwarya Rai",
     "Ravi Mohan",
     "Karthi",
     "Trisha Krishnan",
     "Prabhu",
-    "Sarath Kumar",
+    "R. Sarathkumar",
     "Vikram Prabhu",
     "Aishwarya Lekshmi",
     "Sobhita Dhulipala",
@@ -23038,7 +23028,7 @@
       "Nabyla Maan"
      ],
      "lyricists": [
-      "Rafeeq Ahmed"
+      "Rafeeq Ahamed"
      ],
      "musicDirectors": [],
      "length": "3:05"
@@ -23447,7 +23437,7 @@
    "film": "Indian 2",
    "year": 2024,
    "directors": [
-    "Shankar"
+    "S. Shankar"
    ],
    "actors": [
     "Kamal Haasan",
@@ -23476,7 +23466,7 @@
     {
      "title": "Calendar Song",
      "singers": [
-      "SUVI",
+      "SuVi",
       "Aishwarya Suresh"
      ],
      "lyricists": [
@@ -24016,7 +24006,7 @@
      "singers": [
       "Devi Sri Prasad",
       "Arunraja Kamaraj",
-      "Vedala Hemachandra",
+      "Hemachandra",
       "Vishal Dadlani"
      ],
      "lyricists": [
@@ -24196,7 +24186,7 @@
     {
      "title": "Maakelara Vichaaramu",
      "singers": [
-      "Bombay Jayashree"
+      "Bombay Jayashri"
      ],
      "lyricists": [
       "Tyagaraja"
@@ -24217,7 +24207,7 @@
     "Venkat Prabhu"
    ],
    "actors": [
-    "Vijay",
+    "C. Joseph Vijay",
     "Prashanth",
     "Prabhu Deva",
     "Mohan",
@@ -24231,7 +24221,7 @@
     {
      "title": "Whistle Podu",
      "singers": [
-      "Vijay",
+      "C. Joseph Vijay",
       "Yuvan Shankar Raja"
      ],
      "lyricists": [
@@ -24571,7 +24561,7 @@
     "R. Sarathkumar",
     "Devayani",
     "Meetha Raghunath",
-    "Chaithra"
+    "Chaithra J Achar"
    ],
    "musicDirectors": [
     "Amrit Ramnath"
@@ -24641,7 +24631,7 @@
     {
      "title": "Kaanalin Mele",
      "singers": [
-      "Chinmayi Sripaada",
+      "Chinmayi Sripada",
       "Sooraj Santhosh"
      ],
      "lyricists": [
@@ -24713,7 +24703,7 @@
       "Anjali Sivaraman"
      ],
      "lyricists": [
-      "Varsha Bharath"
+      "Bad Girl"
      ],
      "musicDirectors": [],
      "length": "1:43"
@@ -24790,7 +24780,7 @@
    "actors": [
     "Dhruv Vikram",
     "Pasupathy",
-    "Ameer",
+    "Ameer Sultan",
     "Lal",
     "Anupama Parameswaran",
     "Rajisha Vijayan"
@@ -24831,7 +24821,7 @@
     {
      "title": "Thennaadu",
      "singers": [
-      "Sathyan Mahalingam"
+      "Sathyan"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -25359,7 +25349,7 @@
     "Anup Bhandari"
    ],
    "musicDirectors": [
-    "B. Ajaneesh Lokanath"
+    "B. Ajaneesh Loknath"
    ],
    "songs": [
     {
@@ -26822,10 +26812,10 @@
     {
      "title": "Odatha Da Odatha Da",
      "singers": [
-      "ADK"
+      "Dinesh Kanagaratnam"
      ],
      "lyricists": [
-      "ADK"
+      "Dinesh Kanagaratnam"
      ],
      "musicDirectors": [],
      "length": "2:45"
@@ -26969,7 +26959,7 @@
     "Priyalaya"
    ],
    "musicDirectors": [
-    "Sam C.S"
+    "Sam C. S."
    ],
    "songs": [
     {
@@ -26992,7 +26982,7 @@
      ],
      "lyricists": [
       "Vyasdeva",
-      "Jayadeva Goswami"
+      "Jayadeva"
      ],
      "musicDirectors": [],
      "length": "3:21"
@@ -27056,7 +27046,7 @@
      ],
      "lyricists": [
       "Vyasdeva",
-      "Jayadeva Goswami"
+      "Jayadeva"
      ],
      "musicDirectors": [],
      "length": "3:18"
@@ -27208,8 +27198,7 @@
     "Songs",
     "Pritam",
     "Score",
-    "Sanchit Balhara",
-    "Ankit Balhara"
+    "Sanchit Balhara and Ankit Balhara"
    ],
    "songs": [
     {
@@ -27506,7 +27495,7 @@
    "actors": [
     "Ravi Teja",
     "Priya Bhavani Shankar",
-    "Sai Kumar",
+    "P. Sai Kumar",
     "Baby Nakshathra"
    ],
    "musicDirectors": [
@@ -27582,7 +27571,7 @@
    "actors": [
     "Suriya",
     "RJ Balaji",
-    "Trisha"
+    "Trisha Krishnan"
    ],
    "musicDirectors": [
     "Sai Abhyankkar"
@@ -27603,7 +27592,7 @@
     {
      "title": "Naanga Naalu Peru",
      "singers": [
-      "Silambarasan TR",
+      "Silambarasan",
       "Sai Abhyankkar",
       "Asal Kolaar"
      ],
