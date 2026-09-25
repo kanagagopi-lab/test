@@ -1,9 +1,18 @@
 {
  "files": [
   "seed.json",
+  "wikipedia/1930s.json",
+  "wikipedia/1940s.json",
+  "wikipedia/1950s.json",
+  "wikipedia/1960s.json",
+  "wikipedia/1970s.json",
+  "wikipedia/1980s.json",
   "wikipedia/1990s.json",
+  "wikipedia/2000s.json",
+  "wikipedia/2010s.json",
+  "wikipedia/2020s.json",
   "wikipedia/category-tamil-film-soundtracks.json"
  ],
- "films": 1005,
- "songs": 7079
+ "films": 5301,
+ "songs": 35905
 }

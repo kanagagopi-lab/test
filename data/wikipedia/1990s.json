@@ -231,8 +231,7 @@
     {
      "title": "Valibathin Vizhiyile (Lady)",
      "singers": [
-      "Anuradha",
-      "Chorus"
+      "Anuradha"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -241,8 +240,7 @@
     {
      "title": "Valibathin Vizhiyile (Men)",
      "singers": [
-      "S. Giridharan",
-      "Chorus"
+      "S. Giridharan"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -920,10 +918,9 @@
      "length": ""
     },
     {
-     "title": "Pattu Pu Pu Pu\" (Not in the movie, not held)",
+     "title": "Pattu Pu Pu Pu (Not in the movie, not held)",
      "singers": [
-      "S. Janaki",
-      "chorus"
+      "S. Janaki"
      ],
      "lyricists": [
       "04:25"
@@ -1019,7 +1016,7 @@
      "length": "02:16"
     },
     {
-     "title": "Pappa Paadum Paattu\" – Reprise",
+     "title": "Pappa Paadum Paattu – Reprise",
      "singers": [
       "M. S. Rajeswari"
      ],
@@ -1028,7 +1025,7 @@
      "length": "01:43"
     },
     {
-     "title": "Papa Paadum Paattu\" – reprise 2",
+     "title": "Papa Paadum Paattu – reprise 2",
      "singers": [
       "M. S. Rajeswari"
      ],
@@ -2235,8 +2232,7 @@
     {
      "title": "Kunguma Nayagi",
      "singers": [
-      "K. S. Chitra",
-      "chorus"
+      "K. S. Chitra"
      ],
      "lyricists": [
       "Vaali"
@@ -2277,8 +2273,7 @@
     {
      "title": "Poojai Neram",
      "singers": [
-      "K. S. Chitra",
-      "chorus"
+      "K. S. Chitra"
      ],
      "lyricists": [
       "Vaali"
@@ -3145,7 +3140,7 @@
    ],
    "songs": [
     {
-     "title": "Neenga Illama\" (Title song)",
+     "title": "Neenga Illama (Title song)",
      "singers": [
       "Gangai Amaran"
      ],
@@ -3252,7 +3247,7 @@
      "length": "04:47"
     },
     {
-     "title": "Raathiri Mella\" 1",
+     "title": "Raathiri Mella 1",
      "singers": [
       "S. P. Balasubrahmanyam",
       "K. S. Chithra"
@@ -3264,7 +3259,7 @@
      "length": "05:14"
     },
     {
-     "title": "Raathiri Mella\" 2",
+     "title": "Raathiri Mella 2",
      "singers": [
       "Malaysia Vasudevan",
       "K. S. Chithra"
@@ -3456,8 +3451,7 @@
      "title": "Paalam Paalam",
      "singers": [
       "Mano",
-      "Krishnaraj",
-      "Chorus"
+      "Krishnaraj"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -3466,8 +3460,7 @@
     {
      "title": "Aatchi Panna Ayyakannu",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -3868,8 +3861,7 @@
      "title": "Muthu Samba",
      "singers": [
       "Malaysia Vasudevan",
-      "Uma Ramanan",
-      "Chorus"
+      "Uma Ramanan"
      ],
      "lyricists": [
       "Muthulingam"
@@ -4419,9 +4411,7 @@
     },
     {
      "title": "Ladies Special",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [
       "Ilaiyaraaja"
      ],
@@ -4441,9 +4431,7 @@
     },
     {
      "title": "Varuga Varuga",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [
       "Ilaiyaraaja"
      ],
@@ -4451,7 +4439,7 @@
      "length": "0:21"
     },
     {
-     "title": "Yaaradi\" (Female)",
+     "title": "Yaaradi (Female)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -4462,7 +4450,7 @@
      "length": ""
     },
     {
-     "title": "Yaaradi\" (Male)",
+     "title": "Yaaradi (Male)",
      "singers": [
       "Ilaiyaraaja"
      ],
@@ -4622,7 +4610,7 @@
    ],
    "songs": [
     {
-     "title": "Solli Koduthal\" (Happy)",
+     "title": "Solli Koduthal (Happy)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -4633,7 +4621,7 @@
      "length": ""
     },
     {
-     "title": "Solli Koduthal\" (Sad)",
+     "title": "Solli Koduthal (Sad)",
      "singers": [
       "K. S. Chithra",
       "Swarnalatha"
@@ -5321,7 +5309,7 @@
    ],
    "songs": [
     {
-     "title": "Oh Thendrale Oru Pattu Paadu\" (female)",
+     "title": "Oh Thendrale Oru Pattu Paadu (female)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -5330,7 +5318,7 @@
      "length": "5:54"
     },
     {
-     "title": "Oh Thendrale Oru Pattu Paadu\" (male)",
+     "title": "Oh Thendrale Oru Pattu Paadu (male)",
      "singers": [
       "K. J. Yesudas"
      ],
@@ -5885,7 +5873,7 @@
    ],
    "songs": [
     {
-     "title": "Aadi Paadum Azhagana\" (duet)",
+     "title": "Aadi Paadum Azhagana (duet)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "S. P. Sailaja"
@@ -5895,7 +5883,7 @@
      "length": "4:30"
     },
     {
-     "title": "Aadi Paadum Azhagana\" (solo)",
+     "title": "Aadi Paadum Azhagana (solo)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -6227,7 +6215,7 @@
      "length": "04:31"
     },
     {
-     "title": "Dhinakku Dhinakku\" (Happy)",
+     "title": "Dhinakku Dhinakku (Happy)",
      "singers": [
       "S. Janaki",
       "S. P. Sailaja"
@@ -6238,9 +6226,7 @@
     },
     {
      "title": "Maarelo Mari",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "02:17"
@@ -6264,7 +6250,7 @@
      "length": "04:50"
     },
     {
-     "title": "Dhinakku Dhinakku\" (Pathos)",
+     "title": "Dhinakku Dhinakku (Pathos)",
      "singers": [
       "Ilaiyaraaja",
       "S. Janaki",
@@ -6681,7 +6667,7 @@
      "length": "04:51"
     },
     {
-     "title": "Thangachi\" (Happy)",
+     "title": "Thangachi (Happy)",
      "singers": [
       "Mano",
       "K. S. Chithra"
@@ -6818,7 +6804,7 @@
      "length": "4:26"
     },
     {
-     "title": "Othayadi Paadhayile\" (male)",
+     "title": "Othayadi Paadhayile (male)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -6845,7 +6831,7 @@
      "length": "0:59"
     },
     {
-     "title": "Othayadi Paadhayile\" (female)",
+     "title": "Othayadi Paadhayile (female)",
      "singers": [
       "Jikki"
      ],
@@ -6863,7 +6849,7 @@
      "length": "1:13"
     },
     {
-     "title": "Othayadi Paadhayile\" (reprised)",
+     "title": "Othayadi Paadhayile (reprised)",
      "singers": [
       "Malaysia Vasudevan"
      ],
@@ -6881,7 +6867,7 @@
      "length": "0:59"
     },
     {
-     "title": "Othayadi Paadhayile\" (duet)",
+     "title": "Othayadi Paadhayile (duet)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "Jikki"
@@ -7131,7 +7117,7 @@
    ],
    "songs": [
     {
-     "title": "Paaduthu Paaduthu\" (solo)",
+     "title": "Paaduthu Paaduthu (solo)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -7140,7 +7126,7 @@
      "length": "1:28"
     },
     {
-     "title": "Paaduthu Paaduthu\" (duet)",
+     "title": "Paaduthu Paaduthu (duet)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "K. S. Chithra"
@@ -7963,7 +7949,7 @@
    ],
    "songs": [
     {
-     "title": "Kuyil Paattu\" (happy)",
+     "title": "Kuyil Paattu (happy)",
      "singers": [
       "Swarnalatha"
      ],
@@ -7974,7 +7960,7 @@
      "length": "4:54"
     },
     {
-     "title": "Kuyil Paattu\" (sad)",
+     "title": "Kuyil Paattu (sad)",
      "singers": [
       "Swarnalatha"
      ],
@@ -7985,7 +7971,7 @@
      "length": ""
     },
     {
-     "title": "Kuyil Paattu\" (sad)",
+     "title": "Kuyil Paattu (sad)",
      "singers": [
       "Swarnalatha",
       "Ilaiyaraaja"
@@ -8452,9 +8438,7 @@
     },
     {
      "title": "Oyilala",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "1:57"
@@ -8527,8 +8511,7 @@
     {
      "title": "Vaa Nee Anbe",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "Chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
       "Muthulingam"
@@ -9516,7 +9499,7 @@
      "length": "4:02"
     },
     {
-     "title": "Aagayam Kondadum\" (Happy)",
+     "title": "Aagayam Kondadum (Happy)",
      "singers": [
       "K. J. Yesudas",
       "P. Susheela"
@@ -9526,7 +9509,7 @@
      "length": "5:39"
     },
     {
-     "title": "Aagayam Kondadum\" (Sad)",
+     "title": "Aagayam Kondadum (Sad)",
      "singers": [
       "K. J. Yesudas"
      ],
@@ -9711,8 +9694,7 @@
     {
      "title": "Raja Kaiyil Rajangam Nirantharam",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
       "Vaali"
@@ -9747,8 +9729,7 @@
     {
      "title": "Machchaanai Oram Kattu",
      "singers": [
-      "S. P. Sailaja",
-      "chorus"
+      "S. P. Sailaja"
      ],
      "lyricists": [
       "Vaali"
@@ -9759,8 +9740,7 @@
     {
      "title": "Maavaatta Naanum Varattaa",
      "singers": [
-      "Malaysia Vasudevan",
-      "chorus"
+      "Malaysia Vasudevan"
      ],
      "lyricists": [
       "Vaali"
@@ -9771,8 +9751,7 @@
     {
      "title": "Lailaa...Lailaa...",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
       "Vaali"
@@ -10412,7 +10391,7 @@
    ],
    "songs": [
     {
-     "title": "Aagaya Thottil Katti\" (Lady)",
+     "title": "Aagaya Thottil Katti (Lady)",
      "singers": [
       "P. Susheela"
      ],
@@ -10423,7 +10402,7 @@
      "length": ""
     },
     {
-     "title": "Aagaya Thottil Katti\" (Men)",
+     "title": "Aagaya Thottil Katti (Men)",
      "singers": [
       "S. A. Rajkumar"
      ],
@@ -10985,8 +10964,7 @@
     {
      "title": "Mamaa Mamaa",
      "singers": [
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -10995,8 +10973,7 @@
     {
      "title": "Mukkona Sakkarathil",
      "singers": [
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -11114,8 +11091,7 @@
      "singers": [
       "Malaysia Vasudevan",
       "K. S. Chithra",
-      "Sai Baba",
-      "Chorus"
+      "Sai Baba"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -11402,15 +11378,13 @@
     },
     {
      "title": "Sangeethame Sannedi",
-     "singers": [
-      "Instrumental"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "4:28"
     },
     {
-     "title": "Unnai Kanda Pinpu\" (female)",
+     "title": "Unnai Kanda Pinpu (female)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -11419,7 +11393,7 @@
      "length": "3:01"
     },
     {
-     "title": "Unnai Kanda Pinpu\" (male)",
+     "title": "Unnai Kanda Pinpu (male)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -11428,7 +11402,7 @@
      "length": "2:28"
     },
     {
-     "title": "Vannam Konda\" (solo)",
+     "title": "Vannam Konda (solo)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -11437,7 +11411,7 @@
      "length": "5:05"
     },
     {
-     "title": "Vannam Konda\" (duet)",
+     "title": "Vannam Konda (duet)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "S. P. Sailaja"
@@ -11447,10 +11421,8 @@
      "length": "1:53"
     },
     {
-     "title": "Vannam Konda\" (chorus)",
-     "singers": [
-      "Chorus"
-     ],
+     "title": "Vannam Konda (chorus)",
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "0:43"
@@ -11706,8 +11678,7 @@
      "title": "Margazhithan",
      "singers": [
       "S. P. Balasubrahmanyam",
-      "Swarnalatha",
-      "Chorus"
+      "Swarnalatha"
      ],
      "lyricists": [
       "Vaalee"
@@ -11867,9 +11838,7 @@
     },
     {
      "title": "Maamane Paaru",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [
       "Kamakodiyan"
      ],
@@ -11904,7 +11873,7 @@
      "length": "5:02"
     },
     {
-     "title": "Kalyaana Ponne\" (happy)",
+     "title": "Kalyaana Ponne (happy)",
      "singers": [
       "Mano"
      ],
@@ -11913,7 +11882,7 @@
      "length": "4:15"
     },
     {
-     "title": "Kalyaana Ponne\" (sad)",
+     "title": "Kalyaana Ponne (sad)",
      "singers": [
       "Prabhakar"
      ],
@@ -12757,8 +12726,7 @@
     {
      "title": "Aathadi Chinna Ponnu",
      "singers": [
-      "Minmini",
-      "Chorus"
+      "Minmini"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -12767,15 +12735,14 @@
     {
      "title": "Avasarama Romba",
      "singers": [
-      "S. P. Sailaja",
-      "Chorus"
+      "S. P. Sailaja"
      ],
      "lyricists": [],
      "musicDirectors": [],
      "length": "4:18"
     },
     {
-     "title": "Ezhai Veetil\" (female)",
+     "title": "Ezhai Veetil (female)",
      "singers": [
       "Vani Jairam"
      ],
@@ -12784,7 +12751,7 @@
      "length": "4:24"
     },
     {
-     "title": "Ezhai Veetil\" (male)",
+     "title": "Ezhai Veetil (male)",
      "singers": [
       "Mano"
      ],
@@ -12815,8 +12782,7 @@
     {
      "title": "Naam Irukkom",
      "singers": [
-      "S. P. Sailaja",
-      "Chorus"
+      "S. P. Sailaja"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -12942,7 +12908,7 @@
      "length": "4:13"
     },
     {
-     "title": "Chandirare Suriyare\" – Viswa Guru",
+     "title": "Chandirare Suriyare – Viswa Guru",
      "singers": [
       "K. J. Yesudas"
      ],
@@ -12964,7 +12930,7 @@
      "length": "4:47"
     },
     {
-     "title": "Musthafa Musthafa\" – Viswa Guru",
+     "title": "Musthafa Musthafa – Viswa Guru",
      "singers": [
       "Karthik"
      ],
@@ -13266,9 +13232,7 @@
      "singers": [
       "Minmini"
      ],
-     "lyricists": [
-      "–"
-     ],
+     "lyricists": [],
      "musicDirectors": [],
      "length": "1:14"
     },
@@ -13500,8 +13464,7 @@
     {
      "title": "Naan Thaane Brahmachari",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [
       "Vaali"
@@ -13513,8 +13476,7 @@
      "title": "Love Hospital",
      "singers": [
       "S. P. Balasubrahmanyam",
-      "Swarnalatha",
-      "Chorus"
+      "Swarnalatha"
      ],
      "lyricists": [
       "4:41"
@@ -13603,8 +13565,7 @@
     {
      "title": "Ada Vanjiram",
      "singers": [
-      "Malaysia Vasudevan",
-      "Chorus"
+      "Malaysia Vasudevan"
      ],
      "lyricists": [
       "Piraisoodan"
@@ -13755,7 +13716,7 @@
      "length": ""
     },
     {
-     "title": "Antha Vaanathai\" (Female version)",
+     "title": "Antha Vaanathai (Female version)",
      "singers": [
       "S. Janaki"
      ],
@@ -13823,9 +13784,7 @@
     },
     {
      "title": "Hoie Hoie",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -13946,9 +13905,7 @@
     },
     {
      "title": "Aarumuga Mangalathil",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "1:15"
@@ -14052,9 +14009,7 @@
     },
     {
      "title": "Kadalorak Kavithayileu",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "4:56"
@@ -14637,8 +14592,7 @@
     {
      "title": "Idhu Namma Bhoomi",
      "singers": [
-      "Arunmozhi",
-      "Chorus"
+      "Arunmozhi"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -15344,7 +15298,7 @@
      "length": ""
     },
     {
-     "title": "O Butterfly\" (Solo Version, Sad rendition)",
+     "title": "O Butterfly (Solo Version, Sad rendition)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -15859,7 +15813,7 @@
      "length": ""
     },
     {
-     "title": "Orey Jeevan Ondre\" – Female",
+     "title": "Orey Jeevan Ondre – Female",
      "singers": [
       "K. S. Chithra"
      ],
@@ -15937,7 +15891,7 @@
      "length": ""
     },
     {
-     "title": "Paaradi Kuyile\" (Male)",
+     "title": "Paaradi Kuyile (Male)",
      "singers": [
       "Ilaiyaraaja"
      ],
@@ -15948,7 +15902,7 @@
      "length": ""
     },
     {
-     "title": "Paaradi Kuyile\" (Female)",
+     "title": "Paaradi Kuyile (Female)",
      "singers": [
       "Swarnalatha"
      ],
@@ -16039,7 +15993,7 @@
      "length": "5:09"
     },
     {
-     "title": "Vanamellam Shenbagapoo\" (solo)",
+     "title": "Vanamellam Shenbagapoo (solo)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -16050,7 +16004,7 @@
      "length": "5:11"
     },
     {
-     "title": "Vanamellam Shenbagapoo\" (duet)",
+     "title": "Vanamellam Shenbagapoo (duet)",
      "singers": [
       "P. Susheela",
       "S. P. Balasubrahmanyam"
@@ -17282,8 +17236,7 @@
     {
      "title": "Othipo Othipo",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [
       "Vaali"
@@ -17318,8 +17271,7 @@
     {
      "title": "Thanga Nilavukkul",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "Chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
       "Gangai Amaran"
@@ -17790,8 +17742,7 @@
     {
      "title": "Nandri Solli",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "Chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -17847,8 +17798,7 @@
     {
      "title": "Sonnapadi Kelu",
      "singers": [
-      "Kamal Haasan",
-      "Chorus"
+      "Kamal Haasan"
      ],
      "lyricists": [
       "Vaali"
@@ -17861,8 +17811,7 @@
      "singers": [
       "S. P. Balasubrahmanyam",
       "Arunmozhi",
-      "Saibaba",
-      "Chorus"
+      "Saibaba"
      ],
      "lyricists": [
       "Gangai Amaran"
@@ -17980,7 +17929,7 @@
      "length": "4:47"
     },
     {
-     "title": "Merku Thodarchi Mala\" (male)",
+     "title": "Merku Thodarchi Mala (male)",
      "singers": [
       "Jayachandran"
      ],
@@ -17989,7 +17938,7 @@
      "length": "5:08"
     },
     {
-     "title": "Merku Thodarchi Mala\" (female)",
+     "title": "Merku Thodarchi Mala (female)",
      "singers": [
       "S. Janaki"
      ],
@@ -19554,8 +19503,7 @@
      "title": "Ammatodu Ammatodu",
      "singers": [
       "Mano",
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -19785,8 +19733,7 @@
     {
      "title": "Kattikko Koora Pattu Selai",
      "singers": [
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -19921,8 +19868,7 @@
     {
      "title": "Chithira Poovizhi",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "Chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -19961,8 +19907,7 @@
      "title": "Vanamenna",
      "singers": [
       "Mano",
-      "Lalitha",
-      "Chorus"
+      "Lalitha"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -21494,9 +21439,7 @@
     },
     {
      "title": "Karpagam Vanthachu",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "1:00"
@@ -21902,8 +21845,7 @@
     {
      "title": "Vanthadhu Vanthadhu",
      "singers": [
-      "S. Janaki",
-      "chorus"
+      "S. Janaki"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -22096,9 +22038,7 @@
    "songs": [
     {
      "title": "Thavamirunthu",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [
       "Gangai Amaran"
      ],
@@ -22394,8 +22334,7 @@
     {
      "title": "Thanga Kunam",
      "singers": [
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -23050,7 +22989,7 @@
      "length": "4:34"
     },
     {
-     "title": "Kannimayil\" (I)",
+     "title": "Kannimayil (I)",
      "singers": [
       "Malaysia Vasudevan"
      ],
@@ -23059,7 +22998,7 @@
      "length": "0:54"
     },
     {
-     "title": "Kannimayil\" (II)",
+     "title": "Kannimayil (II)",
      "singers": [
       "Malaysia Vasudevan",
       "B. S. Sasirekha"
@@ -23105,7 +23044,7 @@
    ],
    "songs": [
     {
-     "title": "Yalean Kiliyae\" (solo)",
+     "title": "Yalean Kiliyae (solo)",
      "singers": [
       "K. J. Yesudas"
      ],
@@ -23116,7 +23055,7 @@
      "length": "4:09"
     },
     {
-     "title": "Yalean Kiliyae\" (duet)",
+     "title": "Yalean Kiliyae (duet)",
      "singers": [
       "Mano",
       "P. Susheela"
@@ -23197,7 +23136,7 @@
      "length": "3:54"
     },
     {
-     "title": "Poonguyil Ragame\" (male)",
+     "title": "Poonguyil Ragame (male)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -23208,7 +23147,7 @@
      "length": ""
     },
     {
-     "title": "Poonguyil Ragame\" (female)",
+     "title": "Poonguyil Ragame (female)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -23424,8 +23363,7 @@
      "title": "Kombugal Illa",
      "singers": [
       "S. P. Balasubrahmanyam",
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [
       "4:41"
@@ -23436,8 +23374,7 @@
     {
      "title": "Maanukkum",
      "singers": [
-      "S. Janaki",
-      "Chorus"
+      "S. Janaki"
      ],
      "lyricists": [
       "Gangai Amaran"
@@ -23482,8 +23419,7 @@
     {
      "title": "Valibare",
      "singers": [
-      "Malaysia Vasudevan",
-      "Chorus"
+      "Malaysia Vasudevan"
      ],
      "lyricists": [
       "4:45"
@@ -24116,9 +24052,7 @@
     },
     {
      "title": "Theme",
-     "singers": [
-      "–"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "1:49"
@@ -24240,8 +24174,7 @@
     {
      "title": "Aattam Podalam",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "Chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -24312,7 +24245,7 @@
      "length": "05:08"
     },
     {
-     "title": "Muthu Muthu Aani Muthu\" (Sad)",
+     "title": "Muthu Muthu Aani Muthu (Sad)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -25066,7 +24999,7 @@
      "length": "04:39"
     },
     {
-     "title": "Ninaikkatha\" (sad)",
+     "title": "Ninaikkatha (sad)",
      "singers": [
       "S. Janaki",
       "Mano"
@@ -25311,8 +25244,7 @@
     {
      "title": "Idhi Bombaye",
      "singers": [
-      "S.P Balu",
-      "Chorus"
+      "S.P Balu"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -25332,8 +25264,7 @@
      "title": "Ini Vellvathu",
      "singers": [
       "S.P Balu",
-      "Chithra",
-      "Chorus"
+      "Chithra"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -25581,9 +25512,7 @@
     },
     {
      "title": "Jaali Jaali",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "4:58"
@@ -26749,7 +26678,7 @@
    ],
    "songs": [
     {
-     "title": "Chinna Muthu\" (Lady)",
+     "title": "Chinna Muthu (Lady)",
      "singers": [
       "Jikki"
      ],
@@ -26758,7 +26687,7 @@
      "length": "02:26"
     },
     {
-     "title": "Chinna Muthu\" (Men)",
+     "title": "Chinna Muthu (Men)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -26767,7 +26696,7 @@
      "length": "02:25"
     },
     {
-     "title": "Chinna Muthu\" (Pathos)",
+     "title": "Chinna Muthu (Pathos)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -27197,7 +27126,7 @@
      "length": "4:09"
     },
     {
-     "title": "Padikavandhadhu\" (Men)",
+     "title": "Padikavandhadhu (Men)",
      "singers": [
       "Mano"
      ],
@@ -27206,7 +27135,7 @@
      "length": "4:46"
     },
     {
-     "title": "Padikavandhadhu\" (Lady)",
+     "title": "Padikavandhadhu (Lady)",
      "singers": [
       "Swarnalatha"
      ],
@@ -28038,8 +27967,7 @@
     {
      "title": "Thittikkum Maragathame",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -28048,8 +27976,7 @@
     {
      "title": "Kasu Panam",
      "singers": [
-      "Malaysia Vasudevan",
-      "Chorus"
+      "Malaysia Vasudevan"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -28172,9 +28099,7 @@
    "songs": [
     {
      "title": "Magalir Mattum",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [
       "Vaali"
      ],
@@ -28236,7 +28161,7 @@
    ],
    "songs": [
     {
-     "title": "Amma Paadiya\" (Lady) I",
+     "title": "Amma Paadiya (Lady) I",
      "singers": [
       "Sunandha"
      ],
@@ -28247,7 +28172,7 @@
      "length": ""
     },
     {
-     "title": "Amma Paadiya\" (Lady) II",
+     "title": "Amma Paadiya (Lady) II",
      "singers": [
       "Vani Jairam"
      ],
@@ -28256,7 +28181,7 @@
      "length": ""
     },
     {
-     "title": "Amma Paadiya\" (Men)",
+     "title": "Amma Paadiya (Men)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -28756,8 +28681,7 @@
     {
      "title": "Maarghazhi Poove",
      "singers": [
-      "Shobha Shankar",
-      "Chorus"
+      "Shobha Shankar"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -29796,7 +29720,7 @@
      "length": ""
     },
     {
-     "title": "Nyabagam Illaiyo\" (duet)",
+     "title": "Nyabagam Illaiyo (duet)",
      "singers": [
       "Ilaiyaraaja",
       "S. Janaki"
@@ -29808,7 +29732,7 @@
      "length": "5:00"
     },
     {
-     "title": "Nyabagam Illaiyo\" (solo)",
+     "title": "Nyabagam Illaiyo (solo)",
      "singers": [
       "Ilaiyaraaja"
      ],
@@ -31138,8 +31062,7 @@
     {
      "title": "Aalamaram",
      "singers": [
-      "Sujatha Mohan",
-      "Chorus"
+      "Sujatha Mohan"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -31219,8 +31142,7 @@
     {
      "title": "Rani Vani Varungadi",
      "singers": [
-      "Swarnalatha",
-      "Chorus"
+      "Swarnalatha"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -31239,8 +31161,7 @@
     {
      "title": "Then Sindhum Neram",
      "singers": [
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -31249,8 +31170,7 @@
     {
      "title": "Vangaiya Vanga",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "Chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -32421,8 +32341,7 @@
     {
      "title": "Indha Busthan",
      "singers": [
-      "Malgudi Subha",
-      "chorus"
+      "Malgudi Subha"
      ],
      "lyricists": [
       "Vaali"
@@ -32458,7 +32377,7 @@
      "length": ""
     },
     {
-     "title": "Malare Thendral\" (Duet)",
+     "title": "Malare Thendral (Duet)",
      "singers": [
       "S. Janaki",
       "Arunmozhi"
@@ -32721,7 +32640,7 @@
      "length": "04:37"
     },
     {
-     "title": "Kannathil Kannam\" (Originally composed by Ilaiyaraaja)",
+     "title": "Kannathil Kannam (Originally composed by Ilaiyaraaja)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "K. S. Chithra"
@@ -33095,8 +33014,7 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "Vaali",
-      "except where noted"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "5:53"
@@ -33107,20 +33025,16 @@
       "Ilaiyaraaja"
      ],
      "lyricists": [
-      "Vaali",
-      "except where noted"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "6:09"
     },
     {
      "title": "Kanni Randil Etri Vaikkum",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [
-      "Vaali",
-      "except where noted"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "2:53"
@@ -33131,8 +33045,7 @@
       "Ilaiyaraaja"
      ],
      "lyricists": [
-      "Vaali",
-      "except where noted"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "5:01"
@@ -33145,8 +33058,7 @@
       "Ganesh Manivannan"
      ],
      "lyricists": [
-      "Vaali",
-      "except where noted"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "5:24"
@@ -33157,8 +33069,7 @@
       "Malaysia Vasudevan"
      ],
      "lyricists": [
-      "Vaali",
-      "except where noted"
+      "Vaali"
      ],
      "musicDirectors": [],
      "length": "5:32"
@@ -33457,9 +33368,7 @@
     },
     {
      "title": "Bombay Theme",
-     "singers": [
-      "Instrumental"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [
       "A. R. Rahman"
@@ -33470,8 +33379,7 @@
      "title": "Malarodu Malaringu",
      "singers": [
       "Sujatha Mohan",
-      "Anuradha Sriram",
-      "chorus"
+      "Anuradha Sriram"
      ],
      "lyricists": [
       "Vairamuthu"
@@ -33953,7 +33861,7 @@
    ],
    "songs": [
     {
-     "title": "Chinnanchiru\" (male)",
+     "title": "Chinnanchiru (male)",
      "singers": [
       "Krishnaraj"
      ],
@@ -33964,7 +33872,7 @@
      "length": "3:26"
     },
     {
-     "title": "Chinnanchiru\" (female)",
+     "title": "Chinnanchiru (female)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -35546,8 +35454,7 @@
     {
      "title": "Aatha Muthu Mariyamma",
      "singers": [
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [
       "Vaali"
@@ -35582,8 +35489,7 @@
     {
      "title": "Manna Thottu Kumbidanum",
      "singers": [
-      "Malaysia Vasudevan",
-      "Chorus"
+      "Malaysia Vasudevan"
      ],
      "lyricists": [
       "Piraisoodan"
@@ -35737,7 +35643,7 @@
      "length": "5:04"
     },
     {
-     "title": "Oh Ragini En Uyir\" (solo)",
+     "title": "Oh Ragini En Uyir (solo)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -35746,7 +35652,7 @@
      "length": "3:26"
     },
     {
-     "title": "Oh Ragini En Nilai\" (Sad)",
+     "title": "Oh Ragini En Nilai (Sad)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "S. Janaki"
@@ -35756,7 +35662,7 @@
      "length": "3:24"
     },
     {
-     "title": "Oh Ragini Neelambari\" (duet)",
+     "title": "Oh Ragini Neelambari (duet)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "S. Janaki"
@@ -36232,8 +36138,7 @@
      "title": "Sikkunu Mutham",
      "singers": [
       "Shahul Hameed",
-      "Swarnalatha",
-      "Chorus"
+      "Swarnalatha"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -36724,7 +36629,7 @@
      "length": "4:38"
     },
     {
-     "title": "Poo Malai Idhu\" (duet)",
+     "title": "Poo Malai Idhu (duet)",
      "singers": [
       "K. J. Yesudas",
       "Sujatha Mohan"
@@ -36734,7 +36639,7 @@
      "length": "4:33"
     },
     {
-     "title": "Poo Malai Idhu\" (solo)",
+     "title": "Poo Malai Idhu (solo)",
      "singers": [
       "Sujatha Mohan"
      ],
@@ -36868,7 +36773,7 @@
      "length": "5:44"
     },
     {
-     "title": "Chinna Kanmanikkulle\" (Fenale)",
+     "title": "Chinna Kanmanikkulle (Fenale)",
      "singers": [
       "Sunanda"
      ],
@@ -36965,7 +36870,7 @@
      "length": "5:10"
     },
     {
-     "title": "Neethaane Naaldhorum\" (duet)",
+     "title": "Neethaane Naaldhorum (duet)",
      "singers": [
       "K. J. Yesudas",
       "Swarnalatha"
@@ -36975,7 +36880,7 @@
      "length": "5:09"
     },
     {
-     "title": "Neethaane Naaldhorum\" (solo)",
+     "title": "Neethaane Naaldhorum (solo)",
      "singers": [
       "K. J. Yesudas"
      ],
@@ -37062,7 +36967,7 @@
      "length": "5:00"
     },
     {
-     "title": "Aele Aele\" (male)",
+     "title": "Aele Aele (male)",
      "singers": [
       "Malaysia Vasudevan"
      ],
@@ -37071,7 +36976,7 @@
      "length": "2:47"
     },
     {
-     "title": "Aele Aele\" (female)",
+     "title": "Aele Aele (female)",
      "singers": [
       "Swarnalatha"
      ],
@@ -37481,7 +37386,7 @@
      "length": "3:59"
     },
     {
-     "title": "Kann Imaikkamal\" (repeat)",
+     "title": "Kann Imaikkamal (repeat)",
      "singers": [
       "Mano",
       "Swarnalatha"
@@ -37639,9 +37544,7 @@
     },
     {
      "title": "Kottunga Kottunga",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [
       "Kamakodiyan"
      ],
@@ -37651,8 +37554,7 @@
     {
      "title": "Ammanuke Adanki",
      "singers": [
-      "Vadivelu",
-      "Chorus"
+      "Vadivelu"
      ],
      "lyricists": [
       "Vaali"
@@ -37695,9 +37597,7 @@
    "songs": [
     {
      "title": "Ethana Vagai",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "4:30"
@@ -37733,9 +37633,7 @@
     },
     {
      "title": "Theme Music",
-     "singers": [
-      "–"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "2:03"
@@ -37798,7 +37696,7 @@
      "length": "5:00"
     },
     {
-     "title": "Vanthalaappa\" (duet)",
+     "title": "Vanthalaappa (duet)",
      "singers": [
       "Mano",
       "K. S. Chithra"
@@ -37808,7 +37706,7 @@
      "length": "4:57"
     },
     {
-     "title": "Vanthalaappa\" (male)",
+     "title": "Vanthalaappa (male)",
      "singers": [
       "Mano"
      ],
@@ -37817,7 +37715,7 @@
      "length": "4:57"
     },
     {
-     "title": "Vanthalaappa\" (female)",
+     "title": "Vanthalaappa (female)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -38277,8 +38175,7 @@
      "title": "Masthu Masthu",
      "singers": [
       "S. P. Balasubrahmanyam",
-      "S. Janaki",
-      "Chorus"
+      "S. Janaki"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -38287,8 +38184,7 @@
     {
      "title": "Namma Ooru",
      "singers": [
-      "Atha Ali Azad",
-      "Chorus"
+      "Atha Ali Azad"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -38297,8 +38193,7 @@
     {
      "title": "Namma Thalaivar",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -38318,8 +38213,7 @@
      "title": "Thaka Thimi Tha",
      "singers": [
       "Suresh Peters",
-      "Annupamaa",
-      "Chorus"
+      "Annupamaa"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -38731,8 +38625,7 @@
     {
      "title": "Vaanum Pozhiyanum",
      "singers": [
-      "T. L. Maharajan",
-      "Chorus"
+      "T. L. Maharajan"
      ],
      "lyricists": [
       "3:58"
@@ -38760,7 +38653,7 @@
    ],
    "songs": [
     {
-     "title": "Chinnamma\" (male)",
+     "title": "Chinnamma (male)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -38771,7 +38664,7 @@
      "length": "5:08"
     },
     {
-     "title": "Chinnamma\" (female)",
+     "title": "Chinnamma (female)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -39333,9 +39226,7 @@
     },
     {
      "title": "Theme Music I",
-     "singers": [
-      "Instrumental"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -39360,9 +39251,7 @@
     },
     {
      "title": "Theme Music II",
-     "singers": [
-      "Instrumental"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -39378,18 +39267,14 @@
     },
     {
      "title": "Music Bit I",
-     "singers": [
-      "Instrumental"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Music Bit II",
-     "singers": [
-      "Instrumental"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -39740,8 +39625,7 @@
     {
      "title": "Pachai Valai Eduthu",
      "singers": [
-      "Sindhu",
-      "chorus"
+      "Sindhu"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -39769,8 +39653,7 @@
     {
      "title": "Ponnumani Kannumani",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -39819,7 +39702,7 @@
      "length": "3:28"
     },
     {
-     "title": "En Raasi\" (solo)",
+     "title": "En Raasi (solo)",
      "singers": [
       "Sunandha"
      ],
@@ -39830,7 +39713,7 @@
      "length": ""
     },
     {
-     "title": "En Raasi\" (duet)",
+     "title": "En Raasi (duet)",
      "singers": [
       "P. Unnikrishnan",
       "Sujatha"
@@ -40065,8 +39948,7 @@
     {
      "title": "Enna Annaikki",
      "singers": [
-      "Deva",
-      "Chorus"
+      "Deva"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -40295,7 +40177,7 @@
      "length": "4:29"
     },
     {
-     "title": "Punnagai Raniye\" (duet)",
+     "title": "Punnagai Raniye (duet)",
      "singers": [
       "Mano",
       "Krishnaraj",
@@ -40308,7 +40190,7 @@
      "length": "5:01"
     },
     {
-     "title": "Punnagai Raniye\" (solo)",
+     "title": "Punnagai Raniye (solo)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "Sindhu"
@@ -40377,8 +40259,7 @@
      "title": "Suttum Sudar Vizhi",
      "singers": [
       "M. G. Sreekumar",
-      "K. S. Chithra",
-      "Chorus"
+      "K. S. Chithra"
      ],
      "lyricists": [
       "Arivumathi"
@@ -40786,7 +40667,7 @@
      "length": "05:05"
     },
     {
-     "title": "Porul Thedum Bhoomiyil\" (Lady)",
+     "title": "Porul Thedum Bhoomiyil (Lady)",
      "singers": [
       "Sudha Ragunathan",
       "K. S. Chithra"
@@ -40796,7 +40677,7 @@
      "length": "05:44"
     },
     {
-     "title": "Porul Thedum Bhoomiyil\" (Men)",
+     "title": "Porul Thedum Bhoomiyil (Men)",
      "singers": [
       "P. Unnikrishnan"
      ],
@@ -41172,7 +41053,7 @@
      "length": "2:20"
     },
     {
-     "title": "Iniyenna Pechu\" (female)",
+     "title": "Iniyenna Pechu (female)",
      "singers": [
       "Vasavi"
      ],
@@ -41181,7 +41062,7 @@
      "length": "4:01"
     },
     {
-     "title": "Iniyenna Pechu\" (male)",
+     "title": "Iniyenna Pechu (male)",
      "singers": [
       "Unni Menon"
      ],
@@ -41211,8 +41092,7 @@
     {
      "title": "Ekkachakkamma",
      "singers": [
-      "S. P. Balasubrahmanyam",
-      "Chorus"
+      "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
       "Raja Krishnamoorthy"
@@ -41221,7 +41101,7 @@
      "length": "03:32"
     },
     {
-     "title": "Ekkachakkamma\" – 2",
+     "title": "Ekkachakkamma – 2",
      "singers": [
       "S. P. Balasubrahmanyam",
       "Annupamaa"
@@ -41235,8 +41115,7 @@
     {
      "title": "Idhu Nee Irukkum Nenjamadi",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [
       "Piraisoodan"
@@ -41259,8 +41138,7 @@
     {
      "title": "Ingu Aadum Varai",
      "singers": [
-      "Shahul Hameed",
-      "Chorus"
+      "Shahul Hameed"
      ],
      "lyricists": [
       "Piraisoodan"
@@ -41722,8 +41600,7 @@
     {
      "title": "Naatukulla Romba",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -42001,8 +41878,7 @@
     {
      "title": "Muthu Muthu Mazhai",
      "singers": [
-      "Ila Arun",
-      "Chorus"
+      "Ila Arun"
      ],
      "lyricists": [
       "Vairamuthu"
@@ -42067,8 +41943,7 @@
     {
      "title": "Paas Aaja Baalam",
      "singers": [
-      "Ila Arun",
-      "Chorus"
+      "Ila Arun"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -42129,8 +42004,7 @@
     {
      "title": "Arere Rang",
      "singers": [
-      "Ila Arun",
-      "Chorus"
+      "Ila Arun"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -42200,8 +42074,7 @@
     {
      "title": "Vallavanda Vallavanda",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -43128,8 +43001,7 @@
     {
      "title": "Pudhu Nilavu Idhu",
      "singers": [
-      "S. Janaki",
-      "Chorus"
+      "S. Janaki"
      ],
      "lyricists": [
       "Vairamuthu"
@@ -43702,9 +43574,7 @@
     },
     {
      "title": "Kudi Magan",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "1:30"
@@ -44715,8 +44585,7 @@
     {
      "title": "En Thegam",
      "singers": [
-      "S. Janaki",
-      "chorus"
+      "S. Janaki"
      ],
      "lyricists": [
       "Uma Kannadasan"
@@ -44969,7 +44838,7 @@
      "length": ""
     },
     {
-     "title": "Mudhan Mudhalil\" (Duet)",
+     "title": "Mudhan Mudhalil (Duet)",
      "singers": [
       "Hariharan",
       "K. S. Chithra"
@@ -44981,7 +44850,7 @@
      "length": ""
     },
     {
-     "title": "Mudhan Mudhalil\" (Solo)",
+     "title": "Mudhan Mudhalil (Solo)",
      "singers": [
       "Hariharan"
      ],
@@ -45118,8 +44987,7 @@
     {
      "title": "Meadam Enna",
      "singers": [
-      "Sabesh",
-      "Chorus"
+      "Sabesh"
      ],
      "lyricists": [
       "Ponniyin Selvan"
@@ -45320,7 +45188,7 @@
      "length": "4:37"
     },
     {
-     "title": "Varai En Thozhiyae\" II",
+     "title": "Varai En Thozhiyae II",
      "singers": [
       "Sujatha Mohan",
       "Swarnalatha",
@@ -45393,8 +45261,7 @@
     {
      "title": "Sutrum Bhoomi",
      "singers": [
-      "P. Jayachandran",
-      "Chorus"
+      "P. Jayachandran"
      ],
      "lyricists": [
       "Paarthi Bhaskar"
@@ -45541,12 +45408,8 @@
     },
     {
      "title": "Theme Music",
-     "singers": [
-      "–"
-     ],
-     "lyricists": [
-      "–"
-     ],
+     "singers": [],
+     "lyricists": [],
      "musicDirectors": [],
      "length": "1:23"
     }
@@ -45857,8 +45720,7 @@
     {
      "title": "College En Kaiyile",
      "singers": [
-      "Anuradha Sriram",
-      "Chorus"
+      "Anuradha Sriram"
      ],
      "lyricists": [
       "Palani Bharathi"
@@ -45870,8 +45732,7 @@
      "title": "Pathikichiyamma Pambara Vayasu",
      "singers": [
       "Mano",
-      "Swarnalatha",
-      "Chorus"
+      "Swarnalatha"
      ],
      "lyricists": [
       "Arivumathi"
@@ -45894,8 +45755,7 @@
     {
      "title": "Va Va Bata",
      "singers": [
-      "Anuradha Sriram",
-      "Chorus"
+      "Anuradha Sriram"
      ],
      "lyricists": [
       "Palani Bharathi"
@@ -46067,7 +45927,7 @@
      "length": "4:26"
     },
     {
-     "title": "Kadhalare Kadhalare\" (film version)",
+     "title": "Kadhalare Kadhalare (film version)",
      "singers": [
       "Sirpy"
      ],
@@ -46909,8 +46769,7 @@
     {
      "title": "Thaada Budala",
      "singers": [
-      "S. Janaki",
-      "Chorus"
+      "S. Janaki"
      ],
      "lyricists": [
       "Ravi Bharathi"
@@ -48386,9 +48245,7 @@
    "songs": [
     {
      "title": "Pistha Pistha",
-     "singers": [
-      "–"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "0:45"
@@ -48694,8 +48551,7 @@
     {
      "title": "Cellular Phone",
      "singers": [
-      "Anuradha Sriram",
-      "Chorus"
+      "Anuradha Sriram"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -50307,9 +50163,7 @@
    "songs": [
     {
      "title": "Aagayam Rendaaga",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "00:30"
@@ -50629,7 +50483,7 @@
      "length": ""
     },
     {
-     "title": "Vaanathilae Chandirana\" (Lady)",
+     "title": "Vaanathilae Chandirana (Lady)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -50640,7 +50494,7 @@
      "length": ""
     },
     {
-     "title": "Vaanathilae Chandirana\" (Men)",
+     "title": "Vaanathilae Chandirana (Men)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -51230,7 +51084,7 @@
      "length": "5:00"
     },
     {
-     "title": "Iru Kanngal\" (Happy)",
+     "title": "Iru Kanngal (Happy)",
      "singers": [
       "Ilaiyaraaja"
      ],
@@ -51241,7 +51095,7 @@
      "length": ""
     },
     {
-     "title": "Iru Kanngal\" (Sad)",
+     "title": "Iru Kanngal (Sad)",
      "singers": [
       "Ilaiyaraaja"
      ],
@@ -51252,7 +51106,7 @@
      "length": ""
     },
     {
-     "title": "Iru Kanngal\" (Happy)",
+     "title": "Iru Kanngal (Happy)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -51263,7 +51117,7 @@
      "length": ""
     },
     {
-     "title": "Iru Kanngal\" (Sad)",
+     "title": "Iru Kanngal (Sad)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -51329,8 +51183,7 @@
     {
      "title": "Devadhai",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -52419,7 +52272,7 @@
    ],
    "songs": [
     {
-     "title": "Gangai Nathiye\" (Female)",
+     "title": "Gangai Nathiye (Female)",
      "singers": [
       "Swarnalatha"
      ],
@@ -52430,7 +52283,7 @@
      "length": "05:30"
     },
     {
-     "title": "Gangai Nathiye\" (Male)",
+     "title": "Gangai Nathiye (Male)",
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
@@ -52769,7 +52622,7 @@
    ],
    "songs": [
     {
-     "title": "Amman Pukazhai Paada\" (male)",
+     "title": "Amman Pukazhai Paada (male)",
      "singers": [
       "Ilaiyaraaja"
      ],
@@ -52780,7 +52633,7 @@
      "length": "4:53"
     },
     {
-     "title": "Amman Pukazhai Paada\" (female)",
+     "title": "Amman Pukazhai Paada (female)",
      "singers": [
       "Bhavatharini"
      ],
@@ -52804,8 +52657,7 @@
     {
      "title": "Maalaiveiyazhaki",
      "singers": [
-      "Ilaiyaraaja",
-      "Chorus"
+      "Ilaiyaraaja"
      ],
      "lyricists": [
       "Kamakodiyan"
@@ -52838,8 +52690,7 @@
     {
      "title": "Unnai Nambum",
      "singers": [
-      "Devie Neithiyar",
-      "Chorus"
+      "Devie Neithiyar"
      ],
      "lyricists": [
       "Kamakodiyan"
@@ -53200,7 +53051,7 @@
      "length": "05:01"
     },
     {
-     "title": "Unnoduthan Kanaavile\" (Happy)",
+     "title": "Unnoduthan Kanaavile (Happy)",
      "singers": [
       "Mano",
       "K. S. Chithra"
@@ -53210,7 +53061,7 @@
      "length": "04:24"
     },
     {
-     "title": "Unnoduthaan Kanaavile\" (Sad)",
+     "title": "Unnoduthaan Kanaavile (Sad)",
      "singers": [
       "Maragatha Mani",
       "K. S. Chithra"
@@ -53220,7 +53071,7 @@
      "length": "04:52"
     },
     {
-     "title": "Unnoduthaan Kanaavile\" (Sad; film version)",
+     "title": "Unnoduthaan Kanaavile (Sad; film version)",
      "singers": [
       "S. P. Balasubrahmanyam",
       "K. S. Chithra"
@@ -53672,7 +53523,7 @@
      "length": ""
     },
     {
-     "title": "Meesakkaara Nanbaa\" (Sad)",
+     "title": "Meesakkaara Nanbaa (Sad)",
      "singers": [
       "Krishnaraj"
      ],
@@ -53913,8 +53764,7 @@
      "title": "Ponmaanai",
      "singers": [
       "S. P. Balasubrahmanyam",
-      "S. Janaki",
-      "Chorus"
+      "S. Janaki"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -54285,9 +54135,7 @@
     },
     {
      "title": "Pooveli",
-     "singers": [
-      "Instrumental"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "02:24"
@@ -54457,7 +54305,7 @@
      "length": "5:25"
     },
     {
-     "title": "Onnu Rendu\" (male)",
+     "title": "Onnu Rendu (male)",
      "singers": [
       "Hariharan"
      ],
@@ -54468,7 +54316,7 @@
      "length": "5:12"
     },
     {
-     "title": "Onnu Rendu\" (female)",
+     "title": "Onnu Rendu (female)",
      "singers": [
       "K. S. Chithra"
      ],
@@ -55394,7 +55242,7 @@
      "length": "05:18"
     },
     {
-     "title": "Enna Petha Raasa\" (Sad)",
+     "title": "Enna Petha Raasa (Sad)",
      "singers": [
       "Ilaiyaraaja"
      ],
@@ -56051,8 +55899,7 @@
      "title": "Vannakili SolKonda",
      "singers": [
       "Gopal Rao",
-      "Harini",
-      "Chorus"
+      "Harini"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -57011,7 +56858,7 @@
      "length": "5:42"
     },
     {
-     "title": "Kaalmellaam\" (female)",
+     "title": "Kaalmellaam (female)",
      "singers": [
       "Harini"
      ],
@@ -57020,7 +56867,7 @@
      "length": "5:27"
     },
     {
-     "title": "Kaalmellaam\" (male)",
+     "title": "Kaalmellaam (male)",
      "singers": [
       "P. Unni Krishnan"
      ],
@@ -57563,7 +57410,7 @@
      "length": ""
     },
     {
-     "title": "Salam Gulamu\" II",
+     "title": "Salam Gulamu II",
      "singers": [
       "Naveen"
      ],
@@ -57784,9 +57631,7 @@
     },
     {
      "title": "Velli Malarae",
-     "singers": [
-      "Instrumental"
-     ],
+     "singers": [],
      "lyricists": [],
      "musicDirectors": [],
      "length": "6:32"
@@ -58202,7 +58047,7 @@
      "length": "04:57"
     },
     {
-     "title": "Iruvathu Vayathu\" 1",
+     "title": "Iruvathu Vayathu 1",
      "singers": [
       "S. Janaki",
       "Hariharan"
@@ -58214,7 +58059,7 @@
      "length": "05:49"
     },
     {
-     "title": "Iruvathu Vayathu\" 2",
+     "title": "Iruvathu Vayathu 2",
      "singers": [
       "S. Janaki"
      ],
@@ -58225,7 +58070,7 @@
      "length": ""
     },
     {
-     "title": "Iruvathu Vayathu\" 3",
+     "title": "Iruvathu Vayathu 3",
      "singers": [
       "Hariharan"
      ],
@@ -60229,9 +60074,7 @@
     },
     {
      "title": "Naadu Sezhikka",
-     "singers": [
-      "Chorus"
-     ],
+     "singers": [],
      "lyricists": [
       "Piraisoodan"
      ],
@@ -61329,8 +61172,7 @@
     {
      "title": "Idho Inga Isai",
      "singers": [
-      "Mano",
-      "Chorus"
+      "Mano"
      ],
      "lyricists": [],
      "musicDirectors": [],
@@ -61926,8 +61768,7 @@
     {
      "title": "Innisai Paadivarum",
      "singers": [
-      "P. Unnikrishnan",
-      "Chorus"
+      "P. Unnikrishnan"
      ],
      "lyricists": [
       "Vairamuthu"
@@ -62587,7 +62428,7 @@
      "length": ""
     },
     {
-     "title": "Vaanil Vennila (female version to \"Kadhal Vennila\")",
+     "title": "Vaanil Vennila (female version to Kadhal Vennila)",
      "singers": [
       "Sujatha Mohan"
      ],
