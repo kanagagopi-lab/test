@@ -1,0 +1,356 @@
+{
+  "source": "Curated starter set (hand-entered; verify against Wikipedia and import more from the Library panel)",
+  "films": [
+    {
+      "film": "Pasamalar", "year": 1961,
+      "directors": ["A. Bhimsingh"], "musicDirectors": ["Viswanathan–Ramamoorthy"],
+      "lyricists": ["Kannadasan"], "actors": ["Sivaji Ganesan", "Savitri", "Gemini Ganesan"],
+      "songs": [
+        { "title": "Malarndhum Malaraadha", "singers": ["T. M. Soundararajan", "P. Susheela"] }
+      ]
+    },
+    {
+      "film": "Aayirathil Oruvan", "year": 1965,
+      "directors": ["B. R. Panthulu"], "musicDirectors": ["Viswanathan–Ramamoorthy"],
+      "lyricists": ["Kannadasan"], "actors": ["M. G. Ramachandran", "J. Jayalalithaa"],
+      "songs": [
+        { "title": "Adho Andha Paravai Pola", "singers": ["T. M. Soundararajan"] }
+      ]
+    },
+    {
+      "film": "Anbe Vaa", "year": 1966,
+      "directors": ["A. C. Tirulokchandar"], "musicDirectors": ["M. S. Viswanathan"],
+      "lyricists": ["Vaali"], "actors": ["M. G. Ramachandran", "B. Saroja Devi"],
+      "songs": [
+        { "title": "Naan Paarthathile", "singers": ["T. M. Soundararajan", "P. Susheela"] },
+        { "title": "Rajavin Parvai", "singers": ["T. M. Soundararajan", "P. Susheela"] },
+        { "title": "Pudhiya Vaanam Pudhiya Bhoomi", "singers": ["T. M. Soundararajan"] }
+      ]
+    },
+    {
+      "film": "Moondram Pirai", "year": 1982,
+      "directors": ["Balu Mahendra"], "musicDirectors": ["Ilaiyaraaja"],
+      "actors": ["Kamal Haasan", "Sridevi"],
+      "songs": [
+        { "title": "Kanne Kalaimaane", "singers": ["K. J. Yesudas"], "lyricists": ["Kannadasan"] },
+        { "title": "Vaanengum Thanga Vinmeengal", "singers": ["Ilaiyaraaja", "S. Janaki"] }
+      ]
+    },
+    {
+      "film": "Payanangal Mudivathillai", "year": 1982,
+      "directors": ["R. Sundarrajan"], "musicDirectors": ["Ilaiyaraaja"],
+      "lyricists": ["Vairamuthu"], "actors": ["Mohan", "Poornima"],
+      "songs": [
+        { "title": "Ilaya Nila", "singers": ["S. P. Balasubrahmanyam"] }
+      ]
+    },
+    {
+      "film": "Sindhu Bhairavi", "year": 1985,
+      "directors": ["K. Balachander"], "musicDirectors": ["Ilaiyaraaja"],
+      "lyricists": ["Vairamuthu"], "actors": ["Sivakumar", "Suhasini", "Sulakshana"],
+      "songs": [
+        { "title": "Padariyen Padippariyen", "singers": ["K. S. Chithra"] },
+        { "title": "Kalaivaniye", "singers": ["K. J. Yesudas"] }
+      ]
+    },
+    {
+      "film": "Mouna Ragam", "year": 1986,
+      "directors": ["Mani Ratnam"], "musicDirectors": ["Ilaiyaraaja"],
+      "lyricists": ["Vaali"], "actors": ["Mohan", "Revathi", "Karthik"],
+      "songs": [
+        { "title": "Mandram Vandha Thendralukku", "singers": ["S. P. Balasubrahmanyam"] },
+        { "title": "Nilaave Vaa", "singers": ["S. P. Balasubrahmanyam"] },
+        { "title": "Chinna Chinna Vanna Kuyil", "singers": ["S. Janaki"] },
+        { "title": "Oho Megam Vanthatho", "singers": ["S. Janaki"] },
+        { "title": "Panivizhum Iravu", "singers": ["S. P. Balasubrahmanyam", "S. Janaki"] }
+      ]
+    },
+    {
+      "film": "Punnagai Mannan", "year": 1986,
+      "directors": ["K. Balachander"], "musicDirectors": ["Ilaiyaraaja"],
+      "lyricists": ["Vairamuthu"], "actors": ["Kamal Haasan", "Revathi", "Rekha"],
+      "songs": [
+        { "title": "Enna Satham Indha Neram", "singers": ["S. P. Balasubrahmanyam"] }
+      ]
+    },
+    {
+      "film": "Thalapathi", "year": 1991,
+      "directors": ["Mani Ratnam"], "musicDirectors": ["Ilaiyaraaja"],
+      "lyricists": ["Vaali"], "actors": ["Rajinikanth", "Mammootty", "Shobana", "Arvind Swamy"],
+      "songs": [
+        { "title": "Rakkamma Kaiya Thattu", "singers": ["S. P. Balasubrahmanyam", "Swarnalatha"] },
+        { "title": "Sundari Kannal Oru Sethi", "singers": ["S. P. Balasubrahmanyam", "S. Janaki"] },
+        { "title": "Kaattukuyilu", "singers": ["S. P. Balasubrahmanyam", "K. J. Yesudas"] },
+        { "title": "Chinna Thaayaval", "singers": ["S. Janaki"] }
+      ]
+    },
+    {
+      "film": "Guna", "year": 1991,
+      "directors": ["Santhana Bharathi"], "musicDirectors": ["Ilaiyaraaja"],
+      "lyricists": ["Vaali"], "actors": ["Kamal Haasan", "Roshini"],
+      "songs": [
+        { "title": "Kanmani Anbodu Kadhalan", "singers": ["Kamal Haasan", "S. Janaki"] }
+      ]
+    },
+    {
+      "film": "Roja", "year": 1992,
+      "directors": ["Mani Ratnam"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Arvind Swamy", "Madhoo"],
+      "songs": [
+        { "title": "Chinna Chinna Aasai", "singers": ["Minmini"] },
+        { "title": "Kadhal Rojave", "singers": ["S. P. Balasubrahmanyam", "Sujatha Mohan"] },
+        { "title": "Pudhu Vellai Mazhai", "singers": ["Unni Menon", "Sujatha Mohan"] },
+        { "title": "Rukkumani Rukkumani", "singers": ["S. P. Balasubrahmanyam", "K. S. Chithra"] },
+        { "title": "Thamizha Thamizha", "singers": ["Hariharan"] }
+      ]
+    },
+    {
+      "film": "Thevar Magan", "year": 1992,
+      "directors": ["Bharathan"], "musicDirectors": ["Ilaiyaraaja"],
+      "lyricists": ["Vaali"], "actors": ["Kamal Haasan", "Sivaji Ganesan", "Revathi", "Gautami"],
+      "songs": [
+        { "title": "Inji Iduppazhagi", "singers": ["Kamal Haasan", "S. Janaki"] }
+      ]
+    },
+    {
+      "film": "Kadhalan", "year": 1994,
+      "directors": ["S. Shankar"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vaali"], "actors": ["Prabhu Deva", "Nagma"],
+      "songs": [
+        { "title": "Mukkala Mukkabla", "singers": ["Mano", "Swarnalatha"] },
+        { "title": "Ennavale Adi Ennavale", "singers": ["Unnikrishnan"] },
+        { "title": "Urvasi Urvasi", "singers": ["A. R. Rahman", "Suresh Peters", "Shahul Hameed"] },
+        { "title": "Pettai Rap", "singers": ["Suresh Peters", "Shahul Hameed", "Theni Kunjarammal"] }
+      ]
+    },
+    {
+      "film": "Bombay", "year": 1995,
+      "directors": ["Mani Ratnam"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Arvind Swamy", "Manisha Koirala"],
+      "songs": [
+        { "title": "Uyire Uyire", "singers": ["Hariharan", "K. S. Chithra"] },
+        { "title": "Kannalane", "singers": ["K. S. Chithra"] },
+        { "title": "Hamma Hamma", "singers": ["Remo Fernandes", "Swarnalatha"] }
+      ]
+    },
+    {
+      "film": "Baashha", "year": 1995,
+      "directors": ["Suresh Krissna"], "musicDirectors": ["Deva"],
+      "lyricists": ["Vairamuthu"], "actors": ["Rajinikanth", "Nagma", "Raghuvaran"],
+      "songs": [
+        { "title": "Naan Autokaaran", "singers": ["S. P. Balasubrahmanyam"] }
+      ]
+    },
+    {
+      "film": "Muthu", "year": 1995,
+      "directors": ["K. S. Ravikumar"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Rajinikanth", "Meena", "Sarath Babu"],
+      "songs": [
+        { "title": "Oruvan Oruvan Mudhalali", "singers": ["S. P. Balasubrahmanyam"] },
+        { "title": "Thillana Thillana", "singers": ["Mano", "Sujatha Mohan"] }
+      ]
+    },
+    {
+      "film": "Minsara Kanavu", "year": 1997,
+      "directors": ["Rajiv Menon"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Arvind Swamy", "Prabhu Deva", "Kajol"],
+      "songs": [
+        { "title": "Vennilave Vennilave", "singers": ["Hariharan", "Sadhana Sargam"] },
+        { "title": "Anbendra Mazhayile", "singers": ["Anuradha Sriram"] },
+        { "title": "Thanga Thamarai", "singers": ["S. P. Balasubrahmanyam"] }
+      ]
+    },
+    {
+      "film": "Iruvar", "year": 1997,
+      "directors": ["Mani Ratnam"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Mohanlal", "Prakash Raj", "Aishwarya Rai", "Tabu"],
+      "songs": [
+        { "title": "Narumugaye", "singers": ["Unnikrishnan", "Bombay Jayashri"] }
+      ]
+    },
+    {
+      "film": "Kadhalukku Mariyadhai", "year": 1997,
+      "directors": ["Fazil"], "musicDirectors": ["Ilaiyaraaja"],
+      "actors": ["Vijay", "Shalini"],
+      "songs": [
+        { "title": "Ennai Thalatta Varuvala", "singers": ["Hariharan"], "lyricists": ["Palani Bharathi"] }
+      ]
+    },
+    {
+      "film": "Padayappa", "year": 1999,
+      "directors": ["K. S. Ravikumar"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Rajinikanth", "Ramya Krishnan", "Soundarya", "Sivaji Ganesan"],
+      "songs": [
+        { "title": "En Peru Padayappa", "singers": ["S. P. Balasubrahmanyam"] },
+        { "title": "Suthi Suthi Vandheega", "singers": ["S. P. Balasubrahmanyam", "Harini"] }
+      ]
+    },
+    {
+      "film": "Mudhalvan", "year": 1999,
+      "directors": ["S. Shankar"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Arjun Sarja", "Manisha Koirala", "Raghuvaran"],
+      "songs": [
+        { "title": "Shakalaka Baby", "singers": ["Vasundhara Das"] },
+        { "title": "Kurukku Siruthavale", "singers": ["Hariharan", "Mahalakshmi Iyer"] }
+      ]
+    },
+    {
+      "film": "Alaipayuthey", "year": 2000,
+      "directors": ["Mani Ratnam"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Madhavan", "Shalini"],
+      "songs": [
+        { "title": "Snehithane", "singers": ["Sadhana Sargam", "Srinivas"] },
+        { "title": "Pachai Nirame", "singers": ["Hariharan", "Clinton Cerejo"] },
+        { "title": "Evano Oruvan", "singers": ["Swarnalatha"] },
+        { "title": "Kadhal Sadugudu", "singers": ["S. P. B. Charan", "Naveen"] },
+        { "title": "Endrendrum Punnagai", "singers": ["Clinton Cerejo", "Shankar Mahadevan", "Srimathumitha"] },
+        { "title": "September Madham", "singers": ["Asha Bhosle", "Shankar Mahadevan"] }
+      ]
+    },
+    {
+      "film": "Minnale", "year": 2001,
+      "directors": ["Gautham Vasudev Menon"], "musicDirectors": ["Harris Jayaraj"],
+      "actors": ["Madhavan", "Abbas", "Reemma Sen"],
+      "songs": [
+        { "title": "Vaseegara", "singers": ["Bombay Jayashri"], "lyricists": ["Thamarai"] },
+        { "title": "Venmathi Venmathiye", "singers": ["Roopkumar Rathod"], "lyricists": ["Vaali"] }
+      ]
+    },
+    {
+      "film": "Kannathil Muthamittal", "year": 2002,
+      "directors": ["Mani Ratnam"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vairamuthu"], "actors": ["Madhavan", "Simran", "P. S. Keerthana", "Nandita Das"],
+      "songs": [
+        { "title": "Vellai Pookal", "singers": ["A. R. Rahman"] },
+        { "title": "Kannathil Muthamittal", "singers": ["P. Jayachandran", "Chinmayi"] }
+      ]
+    },
+    {
+      "film": "Kaakha Kaakha", "year": 2003,
+      "directors": ["Gautham Vasudev Menon"], "musicDirectors": ["Harris Jayaraj"],
+      "lyricists": ["Thamarai"], "actors": ["Suriya", "Jyothika"],
+      "songs": [
+        { "title": "Uyirin Uyire", "singers": ["KK", "Suchitra"] },
+        { "title": "Ondra Renda", "singers": ["Bombay Jayashri"] }
+      ]
+    },
+    {
+      "film": "Autograph", "year": 2004,
+      "directors": ["Cheran"], "musicDirectors": ["Bharadwaj"],
+      "actors": ["Cheran", "Sneha", "Gopika", "Mallika"],
+      "songs": [
+        { "title": "Ovvoru Pookalume", "singers": ["K. S. Chithra"], "lyricists": ["Pa. Vijay"] }
+      ]
+    },
+    {
+      "film": "Ghilli", "year": 2004,
+      "directors": ["Dharani"], "musicDirectors": ["Vidyasagar"],
+      "actors": ["Vijay", "Trisha", "Prakash Raj"],
+      "songs": [
+        { "title": "Appadi Podu", "singers": ["KK", "Anuradha Sriram"], "lyricists": ["Pa. Vijay"] }
+      ]
+    },
+    {
+      "film": "Sivaji", "year": 2007,
+      "directors": ["S. Shankar"], "musicDirectors": ["A. R. Rahman"],
+      "actors": ["Rajinikanth", "Shriya Saran", "Suman"],
+      "songs": [
+        { "title": "Sahana", "singers": ["Udit Narayan", "Chinmayi"], "lyricists": ["Vairamuthu"] },
+        { "title": "Vaaji Vaaji", "singers": ["Hariharan", "Madhushree"], "lyricists": ["Vairamuthu"] }
+      ]
+    },
+    {
+      "film": "Vaaranam Aayiram", "year": 2008,
+      "directors": ["Gautham Vasudev Menon"], "musicDirectors": ["Harris Jayaraj"],
+      "lyricists": ["Thamarai"], "actors": ["Suriya", "Sameera Reddy", "Simran", "Divya Spandana"],
+      "songs": [
+        { "title": "Nenjukkul Peidhidum", "singers": ["Hariharan", "Devan Ekambaram", "V. V. Prasanna"] },
+        { "title": "Mundhinam Paartheney", "singers": ["Naresh Iyer", "Prashanthini"] },
+        { "title": "Adiye Kolluthey", "singers": ["Krish", "Shruti Haasan", "Benny Dayal"] }
+      ]
+    },
+    {
+      "film": "Subramaniapuram", "year": 2008,
+      "directors": ["Sasikumar"], "musicDirectors": ["James Vasanthan"],
+      "actors": ["Jai", "Swathi Reddy", "Sasikumar"],
+      "songs": [
+        { "title": "Kangal Irandal", "singers": ["Bellie Raj", "Deepa Miriam"], "lyricists": ["Thamarai"] }
+      ]
+    },
+    {
+      "film": "Vinnaithaandi Varuvaayaa", "year": 2010,
+      "directors": ["Gautham Vasudev Menon"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Thamarai"], "actors": ["Silambarasan", "Trisha"],
+      "songs": [
+        { "title": "Hosanna", "singers": ["Vijay Prakash", "Suzanne D'Mello", "Blaaze"] },
+        { "title": "Mannipaaya", "singers": ["A. R. Rahman", "Shreya Ghoshal"] },
+        { "title": "Omana Penne", "singers": ["Benny Dayal", "Kalyani Menon"] },
+        { "title": "Anbil Avan", "singers": ["Devan Ekambaram", "Chinmayi"] }
+      ]
+    },
+    {
+      "film": "Enthiran", "year": 2010,
+      "directors": ["S. Shankar"], "musicDirectors": ["A. R. Rahman"],
+      "actors": ["Rajinikanth", "Aishwarya Rai", "Danny Denzongpa"],
+      "songs": [
+        { "title": "Kadhal Anukkal", "singers": ["Vijay Prakash", "Shreya Ghoshal"], "lyricists": ["Vairamuthu"] },
+        { "title": "Irumbile Oru Irudhaiyam", "singers": ["A. R. Rahman", "Kash n' Krissy"], "lyricists": ["Madhan Karky"] },
+        { "title": "Kilimanjaro", "singers": ["Javed Ali", "Chinmayi"], "lyricists": ["Pa. Vijay"] },
+        { "title": "Arima Arima", "singers": ["Hariharan", "Sadhana Sargam", "Benny Dayal", "Naresh Iyer"], "lyricists": ["Vairamuthu"] },
+        { "title": "Pudhiya Manidha", "singers": ["S. P. Balasubrahmanyam", "A. R. Rahman", "Khatija Rahman"], "lyricists": ["Vairamuthu"] }
+      ]
+    },
+    {
+      "film": "3", "year": 2012,
+      "directors": ["Aishwarya R. Dhanush"], "musicDirectors": ["Anirudh Ravichander"],
+      "lyricists": ["Dhanush"], "actors": ["Dhanush", "Shruti Haasan"],
+      "songs": [
+        { "title": "Why This Kolaveri Di", "singers": ["Dhanush"] },
+        { "title": "Kannazhaga", "singers": ["Dhanush", "Shruti Haasan"] },
+        { "title": "Po Nee Po", "singers": ["Mohit Chauhan", "Anirudh Ravichander"] }
+      ]
+    },
+    {
+      "film": "Mersal", "year": 2017,
+      "directors": ["Atlee"], "musicDirectors": ["A. R. Rahman"],
+      "lyricists": ["Vivek"], "actors": ["Vijay", "Samantha Ruth Prabhu", "Kajal Aggarwal", "Nithya Menen"],
+      "songs": [
+        { "title": "Aalaporaan Thamizhan", "singers": ["Kailash Kher", "Sathyaprakash", "Deepak", "Pooja AV"] },
+        { "title": "Neethanae", "singers": ["A. R. Rahman", "Shreya Ghoshal"] }
+      ]
+    },
+    {
+      "film": "96", "year": 2018,
+      "directors": ["C. Prem Kumar"], "musicDirectors": ["Govind Vasantha"],
+      "actors": ["Vijay Sethupathi", "Trisha"],
+      "songs": [
+        { "title": "Kaathalae Kaathalae", "singers": ["Chinmayi", "Govind Vasantha"], "lyricists": ["Karthik Netha"] }
+      ]
+    },
+    {
+      "film": "Maari 2", "year": 2018,
+      "directors": ["Balaji Mohan"], "musicDirectors": ["Yuvan Shankar Raja"],
+      "actors": ["Dhanush", "Sai Pallavi", "Tovino Thomas"],
+      "songs": [
+        { "title": "Rowdy Baby", "singers": ["Dhanush", "Dhee"], "lyricists": ["Dhanush"] }
+      ]
+    },
+    {
+      "film": "Master", "year": 2021,
+      "directors": ["Lokesh Kanagaraj"], "musicDirectors": ["Anirudh Ravichander"],
+      "actors": ["Vijay", "Vijay Sethupathi", "Malavika Mohanan"],
+      "songs": [
+        { "title": "Vaathi Coming", "singers": ["Anirudh Ravichander", "Gana Balachandar"], "lyricists": ["Gana Balachandar"] },
+        { "title": "Kutti Story", "singers": ["Vijay", "Anirudh Ravichander"], "lyricists": ["Arunraja Kamaraj"] }
+      ]
+    },
+    {
+      "film": "Vikram", "year": 2022,
+      "directors": ["Lokesh Kanagaraj"], "musicDirectors": ["Anirudh Ravichander"],
+      "actors": ["Kamal Haasan", "Vijay Sethupathi", "Fahadh Faasil"],
+      "songs": [
+        { "title": "Pathala Pathala", "singers": ["Kamal Haasan", "Anirudh Ravichander"], "lyricists": ["Kamal Haasan"] }
+      ]
+    }
+  ]
+}

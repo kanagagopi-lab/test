@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tamil Song Finder</title>
+  <meta name="description" content="Identify Tamil film songs by movie, actors, music director, lyricist, singers and director.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%8E%B5%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Tamil Song Finder <span class="ta" lang="ta">பாடல் தேடல்</span></h1>
+    <p class="tagline">Find a song from what you remember: the movie, actors, music director, lyricist, singers, director, or the year. Fill in any combination of fields.</p>
+  </header>
+
+  <main>
+    <form id="search" class="panel" autocomplete="off">
+      <div class="grid" id="fields"></div>
+      <div class="row">
+        <label class="field">
+          <span>Released between</span>
+          <span class="years">
+            <input type="number" name="yearFrom" min="1931" max="2100" placeholder="from" inputmode="numeric">
+            <span aria-hidden="true">–</span>
+            <input type="number" name="yearTo" min="1931" max="2100" placeholder="to" inputmode="numeric">
+          </span>
+        </label>
+        <label class="field grow">
+          <span>Anything else (searches all fields)</span>
+          <input type="search" name="any" placeholder="e.g. rahman 1995 hariharan">
+        </label>
+        <div class="actions">
+          <button type="reset" class="secondary">Clear</button>
+        </div>
+      </div>
+      <p class="hint">Separate several names with commas to require all of them (e.g. singers <em>SPB, Janaki</em>). Spelling variants work: <em>Ilayaraja</em> finds <em>Ilaiyaraaja</em>. Common nicknames such as <em>SPB, ARR, MSV, TMS, Raja</em> work too.</p>
+    </form>
+
+    <section class="results-wrap">
+      <aside id="facets" class="panel facets" aria-label="Refine results"></aside>
+      <section class="panel results">
+        <div class="results-head">
+          <h2 id="count">Songs</h2>
+          <label class="sort">Sort by
+            <select id="sort">
+              <option value="year-desc">Newest first</option>
+              <option value="year-asc">Oldest first</option>
+              <option value="title">Song title</option>
+              <option value="film">Movie</option>
+            </select>
+          </label>
+        </div>
+        <ol id="list" class="list"></ol>
+        <button id="more" class="secondary" hidden>Show more</button>
+      </section>
+    </section>
+
+    <details class="panel library" id="library">
+      <summary>Library: <span id="lib-stats"></span></summary>
+      <p>The built-in starter set covers a few well-known films. Import more from Wikipedia. The import runs in your browser and saves to this device.</p>
+      <div class="import">
+        <label class="field grow">
+          <span>Wikipedia category</span>
+          <input id="cat" value="Category:Tamil film soundtracks">
+        </label>
+        <label class="field narrow">
+          <span>Max articles</span>
+          <input id="cat-limit" type="number" value="300" min="1" max="5000">
+        </label>
+        <label class="check"><input id="cat-subcats" type="checkbox"> include subcategories</label>
+        <button id="import-cat" type="button">Import category</button>
+      </div>
+      <div class="import">
+        <label class="field grow">
+          <span>Or specific article titles (one per line: film or soundtrack pages)</span>
+          <textarea id="titles" rows="3" placeholder="Nayakan&#10;Kaadhal Kottai&#10;Anniyan (soundtrack)"></textarea>
+        </label>
+        <button id="import-titles" type="button">Import articles</button>
+      </div>
+      <progress id="progress" hidden></progress>
+      <pre id="log" class="log" aria-live="polite"></pre>
+      <div class="import">
+        <button id="export" type="button" class="secondary">Export library (JSON)</button>
+        <label class="button secondary">Load JSON file<input id="import-file" type="file" accept="application/json,.json" hidden></label>
+        <button id="clear" type="button" class="danger">Remove imported songs</button>
+      </div>
+      <p class="small">Sources: <a href="https://en.wikipedia.org/wiki/Category:Tamil_film_soundtracks" target="_blank" rel="noopener">Wikipedia: Tamil film soundtracks</a>. Gaana has no public API, so each song links to a Gaana search to play it.</p>
+    </details>
+  </main>
+
+  <template id="song-tpl">
+    <li class="song">
+      <div class="song-main">
+        <h3 class="title"></h3>
+        <div class="film"></div>
+      </div>
+      <dl class="credits"></dl>
+      <div class="links"></div>
+    </li>
+  </template>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

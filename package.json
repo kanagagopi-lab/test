@@ -1,0 +1,13 @@
+{
+  "name": "tamil-song-finder",
+  "version": "1.0.0",
+  "description": "Identify Tamil film songs by movie, actors, music director, lyricist, singers and director.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node --test tests/*.test.js",
+    "build-data": "node scripts/build-dataset.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
