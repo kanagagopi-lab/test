@@ -83,7 +83,8 @@ function removeFileLinks(text) {
 // Turn a wikitext fragment into plain text; list items are separated by "\n".
 export function clean(value) {
   let t = String(value ?? '');
-  t = t.replace(/<!--[\s\S]*?-->/g, '');
+  t = t.replace(/<!--[\s\S]*?(?:-->|$)/g, ''); // unterminated comments run to the end
+  t = t.replace(/\b(?:rowspan|colspan|style|align|class|width|scope)\s*=\s*("[^"]*"|\S+)\s*\|?/gi, '');
   t = t.replace(/<ref[^>]*\/>/gi, '').replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '');
   t = removeFileLinks(t);
   t = t.replace(/\[\[([^\]|]*)\|([^\]]*)\]\]/g, '$2').replace(/\[\[([^\]]*)\]\]/g, '$1');
@@ -108,9 +109,12 @@ export function clean(value) {
 // Split a cleaned credit field into individual names.
 export function toList(value) {
   return clean(value)
-    .split(/\n|\*|,|;|\s+and\s+|\s+&\s+|\s\/\s/)
-    .map((s) => s.replace(/\([^)]*\)/g, '').replace(/^[\s:•·-]+|[\s:•·-]+$/g, '').trim())
-    .map((s) => s.replace(/\s*\b(except|unless otherwise) (where )?(noted|stated|specified)\.?$/i, '').trim())
+    // Credit notes: 'Vaali except "X" was written by Y', 'all songs except where noted'.
+    .replace(/(^|\s)(except|unless otherwise)\b[^\n]*/gi, '$1')
+    // Role labels become separators: "A Backing vocal: B", "Background score: C".
+    .replace(/\b(?:backing|additional|background|backup)\s+(?:vocals?|score|music)\s*:/gi, '\n')
+    .split(/\n|\*|,|;|\s+and\s+|\s+&\s+|\s\/\s|\s+(?:feat\.?|ft\.|featuring)\s+/i)
+    .map((s) => s.replace(/\([^)]*\)/g, '').replace(/[[\]{}]/g, '').replace(/^[\s:•·-]+|[\s:•·-]+$/g, '').trim())
     .filter((s) => s && s.length < 60 && !JUNK_NAME.test(s));
 }
 
@@ -123,7 +127,9 @@ export function yearOf(raw) {
 }
 
 function cleanTitle(raw) {
-  return clean(raw).replace(/\n/g, ' ').replace(/["“”]/g, '').replace(/^'+|'+$/g, '').replace(/\s+/g, ' ').trim();
+  const t = clean(raw).replace(/\n/g, ' ').replace(/["“”{}]/g, '').replace(/^'+|'+$/g, '').replace(/\s+/g, ' ').trim();
+  // Bare numbers come from a "No." column mistaken for the title.
+  return /^\d+\.?$/.test(t) ? '' : t;
 }
 
 // Headings: [{ level, title, start }]

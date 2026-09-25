@@ -113,3 +113,13 @@ test('placeholder names and stray quotes are dropped', () => {
   assert.equal(p.songs[0].title, 'Kannathil Kannam (female version)');
   assert.deepEqual(p.songs[0].singers, []);
 });
+
+test('credit notes, role labels, feat. and table attributes are cleaned from names', () => {
+  assert.deepEqual(toList('[[Vaali]] except "Idhazhin Oram" was written by [[Aishwarya Dhanush]]'), ['Vaali']);
+  assert.deepEqual(toList('Sayanora Philip Backing vocal: Naresh Iyer'), ['Sayanora Philip', 'Naresh Iyer']);
+  assert.deepEqual(toList('Background score: [[Viswanathan–Ramamoorthy]]'), ['Viswanathan–Ramamoorthy']);
+  assert.deepEqual(toList('[[Yuvan Shankar Raja]] feat. [[G. V. Prakash Kumar]]'), ['Yuvan Shankar Raja', 'G. V. Prakash Kumar']);
+  assert.deepEqual(toList('rowspan="3" | [[Vaali]]'), ['Vaali']);
+  assert.deepEqual(toList('[Mangalampalli Balamurali Krishna]'), ['Mangalampalli Balamurali Krishna']);
+  assert.equal(clean('Mandhiram Aavadhu Neeru<!--மந்திர மாவது'), 'Mandhiram Aavadhu Neeru');
+});
