@@ -192,3 +192,18 @@ test('background score track lists are not songs', () => {
 |}`;
   assert.deepEqual(parsePage('X', tables).songs.map((s) => s.title), ['Real Song']);
 });
+
+test('role labels in music credits are not names; song composers come from the "Songs" part', async () => {
+  const { songComposers, creditGroups } = await import('../js/wikitext.js');
+  const bigil = "{{ubl|'''Songs:'''|[[A. R. Rahman]]|'''Score:'''|[[A. R. Rahman]]<br>[[Qutub-E-Kripa]]}}";
+  assert.deepEqual(songComposers(bigil), ['A. R. Rahman']);
+  assert.deepEqual(toList(bigil), ['A. R. Rahman', 'Qutub-E-Kripa']);
+  assert.deepEqual(creditGroups(bigil).map((g) => g.label), ['songs', 'score']);
+  assert.deepEqual(songComposers('Songs: [[Anirudh Ravichander]]<br>Background Score: [[Sam C. S.]]'), ['Anirudh Ravichander']);
+  assert.deepEqual(songComposers('Soundtrack:<br>[[Yuvan Shankar Raja]]<br>Film score:<br>[[Ron Ethan Yohann]]'), ['Yuvan Shankar Raja']);
+  assert.deepEqual(songComposers('[[Harris Jayaraj]]'), ['Harris Jayaraj']);
+  assert.deepEqual(songComposers('Score: [[Ilaiyaraaja]]'), ['Ilaiyaraaja']);
+  assert.deepEqual(songComposers('[[Deva (composer)|Deva]]<br>Lyrics: [[Vairamuthu]]'), ['Deva']);
+  const p = parsePage('Bigil', `{{Infobox film|name=Bigil|music=${bigil}}}`);
+  assert.deepEqual(p.musicDirectors, ['A. R. Rahman']);
+});

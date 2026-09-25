@@ -119,8 +119,14 @@ export function personName(target) {
   return t ? t[0].toUpperCase() + t.slice(1) : t;
 }
 
-// Split a credit field into individual names.
-export function toList(value) {
+// Role labels inside credit fields: "Songs: A. R. Rahman / Score: A. R. Rahman, Qutub-E-Kripa".
+const ROLE = 'songs?|soundtrack|music|score|film score|original score|background score|background music|bgm|re-?recording|themes?|lyrics?';
+export const ROLE_LABEL = new RegExp(`^(?:${ROLE})$`, 'i');
+const LABEL_MARK = '\u0004';
+
+// Split a credit field into names grouped by role label: [{ label, names }]. Names
+// before any label have label ''.
+export function creditGroups(value) {
   // Swap each wikilink for a placeholder so its target survives cleaning and splitting.
   const links = [];
   const marked = String(value ?? '').replace(/\[\[([^\]|]+)(?:\|([^\]]*))?\]\]/g, (m, target, text) => {
@@ -128,11 +134,13 @@ export function toList(value) {
     links.push({ target: target.trim(), text: (text ?? target).trim() });
     return `\u0002${links.length - 1}\u0003`;
   });
-  return clean(marked)
+  const items = clean(marked)
     // Credit notes: 'Vaali except "X" was written by Y', 'all songs except where noted'.
     .replace(/(^|\s)(except|unless otherwise)\b[^\n]*/gi, '$1')
-    // Role labels become separators: "A Backing vocal: B", "Background score: C".
-    .replace(/\b(?:backing|additional|background|backup)\s+(?:vocals?|score|music)\s*:/gi, '\n')
+    // Role labels start a new group: "Songs: A", "Background score: B".
+    .replace(new RegExp(`(^|[\\s,;(])(${ROLE})\\s*:`, 'gi'), (_, pre, label) => `${pre}\n${LABEL_MARK}${label}\n`)
+    // Other role labels just separate names: "A Backing vocal: B".
+    .replace(/\b(?:backing|additional|backup)\s+(?:vocals?|music)\s*:/gi, '\n')
     .split(/\n|\*|,|;|\s+and\s+|\s+&\s+|\s\/\s|\s+(?:feat\.?|ft\.|featuring)\s+/i)
     .map((s) => s.replace(/\([^)]*\)/g, '').replace(/[[\]{}]/g, '').replace(/^[\s:•·-]+|[\s:•·-]+$/g, '').trim())
     .map((s) => {
@@ -144,8 +152,31 @@ export function toList(value) {
       }
       // A link mixed with other text: keep the text as shown.
       return s.replace(/\u0002(\d+)\u0003/g, (_, i) => links[Number(i)].text).trim();
-    })
-    .filter((s) => s && s.length < 60 && !JUNK_NAME.test(s));
+    });
+
+  const groups = [{ label: '', names: [] }];
+  for (const item of items) {
+    const label = item.startsWith(LABEL_MARK) ? item.slice(1) : ROLE_LABEL.test(item) ? item : null;
+    if (label != null) { groups.push({ label: label.toLowerCase(), names: [] }); continue; }
+    if (item && item.length < 60 && !JUNK_NAME.test(item)) groups[groups.length - 1].names.push(item);
+  }
+  return groups.filter((g) => g.names.length);
+}
+
+// Split a credit field into individual names (role labels dropped).
+export function toList(value) {
+  return [...new Set(creditGroups(value).flatMap((g) => g.names))];
+}
+
+// Who composed the songs, from a music credit that may separate songs from score:
+// the "Songs:" part if there is one, else the unlabelled names, else whatever is given.
+export function songComposers(value) {
+  const groups = creditGroups(value);
+  const pick = (re) => groups.filter((g) => re.test(g.label)).flatMap((g) => g.names);
+  const songs = pick(/^(songs?|soundtrack|music)$/);
+  const plain = pick(/^$/);
+  const any = groups.filter((g) => !/^lyrics?$/.test(g.label)).flatMap((g) => g.names);
+  return [...new Set(songs.length ? songs : plain.length ? plain : any)];
 }
 
 // Placeholder entries that are not people.
@@ -390,7 +421,7 @@ function parsePageInner(title, text) {
     year: yearOf(box.released ?? box.release_date ?? box.release_dates ?? box.release ?? '') ?? leadYear,
     directors: filmBox ? toList(filmBox.director ?? '') : [],
     actors: filmBox ? toList(filmBox.starring ?? '') : [],
-    musicDirectors: toList(filmBox?.music ?? albumBox?.artist ?? ''),
+    musicDirectors: songComposers(filmBox?.music ?? albumBox?.artist ?? ''),
     language: clean(filmBox?.language ?? albumBox?.language ?? ''),
     songs,
     filmLink,

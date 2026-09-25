@@ -1,5 +1,5 @@
 import { fold, words, expandAlias, SAME_PERSON } from './normalize.js';
-import { JUNK_NAME } from './wikitext.js';
+import { JUNK_NAME, ROLE_LABEL } from './wikitext.js';
 
 // Searchable categories. `key` is the song field; each field holds an array of strings
 // (title/film are wrapped so everything is handled uniformly).
@@ -135,7 +135,7 @@ export function canonicalize(input) {
       const seen = new Set();
       out[k] = [];
       for (const v of s[k]) {
-        if (JUNK_NAME.test(v.trim())) continue;
+        if (JUNK_NAME.test(v.trim()) || ROLE_LABEL.test(v.trim())) continue;
         let key = nameKey(v);
         key = bareTo[k].get(key) ?? key;
         const name = best.get(key) ?? v;
