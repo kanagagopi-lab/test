@@ -33,6 +33,10 @@ const log = (...m) => console.error(...m);
 
 const wiki = createClient({
   headers: { 'User-Agent': 'TamilSongFinder/1.0 (dataset builder; https://github.com/kanagagopi-lab/test)' },
+  // Bulk builds make thousands of requests: stay well under Wikipedia's rate limits and
+  // keep retrying through temporary 429s for up to ~10 minutes.
+  minInterval: 250,
+  maxRetries: 12,
 });
 
 const exists = (p) => access(p).then(() => true, () => false);

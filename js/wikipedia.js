@@ -17,12 +17,20 @@ export function wikiUrl(title) {
   return `https://en.wikipedia.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`;
 }
 
-export function createClient({ fetchImpl = globalThis.fetch, headers = {}, api = API } = {}) {
+// minInterval: minimum ms between requests (be polite in bulk builds).
+// maxRetries / maxWait: how long to keep trying when Wikipedia is busy or rate-limits us.
+export function createClient({
+  fetchImpl = globalThis.fetch, headers = {}, api = API, minInterval = 0, maxRetries = 8, maxWait = 60000,
+} = {}) {
+  let last = 0;
   async function call(params) {
     const url = new URL(api);
     const all = { format: 'json', formatversion: '2', origin: '*', maxlag: '5', ...params };
     for (const [k, v] of Object.entries(all)) url.searchParams.set(k, v);
     for (let attempt = 0; ; attempt++) {
+      const gap = last + minInterval - Date.now();
+      if (gap > 0) await sleep(gap);
+      last = Date.now();
       const res = await fetchImpl(url, { headers });
       const retryable = res.status === 429 || res.status >= 500;
       if (res.ok) {
@@ -34,8 +42,10 @@ export function createClient({ fetchImpl = globalThis.fetch, headers = {}, api =
       } else if (!retryable) {
         throw new Error(`Wikipedia API ${res.status} ${res.statusText}`);
       }
-      if (attempt >= 4) throw new Error(`Wikipedia API unavailable (${res.status})`);
-      await sleep(1000 * 2 ** attempt);
+      if (attempt >= maxRetries) throw new Error(`Wikipedia API unavailable (${res.status}) after ${attempt + 1} attempts`);
+      // Honour Retry-After (seconds) when given; otherwise back off exponentially.
+      const retryAfter = Number(res.headers?.get?.('retry-after')) * 1000;
+      await sleep(Math.min(maxWait, retryAfter > 0 ? retryAfter : 1000 * 2 ** attempt));
     }
   }
 
@@ -54,7 +64,7 @@ export function createClient({ fetchImpl = globalThis.fetch, headers = {}, api =
       });
       for (const m of data.query?.categorymembers ?? []) {
         if (m.ns === 0) titles.push(m.title);
-        else if (m.ns === 14 && !seen.has(m.title)) subs.push(m.title);
+        else if (m.ns === 14 && depth > 0 && !seen.has(m.title)) subs.push(m.title);
       }
       cont = data.continue?.cmcontinue;
     } while (cont && titles.length < limit);

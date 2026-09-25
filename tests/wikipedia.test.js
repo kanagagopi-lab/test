@@ -40,3 +40,17 @@ test('soundtrack import is enriched with the film article', async () => {
   assert.deepEqual(film.songs[0].lyricists, ['Vairamuthu']);
   assert.deepEqual(film.songs[0].singers, ['Minmini']);
 });
+
+test('rate limiting (429) is retried, honouring Retry-After', async () => {
+  let calls = 0;
+  const flaky = (url) => {
+    calls++;
+    if (calls < 3) return Promise.resolve({ ok: false, status: 429, statusText: 'Too Many Requests', headers: new Headers({ 'retry-after': '0.01' }) });
+    return mockFetch(url);
+  };
+  const wiki = createClient({ fetchImpl: flaky });
+  assert.deepEqual(await wiki.categoryMembers('Tamil film soundtracks'), ['Roja (soundtrack)']);
+  assert.equal(calls, 3);
+  const always = () => Promise.resolve({ ok: false, status: 429, statusText: 'x', headers: new Headers({ 'retry-after': '0.001' }) });
+  await assert.rejects(createClient({ fetchImpl: always, maxRetries: 2 }).categoryMembers('X'), /after 3 attempts/);
+});
