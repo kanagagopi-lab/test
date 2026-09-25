@@ -49,6 +49,17 @@
      "A. R. Rahman"
     ]
    }
+  },
+  {
+   "film": "Boys",
+   "year": 2003,
+   "song": "Ayyappo",
+   "set": {
+    "musicDirectors": [
+     "A. R. Rahman",
+     "Pravin Mani"
+    ]
+   }
   }
  ]
 }
