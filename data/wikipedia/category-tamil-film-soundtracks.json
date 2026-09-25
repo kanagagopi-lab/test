@@ -2497,7 +2497,6 @@
     "Ajay Raj"
    ],
    "musicDirectors": [
-    "Background score",
     "Premji",
     "Original songs",
     "Yuvan Shankar Raja"
@@ -2680,7 +2679,8 @@
      "title": "Athiradee",
      "singers": [
       "A. R. Rahman",
-      "Sayanora Philip Backing vocal: Naresh Iyer",
+      "Sayanora Philip",
+      "Naresh Iyer",
       "Karthik"
      ],
      "lyricists": [
@@ -3331,7 +3331,6 @@
    ],
    "musicDirectors": [
     "Yuvan Shankar Raja",
-    "Additional score",
     "Premji Amaren"
    ],
    "songs": [
@@ -4474,7 +4473,6 @@
    "musicDirectors": [
     "Songs",
     "Harris Jayaraj",
-    "Background Score",
     "Sameer Phaterpekar"
    ],
    "songs": [
@@ -7356,7 +7354,8 @@
     {
      "title": "Run for your Life",
      "singers": [
-      "Psycho.unit feat. Gaana Bala"
+      "Psycho.unit",
+      "Gaana Bala"
      ],
      "lyricists": [
       "Psycho.unit",
@@ -7368,7 +7367,8 @@
     {
      "title": "Edhirthu Nil",
      "singers": [
-      "Yuvan Shankar Raja feat. G. V. Prakash Kumar",
+      "Yuvan Shankar Raja",
+      "G. V. Prakash Kumar",
       "D. Imman",
       "Vijay Antony",
       "S. Thaman"
@@ -18916,7 +18916,6 @@
     "Songs",
     "Shaan Rahman",
     "Sushin Shyam",
-    "Background Score",
     "Sushin Shyam"
    ],
    "songs": [
