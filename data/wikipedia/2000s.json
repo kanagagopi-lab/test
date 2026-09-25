@@ -222,7 +222,9 @@
       "Nithyashree Mahadevan",
       "P. Unnikrishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kadhal Mathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -231,7 +233,9 @@
      "singers": [
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kadhal Mathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -240,7 +244,9 @@
      "singers": [
       "Kalyani Menon"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kadhal Mathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -249,7 +255,9 @@
      "singers": [
       "Swarnalatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kadhal Mathi"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -371,10 +379,10 @@
       "Srinivas"
      ],
      "lyricists": [
-      "5:25"
+      "Piraisoodan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:25"
     },
     {
      "title": "Thazhal Madal (solo)",
@@ -382,10 +390,10 @@
       "Harini"
      ],
      "lyricists": [
-      "4:31"
+      "Piraisoodan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:31"
     },
     {
      "title": "Thazhal Madal (duet)",
@@ -394,10 +402,10 @@
       "Devi Neithiyar"
      ],
      "lyricists": [
-      "5:06"
+      "Piraisoodan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:06"
     },
     {
      "title": "Vandanam Vandanam",
@@ -405,10 +413,10 @@
       "Srinivas"
      ],
      "lyricists": [
-      "4:32"
+      "Piraisoodan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:32"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Athey_Manithan",
@@ -1910,7 +1918,9 @@
       "Vadivelu",
       "Vivek"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kalidasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1920,7 +1930,9 @@
       "Mano",
       "Malaysia Vasudevan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kalidasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2226,7 +2238,9 @@
       "Hariharan",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2271,7 +2285,9 @@
      "singers": [
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -2573,10 +2589,10 @@
       "Sujatha"
      ],
      "lyricists": [
-      "05:06"
+      "Pulamaipithan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:06"
     },
     {
      "title": "Nalla Kaalam",
@@ -2796,7 +2812,9 @@
       "P. Unnikrishnan",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Viveka"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2806,7 +2824,9 @@
       "P. Unnikrishnan",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Viveka"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2815,7 +2835,9 @@
      "singers": [
       "P. Unnikrishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Viveka"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2967,7 +2989,9 @@
       "Swarnalatha",
       "Arunmozhi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ilayakamban"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3209,10 +3233,10 @@
       "P. Unnikrishnan"
      ],
      "lyricists": [
-      "05:25"
+      "Snehan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:25"
     },
     {
      "title": "Mayilaadum Paarai",
@@ -3410,7 +3434,9 @@
      "singers": [
       "Sujatha Mohan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kalidasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3419,7 +3445,9 @@
      "singers": [
       "K. S. Chithra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kalidasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3941,10 +3969,10 @@
       "Mano"
      ],
      "lyricists": [
-      "4:55"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:55"
     },
     {
      "title": "Mannuku Nammathan",
@@ -3952,10 +3980,10 @@
       "Krishnaraj"
      ],
      "lyricists": [
-      "4:52"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:52"
     },
     {
      "title": "Thoongum Puli",
@@ -4039,7 +4067,9 @@
       "S. A. Rajkumar",
       "Swarnalatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4228,7 +4258,9 @@
      "singers": [
       "K. S. Chithra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4249,7 +4281,9 @@
       "Unni Menon",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "K. Subash"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4270,7 +4304,9 @@
       "Krishnaraj",
       "Malgudi Subha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -4346,7 +4382,9 @@
       "P. Unnikrishnan",
       "'Mahanadi' Shobana"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -4536,7 +4574,9 @@
       "Sujatha",
       "Sangeetha Sajith"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4819,7 +4859,9 @@
      "singers": [
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -5150,7 +5192,9 @@
       "Ganga",
       "Devan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5159,7 +5203,9 @@
      "singers": [
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -5586,7 +5632,9 @@
       "S. P. Balasubrahmanyam",
       "S. Janaki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5596,7 +5644,9 @@
       "Anuradha Sriram",
       "Mano"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5605,7 +5655,9 @@
      "singers": [
       "Shankar Mahadevan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -5646,10 +5698,10 @@
       "S. A. Rajkumar"
      ],
      "lyricists": [
-      "4:21"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:21"
     },
     {
      "title": "Nilavil Nee",
@@ -5658,10 +5710,10 @@
       "K. S. Chithra"
      ],
      "lyricists": [
-      "4:33"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:33"
     },
     {
      "title": "Vanna Kathavugal",
@@ -5669,10 +5721,10 @@
       "Shankar Mahadevan"
      ],
      "lyricists": [
-      "4:50"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:50"
     },
     {
      "title": "Velicham Adikuthadi",
@@ -5680,10 +5732,10 @@
       "Hariharan"
      ],
      "lyricists": [
-      "4:56"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:56"
     },
     {
      "title": "Vilayaattu Vilayaattu",
@@ -5693,10 +5745,10 @@
       "Anuradha Sriram"
      ],
      "lyricists": [
-      "4:23"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:23"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Vanna_Thamizh_Pattu",
@@ -5741,7 +5793,9 @@
      "singers": [
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5773,7 +5827,9 @@
      "singers": [
       "Swarnalatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thamarai"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6419,7 +6475,9 @@
      "singers": [
       "P. Unnikrishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Gangai Amaran"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -6549,7 +6607,9 @@
       "Sujatha",
       "S. P. B. Charan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6559,7 +6619,9 @@
       "Hariharan",
       "Shaisan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6569,7 +6631,9 @@
       "Mano",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7260,7 +7324,9 @@
      "singers": [
       "Harini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7270,7 +7336,9 @@
       "P. Unnikrishnan",
       "Sadhana Sargam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7281,7 +7349,9 @@
       "Hariharan",
       "Ramanathan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7343,7 +7413,9 @@
     },
     {
      "title": "Kadhal Ninaive",
-     "singers": [],
+     "singers": [
+      "K. J. Yesudas"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -7425,7 +7497,9 @@
       "P. Unnikrishnan",
       "Sathya"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kamakodiyan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7457,7 +7531,9 @@
      "singers": [
       "Deva"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kalaikumar"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -7500,10 +7576,10 @@
       "Swarnalatha"
      ],
      "lyricists": [
-      "3:55"
+      "Kalidasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:55"
     },
     {
      "title": "Devu Devuda",
@@ -7735,7 +7811,9 @@
       "Mano",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7745,7 +7823,9 @@
       "Deva",
       "Krishnaraj"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7755,7 +7835,9 @@
       "Mano",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7764,7 +7846,9 @@
      "singers": [
       "Samsuddin"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -7988,7 +8072,9 @@
      "singers": [
       "Ilaiyaraaja"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8314,7 +8400,9 @@
      "singers": [
       "Krishnaraj"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8324,7 +8412,9 @@
       "P. Unnikrishnan",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8334,7 +8424,9 @@
       "Mano",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8486,10 +8578,10 @@
       "K. S. Chithra"
      ],
      "lyricists": [
-      "4:56"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:56"
     },
     {
      "title": "Sillunu Kaaththu",
@@ -8498,10 +8590,10 @@
       "Swarnalatha"
      ],
      "lyricists": [
-      "5:34"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:34"
     },
     {
      "title": "Velu Vadivelu Enn",
@@ -8509,10 +8601,10 @@
       "Deva"
      ],
      "lyricists": [
-      "5:47"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:47"
     },
     {
      "title": "Madurakara Viveku",
@@ -8521,10 +8613,10 @@
       "Sabesh"
      ],
      "lyricists": [
-      "4:30"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:30"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Looty",
@@ -8598,10 +8690,10 @@
       "Mano"
      ],
      "lyricists": [
-      "5:56"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:56"
     },
     {
      "title": "Ultra Modern",
@@ -8662,10 +8754,10 @@
       "Swarnalatha"
      ],
      "lyricists": [
-      "05:30"
+      "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:30"
     },
     {
      "title": "Roja Malare",
@@ -8774,7 +8866,9 @@
      "singers": [
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -9607,10 +9701,10 @@
       "Sriram Narayan"
      ],
      "lyricists": [
-      "6:17"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "6:17"
     },
     {
      "title": "Moondrezhuthu",
@@ -9619,10 +9713,10 @@
       "Karthik"
      ],
      "lyricists": [
-      "4:51"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:51"
     },
     {
      "title": "Parthale Paravasam",
@@ -9634,10 +9728,10 @@
       "Poornima"
      ],
      "lyricists": [
-      "5:32"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:32"
     },
     {
      "title": "Azhagae Sugama",
@@ -9658,10 +9752,10 @@
       "Sadhana Sargam"
      ],
      "lyricists": [
-      "4:03"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:03"
     },
     {
      "title": "Love Check",
@@ -9694,10 +9788,10 @@
       "Thubara"
      ],
      "lyricists": [
-      "5:48"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:48"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Paarthale_Paravasam",
@@ -9749,10 +9843,10 @@
       "Sumitra"
      ],
      "lyricists": [
-      "1:32"
+      "Bharani"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "1:32"
     },
     {
      "title": "Nee Paarthuttu Ponaalum",
@@ -9761,10 +9855,10 @@
       "Sumitra"
      ],
      "lyricists": [
-      "4:10"
+      "Bharani"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:10"
     },
     {
      "title": "Thirudiya Idhayathai Thiruppi",
@@ -9773,10 +9867,10 @@
       "K. S. Chithra"
      ],
      "lyricists": [
-      "4:51"
+      "Bharani"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:51"
     },
     {
      "title": "Thirumba Thirumba",
@@ -9797,10 +9891,10 @@
       "P. Unnikrishnan"
      ],
      "lyricists": [
-      "5:16"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:16"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Paarvai_Ondre_Pothume",
@@ -10202,10 +10296,10 @@
       "Sujatha"
      ],
      "lyricists": [
-      "5:35"
+      "Panchu Arunachalam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:35"
     },
     {
      "title": "Kaatrodu Puyalai",
@@ -10393,7 +10487,9 @@
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Gangai Amaran"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10746,7 +10842,9 @@
      "singers": [
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Viveka"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10905,7 +11003,9 @@
      "singers": [
       "Swarnalatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Piraisoodan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11035,7 +11135,9 @@
       "S. P. Balasubrahmanyam",
       "Sujatha Mohan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11044,7 +11146,9 @@
      "singers": [
       "Manickka Vinayakam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11107,7 +11211,9 @@
      "singers": [
       "Udit Narayan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11116,7 +11222,9 @@
      "singers": [
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11139,7 +11247,9 @@
       "Devan Ekambaram",
       "Harini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kalaikumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11160,7 +11270,9 @@
      "singers": [
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11170,7 +11282,9 @@
       "Karthik Raja",
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11179,7 +11293,9 @@
      "singers": [
       "P. Unnikrishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11188,7 +11304,9 @@
      "singers": [
       "Karthik Raja"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -11243,7 +11361,9 @@
       "Swarnalatha",
       "Harish Raghavendra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11253,7 +11373,9 @@
       "Harini",
       "Srinivas"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11306,7 +11428,9 @@
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11339,7 +11463,9 @@
      "singers": [
       "Shankar Mahadevan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11349,7 +11475,9 @@
       "Annupamaa",
       "Sriram Parthasarathy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -11402,10 +11530,10 @@
       "Krishnaraj"
      ],
      "lyricists": [
-      "5:03"
+      "Arivumathi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:03"
     },
     {
      "title": "Pombalai Enna Ambalai",
@@ -11427,10 +11555,10 @@
       "K. S. Chithra"
      ],
      "lyricists": [
-      "5:06"
+      "Muthulingam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:06"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Veettoda_Mappillai",
@@ -11527,7 +11655,9 @@
       "S. P. Balasubrahmanyam",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -11912,10 +12042,10 @@
       "Krishnaraj"
      ],
      "lyricists": [
-      "3:55"
+      "Rock Rownder"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:55"
     },
     {
      "title": "Panganapalli Mengo (male)",
@@ -11923,10 +12053,10 @@
       "Rock Rownder"
      ],
      "lyricists": [
-      "4:03"
+      "Rock Rownder"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:03"
     },
     {
      "title": "Panganapalli Mengo (female)",
@@ -11934,10 +12064,10 @@
       "Anuradha Sriram"
      ],
      "lyricists": [
-      "4:03"
+      "Rock Rownder"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:03"
     },
     {
      "title": "Patchaipasu Pasanga",
@@ -11945,10 +12075,10 @@
       "Sri Ram"
      ],
      "lyricists": [
-      "3:12"
+      "Rock Rownder"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:12"
     },
     {
      "title": "Sundakanji Venuma",
@@ -11956,10 +12086,10 @@
       "Malgudi Subha"
      ],
      "lyricists": [
-      "3:01"
+      "Rock Rownder"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:01"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Andipatti_Arasampatti",
@@ -12630,7 +12760,9 @@
       "S. N. Surendar",
       "P. Unnikrishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -12641,7 +12773,9 @@
       "Ganga",
       "Viji Manuel"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -12651,7 +12785,9 @@
       "Mathangi",
       "Febi Mani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -12661,7 +12797,9 @@
       "Sujatha",
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -12670,7 +12808,9 @@
      "singers": [
       "Ilaiyaraaja"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -13006,10 +13146,10 @@
       "K. S. Chithra"
      ],
      "lyricists": [
-      "05:28"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:28"
     },
     {
      "title": "Lux Papa",
@@ -13018,10 +13158,10 @@
       "Swarnalatha"
      ],
      "lyricists": [
-      "05:07"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:07"
     },
     {
      "title": "Maina Kunjo",
@@ -13030,10 +13170,10 @@
       "Sujatha"
      ],
      "lyricists": [
-      "04:23"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:23"
     },
     {
      "title": "Un Punnagai",
@@ -13361,7 +13501,9 @@
      "singers": [
       "Shankar Mahadevan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -13416,7 +13558,9 @@
      "singers": [
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -13513,22 +13657,24 @@
     {
      "title": "Enakkinai Yaar",
      "singers": [
-      "Muthulingam"
+      "Sudha Ragunathan"
      ],
      "lyricists": [
-      "01:09"
+      "Muthulingam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:09"
     },
     {
      "title": "Kannan Nee En",
      "singers": [
-      "04:51"
+      "Sudha Ragunathan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Muthulingam"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:51"
     },
     {
      "title": "Male Toppula",
@@ -13636,7 +13782,9 @@
      "singers": [
       "K. S. Chithra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thamarai"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -13787,10 +13935,10 @@
       "Premji Amaran"
      ],
      "lyricists": [
-      "4:18"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:18"
     },
     {
      "title": "Pudhusai Pudhusai",
@@ -13799,10 +13947,10 @@
       "Tippu"
      ],
      "lyricists": [
-      "4:35"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:35"
     },
     {
      "title": "Singara Kanna",
@@ -13810,10 +13958,10 @@
       "Chitra Sivaraman"
      ],
      "lyricists": [
-      "4:23"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:23"
     },
     {
      "title": "Thithippai",
@@ -13822,10 +13970,10 @@
       "Swarnalatha"
      ],
      "lyricists": [
-      "3:36"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:36"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Junior_Senior_(2002_film)",
@@ -14080,7 +14228,9 @@
      "singers": [
       "Nagore E. M. Hanifa"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Mu. Metha"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -14090,7 +14240,9 @@
       "K. S. Chithra",
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Mu. Metha"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -14275,10 +14427,10 @@
       "Malathi Lakshman"
      ],
      "lyricists": [
-      "4:41"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:41"
     },
     {
      "title": "Thaaratha Pati",
@@ -14857,13 +15009,13 @@
     {
      "title": "Paambe Adi Naaga Paambe",
      "singers": [
-      "Kamakodiyan"
+      "Swarnalatha"
      ],
      "lyricists": [
-      "05:18"
+      "Kamakodiyan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:18"
     },
     {
      "title": "Pathu Ooraiyum",
@@ -14883,10 +15035,10 @@
       "Keerthi"
      ],
      "lyricists": [
-      "05:09"
+      "Kalidasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:09"
     },
     {
      "title": "Vaadi Amma Vaadi",
@@ -15333,14 +15485,18 @@
     },
     {
      "title": "Uyir Theduthe",
-     "singers": [],
+     "singers": [
+      "Bharadwaj"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Kangalai Pole",
-     "singers": [],
+     "singers": [
+      "Bharadwaj"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -15807,10 +15963,10 @@
       "Srinivas"
      ],
      "lyricists": [
-      "5:32"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:32"
     },
     {
      "title": "Azhagin Azhage Nee",
@@ -15818,10 +15974,10 @@
       "Tippu"
      ],
      "lyricists": [
-      "5:14"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:14"
     },
     {
      "title": "Mottugale Mottugale",
@@ -15830,10 +15986,10 @@
       "Hariharan"
      ],
      "lyricists": [
-      "4:57"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:57"
     },
     {
      "title": "Putham Pudhu Rojaave",
@@ -15841,10 +15997,10 @@
       "P. Unnikrishnan"
      ],
      "lyricists": [
-      "4:55"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:55"
     },
     {
      "title": "Subbammaa",
@@ -15853,10 +16009,10 @@
       "Manicka Vinayagam"
      ],
      "lyricists": [
-      "5:29"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:29"
     },
     {
      "title": "Uyir Konda Rojaave",
@@ -15864,10 +16020,10 @@
       "Bharadwaj"
      ],
      "lyricists": [
-      "5:08"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:08"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Roja_Kootam",
@@ -16019,10 +16175,10 @@
       "Srinivas"
      ],
      "lyricists": [
-      "6:16"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "6:16"
     },
     {
      "title": "Penne Penne",
@@ -16057,10 +16213,10 @@
       "Sujatha"
      ],
      "lyricists": [
-      "6:10"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "6:10"
     },
     {
      "title": "Malaraai Malaraai",
@@ -16068,10 +16224,10 @@
       "P. Unnikrishnan"
      ],
      "lyricists": [
-      "2:12"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:12"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Samasthanam",
@@ -17115,10 +17271,10 @@
       "P. Unnikrishnan"
      ],
      "lyricists": [
-      "5:38"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:38"
     },
     {
      "title": "Ennai Thalattum",
@@ -17126,7 +17282,9 @@
       "Unni Menon",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -17147,10 +17305,10 @@
       "Unni Menon"
      ],
      "lyricists": [
-      "4:15"
+      "R. Ravishankar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:15"
     },
     {
      "title": "Sil Sil Silala",
@@ -17223,7 +17381,9 @@
      "singers": [
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "R.Ravishankar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -17232,7 +17392,9 @@
      "singers": [
       "Unni Menon"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "R.Ravishankar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -17241,7 +17403,9 @@
      "singers": [
       "Tippu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "R.Ravishankar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -17251,7 +17415,9 @@
       "P. Unnikrishnan",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "R.Ravishankar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -17944,7 +18110,9 @@
       "Mahalakshmi Iyer",
       "Ranjith"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -17954,7 +18122,9 @@
       "Karthik",
       "K. S. Chithra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -17963,7 +18133,9 @@
      "singers": [
       "Ranjith"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -18194,7 +18366,9 @@
       "Srinivas",
       "Manorama"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -18626,7 +18800,9 @@
       "Tippu",
       "Kalpana Raghavendar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kalaikumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -18648,7 +18824,9 @@
       "Vijay Yesudas",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kabilan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -19065,7 +19243,9 @@
      "singers": [
       "Shankar Mahadevan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -19075,7 +19255,9 @@
       "Karthik",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -19160,7 +19342,9 @@
      "singers": [
       "Silambarasan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -19192,7 +19376,9 @@
      "singers": [
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -19202,7 +19388,9 @@
       "Mahalakshmi Iyer",
       "KK"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -19521,7 +19709,9 @@
      "singers": [
       "Sumangali"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thamarai"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -19598,10 +19788,10 @@
       "Anuradha Sriram"
      ],
      "lyricists": [
-      "05:04"
+      "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:04"
     },
     {
      "title": "Ponmaalai",
@@ -19609,10 +19799,10 @@
       "Karthik"
      ],
      "lyricists": [
-      "04:53"
+      "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:53"
     },
     {
      "title": "Vettu Adha",
@@ -20540,10 +20730,10 @@
       "Chinmayee"
      ],
      "lyricists": [
-      "4:36"
+      "Kabilan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:36"
     },
     {
      "title": "Yea Penna",
@@ -20615,7 +20805,9 @@
       "Manikka Vinayagam",
       "Karthik"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -20641,7 +20833,9 @@
       "Pop Shalini",
       "Febi Mani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -20788,10 +20982,10 @@
       "Sujatha"
      ],
      "lyricists": [
-      "4:04"
+      "Viveka"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:04"
     },
     {
      "title": "Uchi Kilaiyilae",
@@ -20800,10 +20994,10 @@
       "Srinivas"
      ],
      "lyricists": [
-      "5:15"
+      "Viveka"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:15"
     },
     {
      "title": "Unnai Thinam",
@@ -20813,10 +21007,10 @@
       "P. Unni Krishnan"
      ],
      "lyricists": [
-      "5:10"
+      "Viveka"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:10"
     },
     {
      "title": "Vaazhga Pallandu (Female)",
@@ -20835,10 +21029,10 @@
       "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
-      "4:47"
+      "Amuthabharathi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:47"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kadhaludan",
@@ -20966,10 +21160,10 @@
       "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
-      "4:42"
+      "J. Ramesh"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:42"
     },
     {
      "title": "Varudhu Varudhu",
@@ -21016,10 +21210,10 @@
       "Reshmi"
      ],
      "lyricists": [
-      "5:05"
+      "J. Ramesh"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:05"
     },
     {
      "title": "Manitha Manitha",
@@ -21090,11 +21284,14 @@
     {
      "title": "Ezhu Vannam",
      "singers": [
-      "4:43"
+      "Karthik",
+      "Sadhana Sargam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Mu. Metha"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:43"
     },
     {
      "title": "Ithuvarai Naanoru",
@@ -21110,11 +21307,13 @@
     {
      "title": "Kasturi Pottu",
      "singers": [
-      "4:51"
+      "Tippu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:51"
     },
     {
      "title": "Siru Siru Siragugalil",
@@ -21133,10 +21332,10 @@
       "Vijay Yesudas"
      ],
      "lyricists": [
-      "5:28"
+      "Muthulingam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:28"
     },
     {
      "title": "Unnai Thedi Thedi",
@@ -21484,7 +21683,9 @@
      "singers": [
       "Sadhana Sargam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -21495,7 +21696,9 @@
       "Tippu",
       "Karthik"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -21505,7 +21708,9 @@
       "Malgudi Subha",
       "Karthik"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -21515,7 +21720,9 @@
       "Hariharan",
       "Sadhana Sargam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -22071,10 +22278,10 @@
       "Tippu"
      ],
      "lyricists": [
-      "6:12"
+      "Palani Bharathi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "6:12"
     },
     {
      "title": "Andaman Theeve",
@@ -22753,10 +22960,10 @@
       "Naveen"
      ],
      "lyricists": [
-      "4:58"
+      "Ponniyin Selvan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:58"
     },
     {
      "title": "Thillaiyaadi",
@@ -23061,8 +23268,12 @@
     },
     {
      "title": "Kalangathe",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "Tippu"
+     ],
+     "lyricists": [
+      "Ilayakamban"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -23072,7 +23283,9 @@
       "Unnikrishnan",
       "Mahathi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ilayakamban"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -23081,7 +23294,9 @@
      "singers": [
       "Bharani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ilayakamban"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -23310,10 +23525,10 @@
       "Kovai Kamala"
      ],
      "lyricists": [
-      "05:09"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:09"
     },
     {
      "title": "Marathi Kutti",
@@ -24029,7 +24244,9 @@
       "Hariharan",
       "Chinmayi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -24050,7 +24267,9 @@
       "Srinivas",
       "Mahalakshmi Iyer"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -24137,10 +24356,10 @@
       "Richa Sharma"
      ],
      "lyricists": [
-      "5:05"
+      "P. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:05"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Well_Done_(2003_film)",
@@ -24284,10 +24503,10 @@
       "Udit Narayan"
      ],
      "lyricists": [
-      "4:38"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:38"
     },
     {
      "title": "Mathapoo",
@@ -24297,10 +24516,10 @@
       "Sri Vardhini"
      ],
      "lyricists": [
-      "3:59"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:59"
     },
     {
      "title": "Mudhal Murai",
@@ -24309,10 +24528,10 @@
       "Mahalakshmi Iyer"
      ],
      "lyricists": [
-      "5:10"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:10"
     },
     {
      "title": "Engirundhai",
@@ -24320,10 +24539,10 @@
       "Harish Raghavendra"
      ],
      "lyricists": [
-      "4:06"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:06"
     },
     {
      "title": "Kozhi Kokkarra",
@@ -24819,10 +25038,10 @@
       "Naveen"
      ],
      "lyricists": [
-      "04:50"
+      "Kalidasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:50"
     },
     {
      "title": "Thagadu Thagadu",
@@ -25523,10 +25742,10 @@
       "Vijay Yesudas"
      ],
      "lyricists": [
-      "4:40"
+      "Kalaikumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:40"
     },
     {
      "title": "Kala Kalavena (Duet)",
@@ -25535,10 +25754,10 @@
       "Padmalatha"
      ],
      "lyricists": [
-      "4:39"
+      "Kalaikumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:39"
     },
     {
      "title": "Nee Kidaicha",
@@ -25546,10 +25765,10 @@
       "Vijay Yesudas"
      ],
      "lyricists": [
-      "4:11"
+      "Kalaikumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:11"
     },
     {
      "title": "Vaada Thambi",
@@ -26307,7 +26526,9 @@
      "singers": [
       "Kalpana Raghavendar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kabilan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -26329,7 +26550,9 @@
       "Srinivas",
       "Ganga"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -26338,7 +26561,9 @@
      "singers": [
       "Sangeetha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -26932,10 +27157,10 @@
       "Mahathi"
      ],
      "lyricists": [
-      "05:30"
+      "Snehan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:30"
     },
     {
      "title": "Sushmitha Kiss Thantha",
@@ -27036,10 +27261,10 @@
       "Srilekha Parthasarathy"
      ],
      "lyricists": [
-      "4:14"
+      "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:14"
     },
     {
      "title": "Muttikkalama",
@@ -27828,7 +28053,9 @@
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -27954,7 +28181,9 @@
       "Udit Narayan",
       "Srilekha Parthasarathy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -27976,7 +28205,9 @@
       "Karthik",
       "Sayanora Philip"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -28271,8 +28502,13 @@
     },
     {
      "title": "Podavai Vaangi",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "Krishnaraj",
+      "Malathy"
+     ],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -28924,10 +29160,10 @@
       "Mano"
      ],
      "lyricists": [
-      "04:48"
+      "Snehan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:48"
     },
     {
      "title": "Naan Hindustani",
@@ -28935,10 +29171,10 @@
       "Jay Karthik"
      ],
      "lyricists": [
-      "05:02"
+      "Snehan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:02"
     },
     {
      "title": "Pooparikkum",
@@ -28946,10 +29182,10 @@
       "Sabesh"
      ],
      "lyricists": [
-      "06:01"
+      "Snehan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "06:01"
     },
     {
      "title": "Raasathi",
@@ -28958,10 +29194,10 @@
       "Harini"
      ],
      "lyricists": [
-      "04:26"
+      "Snehan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:26"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Sound_Party",
@@ -29857,7 +30093,9 @@
       "Gopika Poornima",
       "Karthik"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ilaiyaraaja"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -29867,7 +30105,9 @@
       "Tippu",
       "Gopika Poornima"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ilaiyaraaja"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -29888,7 +30128,9 @@
       "Srinivas",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Sumathy Ram"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -29897,7 +30139,9 @@
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Sumathy Ram"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -30330,7 +30574,9 @@
       "Anuradha Sriram",
       "Dhina"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -30352,7 +30598,9 @@
       "Karthik",
       "Srilekha Parthasarathy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -30389,22 +30637,34 @@
     },
     {
      "title": "Bharathiyin Arimugam",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "D. Imman"
+     ],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Chandravin Arimugam",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "D. Imman"
+     ],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Divyavin Arimugam",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "D. Imman"
+     ],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -30436,7 +30696,9 @@
      "singers": [
       "Saindhavi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Saravana Subbiah"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -30446,7 +30708,9 @@
       "Mahathi",
       "Haricharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Saravana Subbiah"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -30576,7 +30840,9 @@
       "Tippu",
       "Mahathi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ilayakamban"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -30586,7 +30852,9 @@
       "Karthik",
       "Grace Karunas"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ilayakamban"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -30730,8 +30998,10 @@
      "length": ""
     },
     {
-     "title": "Madhushree",
-     "singers": [],
+     "title": "Mayiliragae",
+     "singers": [
+      "Madhushree"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -30746,8 +31016,10 @@
      "length": ""
     },
     {
-     "title": "K. S. Chithra",
-     "singers": [],
+     "title": "Varugiraai",
+     "singers": [
+      "K. S. Chithra"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -30762,8 +31034,10 @@
      "length": ""
     },
     {
-     "title": "Blaaze",
-     "singers": [],
+     "title": "Thigu Thigu",
+     "singers": [
+      "Blaaze"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -30778,8 +31052,10 @@
      "length": ""
     },
     {
-     "title": "Shreya Ghoshal",
-     "singers": [],
+     "title": "Thazhuvudu",
+     "singers": [
+      "Shreya Ghoshal"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -30794,22 +31070,28 @@
      "length": ""
     },
     {
-     "title": "Pop Shalini",
-     "singers": [],
+     "title": "Maram Kothiye",
+     "singers": [
+      "Pop Shalini"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
-     "title": "Vasundhara Das",
-     "singers": [],
+     "title": "Maram Kothiye",
+     "singers": [
+      "Vasundhara Das"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
-     "title": "Blaaze",
-     "singers": [],
+     "title": "Maram Kothiye",
+     "singers": [
+      "Blaaze"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -30950,7 +31232,9 @@
       "Srinivas",
       "Janani Bharadwaj"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Palani Bharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -31566,7 +31850,9 @@
       "Sarath Kumar",
       "Josh"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kabilan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -32224,7 +32510,9 @@
      "singers": [
       "Haricharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "S. P. Hosimin"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -32233,7 +32521,9 @@
      "singers": [
       "Shri Krishna"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "S. P. Hosimin"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -32243,7 +32533,9 @@
       "Pushpavanam Kuppusamy",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "S. P. Hosimin"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -32254,7 +32546,9 @@
       "Donnan",
       "Andrea"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "S. P. Hosimin"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -32401,10 +32695,10 @@
       "Sridevi"
      ],
      "lyricists": [
-      "05:11"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:11"
     },
     {
      "title": "Meesa Vecha Paiya",
@@ -33795,7 +34089,9 @@
       "Sujatha",
       "Paravai Muniyamma"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -33805,7 +34101,9 @@
       "Malathy",
       "Shankar Mahadevan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -33838,7 +34136,9 @@
      "singers": [
       "Unni Menon"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -33879,7 +34179,9 @@
       "Janani Bharadwaj",
       "Srinivas"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -33888,7 +34190,9 @@
      "singers": [
       "Sathya"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -33897,7 +34201,9 @@
      "singers": [
       "Vadivelu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -33906,7 +34212,9 @@
      "singers": [
       "Pop Shalini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -33915,7 +34223,9 @@
      "singers": [
       "Suchitra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -34169,7 +34479,9 @@
      "singers": [
       "Kailash Kher"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -34294,7 +34606,7 @@
       "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:36"
     },
     {
      "title": "Mannile (I Love You Shailaja)",
@@ -34303,10 +34615,10 @@
       "Sumangali"
      ],
      "lyricists": [
-      "5:25"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:25"
     },
     {
      "title": "Isthanbul",
@@ -34315,10 +34627,10 @@
       "Kalpana"
      ],
      "lyricists": [
-      "4:15"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:15"
     },
     {
      "title": "Thappe Ille",
@@ -34327,10 +34639,10 @@
       "Harini"
      ],
      "lyricists": [
-      "3:57"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:57"
     },
     {
      "title": "Muthu Mazhaiye",
@@ -34339,10 +34651,10 @@
       "Sumangali"
      ],
      "lyricists": [
-      "1:24"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "1:24"
     },
     {
      "title": "Kuchikaruvadu",
@@ -34351,10 +34663,10 @@
       "Srilekha Parthasarathy"
      ],
      "lyricists": [
-      "5:30"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:30"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Mazhai",
@@ -34650,9 +34962,11 @@
     {
      "title": "Ilamaikkoor Vegam",
      "singers": [
+      "Sonu Nigam"
+     ],
+     "lyricists": [
       "Vaali"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -34664,7 +34978,9 @@
       "Sadhana Sargam",
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -34674,7 +34990,9 @@
       "Shreya Ghosal",
       "Bhavatharini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -34683,7 +35001,9 @@
      "singers": [
       "Ilaiyaraaja"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -34717,7 +35037,9 @@
       "Manjari",
       "Tippu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -34905,7 +35227,9 @@
       "KK",
       "Sujatha Mohan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -34916,7 +35240,9 @@
       "Benny Dayal",
       "Arjun"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -34926,7 +35252,9 @@
       "Harish Raghavendra",
       "Cicilly"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -34936,7 +35264,9 @@
       "Anuradha Sriram",
       "Mathangi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -35065,7 +35395,9 @@
      "singers": [
       "K. S. Chithra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -35075,7 +35407,9 @@
       "Hariharan",
       "Zambia Raja"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -35231,7 +35565,9 @@
      "singers": [
       "Harini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -35675,7 +36011,9 @@
       "Sangeetha Rajeshwaran",
       "Uma Mahesh"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -35698,7 +36036,9 @@
       "Ranjith",
       "Vinaya"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vijay Antony"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -35731,7 +36071,9 @@
       "Timmy",
       "Gayathri"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vijay Antony"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -35752,7 +36094,9 @@
       "Jaidev",
       "Manikka Vinayagam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kabilan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -36613,10 +36957,10 @@
       "Anuradha Sriram"
      ],
      "lyricists": [
-      "04:17"
+      "Snehan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:17"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Vanakkam_Thalaiva",
@@ -36912,7 +37256,9 @@
       "Saindhavi",
       "Tippu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -36922,7 +37268,9 @@
       "KK",
       "Sujatha Mohan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -38230,10 +38578,10 @@
       "Sangeetha Rajeshwaran"
      ],
      "lyricists": [
-      "3:50"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:50"
     },
     {
      "title": "Poovin Madiyil",
@@ -38242,10 +38590,10 @@
       "Hariharan"
      ],
      "lyricists": [
-      "3:55"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:55"
     },
     {
      "title": "Nenjil Enna",
@@ -38277,10 +38625,10 @@
       "Chaitra H. G."
      ],
      "lyricists": [
-      "4:49"
+      "Vairamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:49"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Iruvar_Mattum",
@@ -38578,7 +38926,9 @@
      "singers": [
       "Jassie Gift"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -38588,7 +38938,9 @@
       "Pallavarajan",
       "Malathy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -38597,7 +38949,9 @@
      "singers": [
       "Harish Raghavendra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -38606,7 +38960,9 @@
      "singers": [
       "Prema Rajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -39154,7 +39510,9 @@
       "Harish Raghavendra",
       "Harini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vijay Sagar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -39163,7 +39521,9 @@
      "singers": [
       "Harini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vijay Sagar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -39240,7 +39600,9 @@
      "singers": [
       "Karthik"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -39565,7 +39927,9 @@
       "Ilaiyaraaja",
       "Manjari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -39597,7 +39961,9 @@
       "Malathy",
       "Ranjith"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -40874,7 +41240,9 @@
      "singers": [
       "Shankar Mahadevan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -40906,7 +41274,9 @@
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kirithaya"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -40926,7 +41296,9 @@
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -41562,7 +41934,9 @@
       "Karthik",
       "Maalaiamma"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -41575,7 +41949,9 @@
       "Palanisami",
       "Gunavathi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -41597,7 +41973,9 @@
      "singers": [
       "Chinnaponnu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -41635,7 +42013,9 @@
       "Saindhavi",
       "Mahalingham"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -41935,8 +42315,12 @@
       "S. P. Balasubrahmanyam",
       "Chinmayi"
      ],
-     "lyricists": [],
-     "musicDirectors": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
+     "musicDirectors": [
+      "Paul J."
+     ],
      "length": ""
     },
     {
@@ -41945,9 +42329,11 @@
       "Grace Karunas",
       "Karunas"
      ],
-     "lyricists": [],
-     "musicDirectors": [
+     "lyricists": [
       "Vaali"
+     ],
+     "musicDirectors": [
+      "Paul J."
      ],
      "length": ""
     },
@@ -41957,9 +42343,11 @@
       "Sangeetha Sajith",
       "Andrea Jeremiah"
      ],
-     "lyricists": [],
-     "musicDirectors": [
+     "lyricists": [
       "Vairamuthu"
+     ],
+     "musicDirectors": [
+      "Paul J."
      ],
      "length": ""
     },
@@ -41983,8 +42371,12 @@
       "Tippu",
       "Priyadarshini"
      ],
-     "lyricists": [],
-     "musicDirectors": [],
+     "lyricists": [
+      "Mounan"
+     ],
+     "musicDirectors": [
+      "Srikanth Deva"
+     ],
      "length": ""
     }
    ],
@@ -42113,7 +42505,9 @@
      "singers": [
       "Saindhavi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -42123,7 +42517,9 @@
       "Swarnalatha",
       "P. Jayachandran"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -42132,7 +42528,9 @@
      "singers": [
       "Swarnalatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -42143,7 +42541,9 @@
       "Manikka Vinayagam",
       "Balesh"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -42165,7 +42565,9 @@
       "Karthik",
       "Kalyani Nair"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -42175,7 +42577,9 @@
       "Karthik",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -42807,10 +43211,10 @@
       "Chitra Sivaraman"
      ],
      "lyricists": [
-      "4:00"
+      "Gopal"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:00"
     },
     {
      "title": "Thullura Vayasu",
@@ -42840,10 +43244,10 @@
       "Sujatha"
      ],
      "lyricists": [
-      "4:41"
+      "Gopal"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:41"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Thullura_Vayasu",
@@ -43744,7 +44148,9 @@
       "Aishwarya",
       "Silambarasan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -43753,7 +44159,9 @@
      "singers": [
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -43762,7 +44170,9 @@
      "singers": [
       "Mathangi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -43771,7 +44181,9 @@
      "singers": [
       "Karthik"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -45161,7 +45573,9 @@
       "Chinnaponnu",
       "Tippu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -45170,7 +45584,9 @@
      "singers": [
       "Hariharan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -45182,7 +45598,9 @@
       "Karthik",
       "Sangeetha Rajeshwaran"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -45191,7 +45609,9 @@
      "singers": [
       "Bombay Jayashree"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -45863,7 +46283,9 @@
      "singers": [
       "Shreya Ghoshal"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": "4:34"
     },
@@ -45930,7 +46352,7 @@
       "Yugabharathi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:34"
     },
     {
      "title": "Kantha Kadamba",
@@ -45941,7 +46363,7 @@
       "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:23"
     },
     {
      "title": "Oh Baby",
@@ -45952,19 +46374,19 @@
       "Yugabharathi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:37"
     },
     {
      "title": "Uyire Uyire",
      "singers": [
-      "05:02"
-     ],
-     "lyricists": [
       "Ranjith",
       "Rita Thyagarajan"
      ],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:02"
     },
     {
      "title": "Yeh Aatha",
@@ -45976,7 +46398,7 @@
       "Gangai Amaran"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:01"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Malaikottai",
@@ -46015,7 +46437,9 @@
       "Tippu",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -46203,16 +46627,22 @@
     {
      "title": "Kaadhal Indru",
      "singers": [
+      "Ilaiyaraaja"
+     ],
+     "lyricists": [
       "Muthulingam"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Kaasu Kaiyil",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "Ilaiyaraaja"
+     ],
+     "lyricists": [
+      "Muthulingam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -46850,10 +47280,10 @@
       "Vijay Yesudas"
      ],
      "lyricists": [
-      "3:11"
+      "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:11"
     },
     {
      "title": "Kadhal Kadhal",
@@ -47047,7 +47477,9 @@
      "singers": [
       "Vinaya"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Annamalai"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47213,7 +47645,9 @@
      "singers": [
       "K. A. Gunasekaran"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47222,7 +47656,9 @@
      "singers": [
       "Bharadwaj"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47232,7 +47668,9 @@
       "Bharadwaj",
       "Gunavathi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47242,7 +47680,9 @@
       "S. P. Balasubrahmanyam",
       "Janani Bharadwaj"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47251,7 +47691,9 @@
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vairamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -47293,7 +47735,9 @@
       "Alka Yagnik",
       "Shankar Mahadevan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47303,7 +47747,9 @@
       "Jassie Gift",
       "Kailash Kher"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47312,7 +47758,9 @@
      "singers": [
       "Manicka Vinayakam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47322,7 +47770,9 @@
       "Sunitha Sarathy",
       "George Peter"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47374,7 +47824,9 @@
       "Karthik",
       "Swarnalatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47394,7 +47846,9 @@
      "singers": [
       "Karthik Raja"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47641,8 +48095,12 @@
     },
     {
      "title": "9 Manikku 9 Manikku",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "Ramji Isai Mazhalai"
+     ],
+     "lyricists": [
+      "Viveka"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -47720,10 +48178,10 @@
       "Vijay Yesudas"
      ],
      "lyricists": [
-      "3:59"
+      "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:59"
     },
     {
      "title": "Nee Rasthali",
@@ -47754,10 +48212,10 @@
       "S. P. Balasubrahmanyam"
      ],
      "lyricists": [
-      "2:00"
+      "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:00"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Parattai_Engira_Azhagu_Sundaram",
@@ -48163,10 +48621,10 @@
       "Srinivas"
      ],
      "lyricists": [
-      "4:58"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:58"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Pirappu",
@@ -48638,7 +49096,9 @@
       "Tippu",
       "Sujatha Mohan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -48649,7 +49109,9 @@
       "Naveen",
       "Rahul Nambiar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -48659,7 +49121,9 @@
       "Naveen",
       "Bhargavi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -49159,10 +49623,10 @@
       "Priyadarshini"
      ],
      "lyricists": [
-      "5:16"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:16"
     },
     {
      "title": "Maduraveera",
@@ -49569,7 +50033,9 @@
       "Silambarasan",
       "Paravai Muniyamma"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -49591,7 +50057,9 @@
       "Shankar Mahadevan",
       "Ganga"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kalaikumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -50555,24 +51023,24 @@
     {
      "title": "Aatala Paatala",
      "singers": [
-      "4:40"
-     ],
-     "lyricists": [
       "Madhu Balakrishnan"
      ],
+     "lyricists": [
+      "Anantha Sriram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:40"
     },
     {
      "title": "Dooram Kaavala",
      "singers": [
-      "4:20"
-     ],
-     "lyricists": [
       "S. P. Balasubrahmanyam"
      ],
+     "lyricists": [
+      "Anantha Sriram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:20"
     },
     {
      "title": "Chinnamma Kalyanam",
@@ -50895,7 +51363,9 @@
       "Prasanna",
       "Swetha Mohan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kabilan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -50905,7 +51375,9 @@
       "Suchitra",
       "Hemambika"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kabilan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -50926,7 +51398,9 @@
       "Ranjith",
       "Megha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -51387,7 +51861,9 @@
      "singers": [
       "Sunitha Sarathy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -51396,7 +51872,9 @@
      "singers": [
       "Karthik"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -51557,7 +52035,9 @@
      "singers": [
       "S. P. Balasubrahmanyam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thabu Shankar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -51590,7 +52070,9 @@
       "Karthik",
       "Saloni"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thabu Shankar"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -52502,10 +52984,10 @@
       "Suchitra"
      ],
      "lyricists": [
-      "5:04"
+      "Piraisoodan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:04"
     },
     {
      "title": "Anchu Viralaivichan",
@@ -52514,10 +52996,10 @@
       "Pop Shalini"
      ],
      "lyricists": [
-      "4:40"
+      "Piraisoodan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:40"
     },
     {
      "title": "Chinna China Kathai",
@@ -52527,10 +53009,10 @@
       "S. Sathya"
      ],
      "lyricists": [
-      "5:28"
+      "Piraisoodan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:28"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kodaikanal_(film)",
@@ -52851,7 +53333,9 @@
       "Haricharan",
       "Rita"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "P. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -53433,7 +53917,9 @@
       "Naveen Madhav",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Nanadala"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -53442,7 +53928,9 @@
      "singers": [
       "Deva"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Nanadala"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -53452,7 +53940,9 @@
       "Senthildass Velayutham",
       "Grace Karunas"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Nanadala"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -53779,7 +54269,9 @@
      "singers": [
       "Balaram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -53788,7 +54280,9 @@
      "singers": [
       "Sadhana Sargam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -54085,7 +54579,9 @@
      "singers": [
       "Vidyasagar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Jayantha"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -54671,7 +55167,9 @@
       "Shreya Ghoshal",
       "Prashanthini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -54680,7 +55178,9 @@
      "singers": [
       "Benny Dayal"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -54689,7 +55189,9 @@
      "singers": [
       "Naresh Iyer"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -54711,7 +55213,9 @@
       "Hariharan",
       "Deepa Miriam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Hari"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -55827,7 +56331,9 @@
       "P. Unnikrishnan",
       "Sujatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thamarai"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -55879,7 +56385,9 @@
      "singers": [
       "Chinmayi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Aanadal Priyadarshini"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -55899,14 +56407,20 @@
      "singers": [
       "Bharadwaj"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Megangal Illamal",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "Bharadwaj"
+     ],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -55970,7 +56484,9 @@
      "singers": [
       "S. A. Rajkumar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "S. A. Rajkumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -55991,7 +56507,9 @@
       "Karthik",
       "Harini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -56001,7 +56519,9 @@
       "Karthik",
       "Priya Himesh"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -56011,7 +56531,9 @@
       "Shweta Mohan",
       "Tippu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pa. Vijay"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -56641,7 +57163,9 @@
       "Vijay Antony",
       "Sangeetha Rajeshwaran"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Eknaath"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -56905,10 +57429,10 @@
       "Rahul Nambiar"
      ],
      "lyricists": [
-      "1.25"
+      "Andal Priyadarshini"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "1.25"
     },
     {
      "title": "Theme Music",
@@ -57228,7 +57752,9 @@
       "Silambarasan",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -57304,10 +57830,10 @@
       "Sonu Kakkar"
      ],
      "lyricists": [
-      "05:03"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:03"
     },
     {
      "title": "Endhan Rajadhi",
@@ -57315,10 +57841,10 @@
       "Mahalakshmi Iyer"
      ],
      "lyricists": [
-      "03:11"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:11"
     },
     {
      "title": "Oru Poongatru",
@@ -57327,10 +57853,10 @@
       "Shankar Mahadevan"
      ],
      "lyricists": [
-      "03:23"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:23"
     },
     {
      "title": "Rendu Rendu",
@@ -57339,10 +57865,10 @@
       "Madhushree"
      ],
      "lyricists": [
-      "04:52"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:52"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Arumugam_(film)",
@@ -57721,10 +58247,10 @@
       "Kalyani Nair"
      ],
      "lyricists": [
-      "04:25"
+      "Karunanidhi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:25"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Enga_Raasi_Nalla_Raasi",
@@ -58147,7 +58673,9 @@
       "Ujjaini",
       "Shweta Mohan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -58169,7 +58697,9 @@
       "Nancy Vincent",
       "Rahul Nambiar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -58178,7 +58708,9 @@
      "singers": [
       "K. S. Chithra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -58345,7 +58877,9 @@
       "Tippu",
       "Dhina"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -58378,7 +58912,9 @@
       "Shankar Mahadevan",
       "Suchitra"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Viveka"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -59164,7 +59700,9 @@
       "Krishnaraj",
       "Shavarya"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -59174,7 +59712,9 @@
       "Chinnaponnu",
       "Naveen"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -59184,7 +59724,9 @@
       "Tippu",
       "Anuradha Sriram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -59193,7 +59735,9 @@
      "singers": [
       "Sadhana Sargam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Snehan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -59362,10 +59906,10 @@
       "Unni Menon"
      ],
      "lyricists": [
-      "03:00"
+      "Na. Muthukumar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:00"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Mariyadhai",
@@ -59415,18 +59959,26 @@
     {
      "title": "Ilavayasu Pasanga",
      "singers": [
+      "Tippu",
+      "Vijay Yesudas",
+      "Rahul Nambiar"
+     ],
+     "lyricists": [
       "Na. Muthukumar"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Sullikuppam Ganapathy",
      "singers": [
+      "Tippu",
+      "Vijay Yesudas",
+      "Rahul Nambiar"
+     ],
+     "lyricists": [
       "Muthulingam"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -62328,10 +62880,10 @@
       "Sadhana Sargam"
      ],
      "lyricists": [
-      "4:46"
+      "Kabilan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:46"
     },
     {
      "title": "Kaadhal Panna Poriya",
@@ -62339,10 +62891,10 @@
       "Deva"
      ],
      "lyricists": [
-      "4:06"
+      "Kabilan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:06"
     },
     {
      "title": "Masakki Masakki",
@@ -62350,10 +62902,10 @@
       "Nirthiya"
      ],
      "lyricists": [
-      "4:46"
+      "Kabilan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:46"
     },
     {
      "title": "Theeka Theeka Theekana",
@@ -62486,7 +63038,9 @@
       "Sadhana Sargam",
       "Madhu Balakrishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -62495,7 +63049,9 @@
      "singers": [
       "Roshini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -62546,7 +63102,9 @@
       "Naveen",
       "Ranjith"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Lalithanand"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -62556,7 +63114,9 @@
       "Haricharan",
       "Saindhavi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Lalithanand"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -62670,10 +63230,10 @@
       "Ranjith"
      ],
      "lyricists": [
-      "5:07"
+      "Pa. Vijay"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:07"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Thoranai",
@@ -62800,7 +63360,9 @@
      "singers": [
       "V. Prasanna"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -62821,7 +63383,9 @@
       "Rahul Nambiar",
       "Sakthisree Gopalan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Priyan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -63074,8 +63638,12 @@
     },
     {
      "title": "Ennada Pandi...",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "Ilaiyaraaja"
+     ],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -63084,7 +63652,9 @@
      "singers": [
       "Bela Shende"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -63094,7 +63664,9 @@
       "Bela Shende",
       "Ilaiyaraaja"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -63104,7 +63676,9 @@
       "Rita",
       "Rahul Nambiar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -63114,7 +63688,9 @@
       "Tippu",
       "Rahul Nambiar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -63123,7 +63699,9 @@
      "singers": [
       "Shreya Ghosal"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -63457,7 +64035,9 @@
      "singers": [
       "Bombay Jayashree"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -63474,7 +64054,9 @@
       "Moorthi",
       "Bhava Lakshmanan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -63484,7 +64066,9 @@
       "Madhu Balakrishnan",
       "Madhushree"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -63494,7 +64078,9 @@
       "Shankar Mahadevan",
       "Darshana KT"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Yugabharathi"
+     ],
      "musicDirectors": [],
      "length": ""
     }

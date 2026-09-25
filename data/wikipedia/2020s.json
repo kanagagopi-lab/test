@@ -1265,12 +1265,14 @@
     },
     {
      "title": "Total length:",
-     "singers": [],
+     "singers": [
+      "Total length"
+     ],
      "lyricists": [
-      "12:38"
+      "Total length"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "12:38"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Ettuthikkum_Para",
@@ -5128,7 +5130,9 @@
      "singers": [
       "Andrea Jeremiah"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Na. Muthukumar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5149,7 +5153,9 @@
      "singers": [
       "Sunitha Sarathy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Viveka"
+     ],
      "musicDirectors": [],
      "length": ""
     }

@@ -130,28 +130,36 @@
     },
     {
      "title": "Amirdhamum Vishamum Serndhe",
-     "singers": [],
+     "singers": [
+      "Lakshmi Shankar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Gopaalan Venuganam Paada",
-     "singers": [],
+     "singers": [
+      "Lakshmi Shankar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Yeno Madamai Ulaginar Varuga",
-     "singers": [],
+     "singers": [
+      "Lakshmi Shankar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Maaraa Maiyal",
-     "singers": [],
+     "singers": [
+      "Lakshmi Shankar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -193,10 +201,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "02:08"
+      "H. L. N. Simha"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:08"
     },
     {
      "title": "Asheya Gopura Nirmisikondu",
@@ -205,10 +213,10 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "03:15"
+      "H. L. N. Simha"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:15"
     },
     {
      "title": "Kanna Mucchale Aaduva",
@@ -218,10 +226,10 @@
       "Swarnalatha"
      ],
      "lyricists": [
-      "02:27"
+      "H. L. N. Simha"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:27"
     },
     {
      "title": "Anandadaayakavu Priyakarana Olavu",
@@ -229,19 +237,19 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "03:20"
+      "H. L. N. Simha"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:20"
     },
     {
      "title": "Oh Soma Soma",
      "singers": [],
      "lyricists": [
-      "02:48"
+      "H. L. N. Simha"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:48"
     },
     {
      "title": "Ba Chinna Mohana Nodenna",
@@ -251,10 +259,10 @@
       "Sohana Kumari"
      ],
      "lyricists": [
-      "03:27"
+      "H. L. N. Simha"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:27"
     },
     {
      "title": "Andhakara",
@@ -335,10 +343,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "3:12"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:12"
     },
     {
      "title": "Laali Laali",
@@ -346,10 +354,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "2:47"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:47"
     },
     {
      "title": "Yentho Yentho Vinthale",
@@ -358,10 +366,10 @@
       "K. Rani"
      ],
      "lyricists": [
-      "2:51"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:51"
     },
     {
      "title": "Virisindi Vintha Haayi",
@@ -370,10 +378,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "2:58"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:58"
     },
     {
      "title": "Andamu Anadamu",
@@ -381,10 +389,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:41"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:41"
     },
     {
      "title": "Jo Jo Raja",
@@ -392,10 +400,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:32"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:32"
     },
     {
      "title": "Intiloni Pooru Inthintha",
@@ -403,10 +411,10 @@
       "Pithapuram Nageswara Rao"
      ],
      "lyricists": [
-      "3:06"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:06"
     },
     {
      "title": "Yetuluntio Babu",
@@ -414,10 +422,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:23"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:23"
     },
     {
      "title": "Neekelaraa Ee Vedana",
@@ -425,10 +433,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:15"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:15"
     },
     {
      "title": "Appudu Ne Thippadandi",
@@ -436,17 +444,19 @@
       "Pithapuram Nageswara Rao"
      ],
      "lyricists": [
-      "2:33"
+      "Samudrala Jr"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:33"
     },
     {
      "title": "Anilo Vairula Dorbalambanachi",
      "singers": [
       "Ghantasala"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Samudrala Jr"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -455,7 +465,9 @@
      "singers": [
       "Ghantasala"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Samudrala Jr"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -711,10 +723,10 @@
       "K.Jamuna Rani"
      ],
      "lyricists": [
-      "03:23"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:23"
     },
     {
      "title": "Urukellaam Ore Saami",
@@ -723,17 +735,19 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "02:25"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:25"
     },
     {
      "title": "Thaayille Thandhaiyille",
      "singers": [
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattukkottai Kalyanasundaram"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -744,10 +758,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:18"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:18"
     },
     {
      "title": "Adiyaarku Adiyaaraayi",
@@ -755,7 +769,9 @@
       "K. Jamunarani",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattukkottai Kalyanasundaram"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -765,10 +781,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "03:25"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:25"
     },
     {
      "title": "Kaiyile Valai Kulunga",
@@ -943,29 +959,29 @@
     {
      "title": "Vetri Kollum Vaalendhi",
      "singers": [
-      "05:24"
+      "P. Suseela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:24"
     },
     {
      "title": "Kanneerin Vellam",
      "singers": [
-      "03:16"
+      "P. Suseela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:16"
     },
     {
      "title": "Pothukulunguthey...Sokkudhe Manam",
      "singers": [
-      "03:30"
+      "P. Suseela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     },
     {
      "title": "Bul Bul Paarvaiyile",
@@ -1035,11 +1051,11 @@
     {
      "title": "Vaaraai Mana Mohana",
      "singers": [
-      "03:19"
+      "Radha Jayalakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:19"
     },
     {
      "title": "Paada Paada Theyn Paahaai",
@@ -1053,11 +1069,11 @@
     {
      "title": "Arunodhayam Pol...Sonnale Ragurama Kathai",
      "singers": [
-      "03:24"
+      "P. B. Srinivas"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:24"
     },
     {
      "title": "Yetti Yetti Paakkudu Kannu",
@@ -1101,20 +1117,22 @@
     {
      "title": "OOrode Vazhanum Naam",
      "singers": [
-      "03:17"
+      "P. B. Srinivas",
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:17"
     },
     {
      "title": "Raama Paadhame Gnana Oli",
      "singers": [
-      "02:16"
+      "P. B. Srinivas",
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:16"
     },
     {
      "title": "Annal Unnai Kaanumvarai",
@@ -1128,11 +1146,11 @@
     {
      "title": "Jaanaki Pin Thodara",
      "singers": [
-      "03:10"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:10"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Bhaktha_Sabari",
@@ -1259,10 +1277,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "02:26"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:26"
     },
     {
      "title": "Thannaitthaane Nambaadhadhu",
@@ -1270,10 +1288,10 @@
       "C. S. Jayaraman"
      ],
      "lyricists": [
-      "04:10"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:10"
     },
     {
      "title": "Atho Keerathanaa.... Manidhanai Manidhan",
@@ -1293,10 +1311,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "05:00"
+      "K. S. Gopalakrishnan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:00"
     },
     {
      "title": "Vayasu Pennai Marandhidalaamaa",
@@ -1316,10 +1334,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "04:05"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:05"
     },
     {
      "title": "Ivar Kaanaa Avar Paanaa",
@@ -1614,15 +1632,20 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "03:33"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:33"
     },
     {
      "title": "Idhu Niyaayamaa",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "A. L. Raghavan",
+      "K. Jamuna Rani"
+     ],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1631,7 +1654,9 @@
      "singers": [
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1640,7 +1665,9 @@
      "singers": [
       "Sirkazhi Govindarajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1650,7 +1677,9 @@
       "Jikki",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1660,7 +1689,9 @@
       "S. C. Krishnan",
       "A. G. Rathnamala"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1669,7 +1700,9 @@
      "singers": [
       "R. Balasaraswathi Devi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -1710,10 +1743,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "04:27"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:27"
     },
     {
      "title": "Manidharai Manidhar Sari Nigar Samamaai",
@@ -1721,10 +1754,10 @@
       "Sirkazhi Govindarajan"
      ],
      "lyricists": [
-      "02:40"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:40"
     },
     {
      "title": "Kaiyile Vaanginen Paiyile Podalai",
@@ -1732,21 +1765,21 @@
       "Thiruchi Loganathan"
      ],
      "lyricists": [
-      "03:00"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:00"
     },
     {
      "title": "Erai Piditthavanum English Padichavanum",
      "singers": [
-      "Kothamangalam Subbu"
+      "Thiruchi Loganathan"
      ],
      "lyricists": [
-      "03:19"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:19"
     },
     {
      "title": "Nandri Ketta Manitharukku",
@@ -1754,17 +1787,19 @@
       "Sirkazhi Govindarajan"
      ],
      "lyricists": [
-      "03:22"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:22"
     },
     {
      "title": "Dabba Dabba Dabba",
      "singers": [
       "S. C. Krishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kothamangalam Subbu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1775,10 +1810,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "02:47"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:47"
     },
     {
      "title": "Nikkatuma Pogatuma",
@@ -1786,7 +1821,9 @@
       "Thiruchi Loganathan",
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kothamangalam Subbu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1848,7 +1885,9 @@
       "S. C. Krishnan",
       "M. S. Rajeswari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1857,7 +1896,9 @@
      "singers": [
       "Seerkazhi Govindarajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1866,7 +1907,9 @@
      "singers": [
       "S. Janaki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1900,10 +1943,10 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "03:19"
+      "Villiputhan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:19"
     },
     {
      "title": "Maamuniye Maathavame",
@@ -1964,14 +2007,20 @@
      "singers": [
       "Thiruchi Loganathan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Namakkal Kavignar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Thamizhan Endru Solladaa",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "Thiruchi Loganathan"
+     ],
+     "lyricists": [
+      "Namakkal Kavignar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -1992,7 +2041,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2014,10 +2065,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "04:58"
+      "Namakkal R. Balu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:58"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kadavulin_Kuzhandhai",
@@ -2627,10 +2678,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "02:28"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:28"
     },
     {
      "title": "Achcham Enbadhu Madamaiada",
@@ -2650,10 +2701,10 @@
       "L. R. Anjali"
      ],
      "lyricists": [
-      "02:38"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:38"
     },
     {
      "title": "Engalin Rani",
@@ -2685,10 +2736,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "04:53"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:53"
     },
     {
      "title": "Kaaviri Thaaye Kaaviri Thaaye",
@@ -2696,17 +2747,19 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "03:08"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:08"
     },
     {
      "title": "Kadhar Kozhunan",
      "singers": [
       "Sirkazhi Govindarajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2716,10 +2769,10 @@
       "M. L. Vasanthakumari"
      ],
      "lyricists": [
-      "03:39"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:39"
     },
     {
      "title": "Kaniya Kaniya Mazhalai Pesum",
@@ -2728,10 +2781,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:57"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:57"
     },
     {
      "title": "Neeyo Nano Yaar Nilave",
@@ -2741,17 +2794,19 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:29"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:29"
     },
     {
      "title": "Paadupatta Thannale",
      "singers": [
       "S. C. Krishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2761,10 +2816,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "07:62"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "07:62"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Mannathi_Mannan",
@@ -3087,19 +3142,22 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "03:54"
+      "K. S. Gopalakrishnan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:54"
     },
     {
      "title": "Ulagamellam Irundathu Pol",
      "singers": [
-      "03:39"
+      "Seerkazhi Govindarajan",
+      "S. Janaki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "K. S. Gopalakrishnan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:39"
     },
     {
      "title": "Jodhimi Dhim Dhimi Dhimi Enru Aadalum",
@@ -3107,10 +3165,10 @@
       "P. B. Srinivas"
      ],
      "lyricists": [
-      "01:18"
+      "K. S. Gopalakrishnan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:18"
     },
     {
      "title": "Thaamarai Kannaa",
@@ -3125,8 +3183,12 @@
     },
     {
      "title": "Vandarai Vaazha Vazhi Kaattum",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "C. S. Jayaraman"
+     ],
+     "lyricists": [
+      "T. K. Sundara Vadhyar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3135,7 +3197,9 @@
      "singers": [
       "V. N. Sundaram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "T. K. Sundara Vadhyar"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3158,10 +3222,10 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "04:36"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:36"
     },
     {
      "title": "Kanavondru Kanden Sakiye",
@@ -3213,10 +3277,12 @@
       "Jikki"
      ],
      "lyricists": [
-      "04:22"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "S. Rajeswara Rao"
+     ],
+     "length": "04:22"
     },
     {
      "title": "Chengu Chenguna",
@@ -3224,10 +3290,12 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:09"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "S. Rajeswara Rao"
+     ],
+     "length": "03:09"
     },
     {
      "title": "Enta Manchi Vadavura",
@@ -3236,10 +3304,12 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:51"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": "Master Venu"
+     "musicDirectors": [
+      "Master Venu"
+     ],
+     "length": "03:51"
     },
     {
      "title": "Raitu Medibatti Saagalera Lokam",
@@ -3248,10 +3318,12 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:41"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "Master Venu"
+     ],
+     "length": "03:41"
     },
     {
      "title": "Topi Najooku Techu Topi",
@@ -3259,10 +3331,12 @@
       "Madhavapeddi Satyam"
      ],
      "lyricists": [
-      "03:40"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "Master Venu"
+     ],
+     "length": "03:40"
     },
     {
      "title": "Ghama Ghama Ghamayinchu",
@@ -3271,10 +3345,12 @@
       "P. Leela"
      ],
      "lyricists": [
-      "04:43"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "Master Venu"
+     ],
+     "length": "04:43"
     },
     {
      "title": "Andala Bomma",
@@ -3283,10 +3359,12 @@
       "Jikki"
      ],
      "lyricists": [
-      "04:22"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "Master Venu"
+     ],
+     "length": "04:22"
     },
     {
      "title": "Alu Mogudu Pondu Andamoyi",
@@ -3296,10 +3374,12 @@
       "T. V. Rathnam"
      ],
      "lyricists": [
-      "08:38"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "Master Venu"
+     ],
+     "length": "08:38"
     },
     {
      "title": "Maata Paddavura Mechaledu",
@@ -3307,10 +3387,12 @@
       "Ghantasala"
      ],
      "lyricists": [
-      "01:12"
+      "Kosaraju"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "Master Venu"
+     ],
+     "length": "01:12"
     },
     {
      "title": "Anna Nadai Thanile",
@@ -3333,7 +3415,9 @@
      "lyricists": [
       "Udumalai Narayana Kavi"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "S. Rajeswara Rao"
+     ],
      "length": "04:22"
     },
     {
@@ -3344,7 +3428,9 @@
      "lyricists": [
       "Ka. Mu. Sheriff"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "S. Rajeswara Rao"
+     ],
      "length": "03:09"
     },
     {
@@ -3370,7 +3456,9 @@
      "lyricists": [
       "Udumalai Narayana Kavi"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "Master Venu"
+     ],
      "length": "03:41"
     },
     {
@@ -3381,7 +3469,9 @@
      "lyricists": [
       "Udumalai Narayana Kavi"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "Master Venu"
+     ],
      "length": "03:40"
     },
     {
@@ -3393,7 +3483,9 @@
      "lyricists": [
       "Udumalai Narayana Kavi"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "Master Venu"
+     ],
      "length": "04:43"
     },
     {
@@ -3405,7 +3497,9 @@
      "lyricists": [
       "Ka. Mu. Sheriff"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "Master Venu"
+     ],
      "length": "04:22"
     },
     {
@@ -3418,7 +3512,9 @@
      "lyricists": [
       "Udumalai Narayana Kavi"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "Master Venu"
+     ],
      "length": "08:38"
     },
     {
@@ -3429,7 +3525,9 @@
      "lyricists": [
       "Ka. Mu. Sheriff"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "Master Venu"
+     ],
      "length": "01:12"
     },
     {
@@ -3441,7 +3539,9 @@
      "lyricists": [
       "Ka. Mu. Sheriff"
      ],
-     "musicDirectors": [],
+     "musicDirectors": [
+      "Master Venu"
+     ],
      "length": "00:51"
     }
    ],
@@ -3535,11 +3635,11 @@
     {
      "title": "Chala Chala Raagathile",
      "singers": [
-      "03:11"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:11"
     },
     {
      "title": "Ondrupattal Undu Vazhvu",
@@ -3832,10 +3932,10 @@
       "M. S. Rajeswari"
      ],
      "lyricists": [
-      "02:52"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:52"
     },
     {
      "title": "Seevi Mudichu Singarichu",
@@ -3855,10 +3955,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "03:00"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:00"
     },
     {
      "title": "Ulladhai Solven",
@@ -3930,10 +4030,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:25"
+      "Vindhan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:25"
     },
     {
      "title": "Kannale Naan Kanda",
@@ -3966,19 +4066,22 @@
       "group"
      ],
      "lyricists": [
-      "03:28"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:28"
     },
     {
      "title": "Engal Kula Samudhayam",
      "singers": [
-      "03:22"
+      "K. Jamuna Rani",
+      "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:22"
     },
     {
      "title": "Munnam Avanudaya Naamam Kettaal",
@@ -3994,11 +4097,13 @@
     {
      "title": "Vadiveru Thirisoolam Thondrum",
      "singers": [
-      "03:02"
+      "M. L. Vasanthakumari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Appar Thevaram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:02"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Parthiban_Kanavu_(1960_film)",
@@ -4034,13 +4139,13 @@
     {
      "title": "Puthiyathor Ulagam Seyvom",
      "singers": [
-      "Bharathidasan"
+      "Sirkazhi Govindarajan"
      ],
      "lyricists": [
-      "03:14"
+      "Bharathidasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:14"
     },
     {
      "title": "Paadi Paadi Paadi",
@@ -4049,17 +4154,19 @@
       "Soolamangalam Rajalakshmi"
      ],
      "lyricists": [
-      "06:27"
+      "Bharathidasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "06:27"
     },
     {
      "title": "Manathirkukandha Mayile",
      "singers": [
       "J. P. Chandrababu"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Bharathidasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4069,10 +4176,10 @@
       "Soolamangalam Rajalakshmi"
      ],
      "lyricists": [
-      "03:29"
+      "Bharathidasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:29"
     },
     {
      "title": "Therku Podhigai Malai",
@@ -4080,7 +4187,9 @@
       "T. M. Soundararajan",
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Bharathidasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4103,10 +4212,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "03:28"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:28"
     },
     {
      "title": "Thulli Thulli Odum En",
@@ -4136,10 +4245,10 @@
       "A. P. Komala"
      ],
      "lyricists": [
-      "03:06"
+      "M. K. Athamanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:06"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Petra_Manam",
@@ -4483,10 +4592,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:50"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:50"
     },
     {
      "title": "Inba Vazhvu Malara",
@@ -4494,19 +4603,21 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "03:00"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:00"
     },
     {
      "title": "Athaanai Paaru Adi",
      "singers": [
-      "03:55"
+      "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:55"
     },
     {
      "title": "Karumbu Villai Eduthu",
@@ -4530,10 +4641,10 @@
       "Soolamangalam Rajalakshmi"
      ],
      "lyricists": [
-      "04:03"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:03"
     },
     {
      "title": "Mathalam Kotta",
@@ -4561,13 +4672,14 @@
     {
      "title": "Kannum Kannum Kadhai Pesi",
      "singers": [
-      "P. K. Muthusami"
+      "P. B. Srinivas",
+      "P. Susheela"
      ],
      "lyricists": [
-      "02:50"
+      "P. K. Muthusami"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:50"
     },
     {
      "title": "Yaen Sirithai Enai Paarthu",
@@ -4575,10 +4687,10 @@
       "P. B. Srinivas"
      ],
      "lyricists": [
-      "03:20"
+      "P. K. Muthusami"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:20"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Ponni_Thirunaal",
@@ -4618,10 +4730,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "04:14"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:14"
     },
     {
      "title": "Thanjaavoor Bommai Pole",
@@ -4630,10 +4742,10 @@
       "group"
      ],
      "lyricists": [
-      "04:18"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:18"
     },
     {
      "title": "Muyandraal Pugazh Perave Mudiyaadhaa",
@@ -4642,10 +4754,10 @@
       "Jayalakshmi Santhanan"
      ],
      "lyricists": [
-      "03:01"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:01"
     },
     {
      "title": "Vaanamenum Kooraiyin",
@@ -4663,7 +4775,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4673,10 +4787,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "02:48"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:48"
     },
     {
      "title": "En Indha Iravu",
@@ -4755,20 +4869,24 @@
     {
      "title": "Kadhal Tholvi",
      "singers": [
-      "02:40"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:40"
     },
     {
      "title": "Kadhal Vetri",
      "singers": [
-      "02:34"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:34"
     },
     {
      "title": "Vellaik Kudhiraiyile Vannam Paadum Sooraadhi Soorar",
@@ -4778,7 +4896,9 @@
       "Radha Jayalakshmi",
       "Thiruchi Loganathan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5072,14 +5192,18 @@
     },
     {
      "title": "Konji Varum Thendrale",
-     "singers": [],
+     "singers": [
+      "P. Leela"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Amba Jagadhamba",
-     "singers": [],
+     "singers": [
+      "P. Leela"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -5115,11 +5239,11 @@
     {
      "title": "Gumthala Gumma",
      "singers": [
-      "03:28"
+      "Jikki"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:28"
     },
     {
      "title": "Vaarungo Vaarungo Vaarungo",
@@ -5219,15 +5343,17 @@
     {
      "title": "Aadumayile Nee Aadumayile",
      "singers": [
-      "03:31"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:31"
     },
     {
      "title": "Enge Unmai Ennaade",
-     "singers": [],
+     "singers": [
+      "P. Susheela"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -5244,11 +5370,11 @@
     {
      "title": "Devi Manampole Sevai Purinthaale",
      "singers": [
-      "04:37"
+      "K. Jamuna Rani"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:37"
     },
     {
      "title": "Kaadhalukku Naangu Kangal",
@@ -5335,11 +5461,11 @@
     {
      "title": "Devī Manamooge Jeevamula",
      "singers": [
-      "04:37"
+      "K. Jamuna Rani"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:37"
     },
     {
      "title": "Shishuve Repati Maanisi Meti",
@@ -5386,7 +5512,9 @@
       "Thiruchi Loganathan",
       "P. Leela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattukkottai Kalyanasundaram"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5401,19 +5529,19 @@
     },
     {
      "title": "Thillai Nagar Thanile",
-     "singers": [
+     "singers": [],
+     "lyricists": [
       "K. S. Gopalakrishnan"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Thendral Urangida Koodumadi",
-     "singers": [
+     "singers": [],
+     "lyricists": [
       "Kannadasan"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -5723,42 +5851,48 @@
     {
      "title": "Thunbam Theeraadho, Thuyaram Maaraadho",
      "singers": [
-      "S. S. Rajendran"
+      "T. M. Soundararajan",
+      "K. Jamuna Rani"
      ],
      "lyricists": [
-      "02:23"
+      "S. S. Rajendran"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:23"
     },
     {
      "title": "Jaalamellaam Theriyudhu Aahaa",
      "singers": [
-      "A. Maruthakasi"
+      "T. M. Soundararajan",
+      "K. Jamuna Rani"
      ],
      "lyricists": [
-      "04:45"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:45"
     },
     {
      "title": "Innoruvar Thayavedharku",
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Enakku Nee Unakku Naan",
      "singers": [
-      "02:33"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:33"
     },
     {
      "title": "Sandana Podhigaiyin Thendralenum",
@@ -5819,7 +5953,9 @@
       "K. Jamuna Rani",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5828,37 +5964,53 @@
      "singers": [
       "T. R. Mahalingam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Kaaviriyin Neeraadi Kalai Valarkkum",
      "singers": [
+      "T. R. Mahalingam"
+     ],
+     "lyricists": [
       "Kannadasan"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Yeru Pondra Thamizh Magane",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. R. Mahalingam"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Otrumaiyaal Vetriyelaam",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. R. Mahalingam"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Kulungi Vizhum Maaligaiyil",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. R. Mahalingam"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5879,7 +6031,9 @@
      "singers": [
       "Jikki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Velsamy Kavi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6232,20 +6386,24 @@
     {
      "title": "Silayodu Vilayadavaa",
      "singers": [
-      "05:41"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:41"
     },
     {
      "title": "Poomudipathum Pottu Vaipathum",
      "singers": [
-      "03:31"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:31"
     },
     {
      "title": "Piravigal Palakodi",
@@ -6273,11 +6431,14 @@
     {
      "title": "Thangakiliyae Mozhi Pesu",
      "singers": [
-      "03:26"
+      "P. Susheela",
+      "Sirkazhi Govindarajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:26"
     },
     {
      "title": "Kaikal Irandil Valai Kulunga",
@@ -6288,10 +6449,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "04:19"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:19"
     },
     {
      "title": "Poomudipathum Pottu Vaipathum (pathos)",
@@ -6299,10 +6460,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:09"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:09"
     },
     {
      "title": "Pottukitta Rendu Perum",
@@ -6588,10 +6749,10 @@
       "group"
      ],
      "lyricists": [
-      "02:42"
+      "Puratchidasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:42"
     },
     {
      "title": "Pandhiyile Mattum Munne",
@@ -6612,10 +6773,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "02:53"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:53"
     },
     {
      "title": "Thulli Vizhum Aruviyai Pol",
@@ -6624,10 +6785,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:43"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:43"
     },
     {
      "title": "Yaarukku Anjaame Kaariyathai",
@@ -6635,10 +6796,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "02:27"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:27"
     },
     {
      "title": "Padhinaarum Niraiyaadha",
@@ -6658,10 +6819,10 @@
       "group"
      ],
      "lyricists": [
-      "03:46"
+      "Kovai Kumaradevan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:46"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Yanai_Paagan",
@@ -6700,26 +6861,30 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:55"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:55"
     },
     {
      "title": "Annam Pole Unnai (another version)",
      "singers": [
-      "01:55"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:55"
     },
     {
      "title": "Paal Koduththa Thanangal Sollum",
      "singers": [
       "P. Leela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6804,10 +6969,10 @@
       "Seerkazhi Govindarajan"
      ],
      "lyricists": [
-      "03:11"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:11"
     },
     {
      "title": "Kandi Kadhirkamam...Kazhugumalai Pazhanimalai",
@@ -6815,10 +6980,10 @@
       "Seerkazhi Govindarajan"
      ],
      "lyricists": [
-      "01:58"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:58"
     },
     {
      "title": "Nandhavanatthil Or Aandi",
@@ -6826,10 +6991,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "00:54"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "00:54"
     },
     {
      "title": "Setthaalum Unnai Naan Vida Maatten",
@@ -6838,10 +7003,10 @@
       "S. C. Krishnan"
      ],
      "lyricists": [
-      "03:32"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:32"
     },
     {
      "title": "Thillaalangadi Thillaalangadi",
@@ -7113,10 +7278,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:50"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:50"
     },
     {
      "title": "Kaadhalenum Vadivam Kanden",
@@ -7124,37 +7289,43 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:23"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:23"
     },
     {
      "title": "Maalai Pozhuthin Mayakkathile",
      "singers": [
-      "04:26"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:26"
     },
     {
      "title": "Kaana Vandha Kaatchiyenna",
      "singers": [
-      "03:26"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:26"
     },
     {
      "title": "Kanne Raja Kavalai Vendaam",
      "singers": [
-      "03:18"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:18"
     },
     {
      "title": "Paartheeraa Aiyaa Paartheera",
@@ -7163,10 +7334,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "02:30"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:30"
     },
     {
      "title": "Ammaa Ammaa Kavalai Vendaam",
@@ -7174,10 +7345,10 @@
       "Renuka"
      ],
      "lyricists": [
-      "02:56"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:56"
     },
     {
      "title": "Varalakshmi Varuvaayammaa",
@@ -7193,13 +7364,13 @@
     {
      "title": "Palingu Manappandhalile",
      "singers": [
-      "Papanasam Sivan"
+      "Jayalakshmi"
      ],
      "lyricists": [
-      "01:09"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:09"
     },
     {
      "title": "Ennai Naan Ariyaatha Chinna Vayasile",
@@ -7207,10 +7378,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "02:12"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:12"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Bhagyalakshmi_(1961_film)",
@@ -7307,7 +7478,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7316,7 +7489,9 @@
      "singers": [
       "T. M. Soundararajan group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -7352,8 +7527,13 @@
     },
     {
      "title": "Edhir Kondu Varaverkudhe",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. R. Mahalingam",
+      "S. Janaki"
+     ],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7362,7 +7542,9 @@
      "singers": [
       "T. R. Mahalingam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7372,7 +7554,9 @@
       "A. L. Raghavan",
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7389,8 +7573,12 @@
     },
     {
      "title": "Vanjiyarin Kunamo",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "P. Susheela"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7723,10 +7911,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "02:18"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:18"
     },
     {
      "title": "Kandadhai Kettadhai Nambaadhe",
@@ -7734,10 +7922,10 @@
       "Sirkazhi Govindarajan"
      ],
      "lyricists": [
-      "03:08"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:08"
     },
     {
      "title": "Nenjinile Enna Veeramirundhum",
@@ -7746,21 +7934,22 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:51"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:51"
     },
     {
      "title": "Karumbaaga Inikkindra Paruvam",
      "singers": [
-      "Kovai Kumaradevan"
+      "Sirkazhi Govindarajan",
+      "P. Susheela"
      ],
      "lyricists": [
-      "03:03"
+      "Kovai Kumaradevan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:03"
     },
     {
      "title": "Kandhaa Un Vaasalile",
@@ -7823,7 +8012,9 @@
       "K. Jamuna Rani",
       "Group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattukkottai Kalyanasundaram"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -7833,10 +8024,10 @@
       "V. N. Sundaram"
      ],
      "lyricists": [
-      "02:54"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:54"
     },
     {
      "title": "Naan Vandhu Serndha Idam Nalla Idam",
@@ -7845,10 +8036,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "03:50"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:50"
     },
     {
      "title": "Ennai Paartha Kannu Veru Pennai Parkuma",
@@ -7856,16 +8047,21 @@
       "J. P. Chandrababu",
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattukkottai Kalyanasundaram"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Moodinaalum Thiranthaalum",
      "singers": [
+      "J. P. Chandrababu",
+      "K. Jamuna Rani"
+     ],
+     "lyricists": [
       "K. D. Santhanam"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -7875,10 +8071,10 @@
       "J. P. Chandrababu"
      ],
      "lyricists": [
-      "03:20"
+      "K. D. Santhanam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:20"
     },
     {
      "title": "Aanundu Paada, Pennundu Aada",
@@ -7887,10 +8083,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "03:00"
+      "K. D. Santhanam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:00"
     },
     {
      "title": "Angadikadai Veedhiyile",
@@ -8058,7 +8254,9 @@
       "P. Susheela",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "V. Seetharaman"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8078,7 +8276,9 @@
      "singers": [
       "P. Leela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kuyilan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8087,7 +8287,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kuyilan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8109,10 +8311,10 @@
       "M. L. Vasanthakumari"
      ],
      "lyricists": [
-      "03:02"
+      "M. K. Athmanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:02"
     },
     {
      "title": "Sundhara Kannu Indhira Logam Kaattudhu",
@@ -8120,7 +8322,9 @@
       "A. L. Raghavan",
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. K. Athmanathan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8164,14 +8368,18 @@
     },
     {
      "title": "Pillai Kutti Petruviddaal",
-     "singers": [],
+     "singers": [
+      "C. S. Jayaraman"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Bhudhdhiyum Vandhathaa Sollu",
-     "singers": [],
+     "singers": [
+      "C. S. Jayaraman"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -8209,11 +8417,11 @@
     {
      "title": "Sodhanai Eno Pedhaiyin Meedhu",
      "singers": [
-      "3:03"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:03"
     },
     {
      "title": "Vetti Vambu Engalukkul",
@@ -8266,20 +8474,20 @@
     {
      "title": "Orey Raagam Orey Thaalam",
      "singers": [
-      "3:36"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:36"
     },
     {
      "title": "Unakku Mattum Unakku (Sad)",
      "singers": [
-      "2:27"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:27"
     },
     {
      "title": "Paarthu Paarthu Nindrathile",
@@ -8361,8 +8569,12 @@
     },
     {
      "title": "Oruvarai Oruvar Unarnthukondale",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8372,10 +8584,10 @@
       "P. B. Sreenivas"
      ],
      "lyricists": [
-      "04:22"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:22"
     },
     {
      "title": "Vizhiyalai Mele Semmeen Pole",
@@ -8384,21 +8596,22 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "05:57"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:57"
     },
     {
      "title": "Arumbudhira Mutthudhira Azhagu Sirikkudhu",
      "singers": [
-      "A. Maruthakasi"
+      "T. M. Soundararajan",
+      "P. Susheela"
      ],
      "lyricists": [
-      "03:44"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:44"
     },
     {
      "title": "Samaadhaaname Thevai",
@@ -8406,10 +8619,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "04:07"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:07"
     },
     {
      "title": "Dhairiyathukkoru Santhegam Kelu Kanmani",
@@ -8418,10 +8631,10 @@
       "A. G. Rathnamala"
      ],
      "lyricists": [
-      "03:11"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:11"
     },
     {
      "title": "Pudhu Inbam Ondru Uruvaagi Indru",
@@ -8429,10 +8642,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "02:41"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:41"
     },
     {
      "title": "Aasai Kaadhal",
@@ -8440,10 +8653,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "04:34"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:34"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Marutha_Nattu_Veeran",
@@ -8484,7 +8697,9 @@
       "Soolamangalam Rajalakshmi",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Sundara Kannan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8519,10 +8734,10 @@
       "P. B. Srinivas"
      ],
      "lyricists": [
-      "02:47"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:47"
     },
     {
      "title": "Penn Maanam Kaakkum Thanmaanam Onre",
@@ -8530,17 +8745,19 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "01:35"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:35"
     },
     {
      "title": "Mana Oonjalile Aadum Mannaa",
      "singers": [
       "P. Leela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thanjai N. Ramaiah Dass"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8549,7 +8766,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thanjai N. Ramaiah Dass"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -8598,10 +8817,10 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "02:59"
+      "M. K. Athmanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:59"
     },
     {
      "title": "Kooduvittu Paranthakili",
@@ -8609,10 +8828,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "02:51"
+      "M. K. Athmanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:51"
     },
     {
      "title": "Anbukkaratthale....Kuthala Aruviyile",
@@ -8921,7 +9140,9 @@
     },
     {
      "title": "Irukkum Idaththai Viddu Illaatha Idathilellaam",
-     "singers": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -8988,13 +9209,15 @@
      "length": "04:50"
     },
     {
-     "title": "Thiruchi Loganathan",
+     "title": "Chinna Arumbu Malarum",
      "singers": [
-      "03:00"
+      "Thiruchi Loganathan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:00"
     },
     {
      "title": "Nee Engu Irundha Podhum",
@@ -9002,10 +9225,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "01:32"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:32"
     },
     {
      "title": "Kadhavu Thirandhathenru Varugiraan",
@@ -9025,10 +9248,10 @@
       "P. B. Seenivas"
      ],
      "lyricists": [
-      "03:22"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:22"
     },
     {
      "title": "Nee Endhan Pillai",
@@ -9036,10 +9259,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "02:59"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:59"
     },
     {
      "title": "Chinna Vayathil Anbu Kondu",
@@ -9288,20 +9511,24 @@
     {
      "title": "Urundodum Naalil",
      "singers": [
-      "02:42"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattukkottai Kalyanasundaram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:42"
     },
     {
      "title": "Endrum Thunbamillai [Female]",
      "singers": [
-      "02:18"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattukkottai Kalyanasundaram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:18"
     },
     {
      "title": "Endrum Thunbamillai [Male]",
@@ -9309,10 +9536,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "02:48"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:48"
     },
     {
      "title": "Ullangal Ondragi",
@@ -9321,10 +9548,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:17"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:17"
     },
     {
      "title": "Engum Sondhamillai Endha Oorumillai",
@@ -9344,10 +9571,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "03:14"
+      "Subbu. Arumugam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:14"
     },
     {
      "title": "Paadam Sariyaa Master",
@@ -9356,10 +9583,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "03:14"
+      "Subbu. Arumugam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:14"
     },
     {
      "title": "Manam Aadudhu Paadudhu",
@@ -9994,7 +10221,9 @@
       "A. L. Raghavan",
       "A. G. Rathnamala"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ku. Sa. Krishnamurthy"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10017,10 +10246,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "04:01"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:01"
     },
     {
      "title": "Mama Mama Makku Mama",
@@ -10039,10 +10268,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "02:47"
+      "Ku. Ma. Balasubramaniam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:47"
     },
     {
      "title": "Thirudaadhe Paapa Thirudaadhe",
@@ -10207,9 +10436,13 @@
     {
      "title": "O Velappaa, Thanga Velappaa",
      "singers": [
+      "T. M. Soundararajan",
+      "P. Susheela",
+      "group"
+     ],
+     "lyricists": [
       "Udumalai Narayana Kavi"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -10220,7 +10453,9 @@
       "S. C. Krishnan",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Udumalai Narayana Kavi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10230,7 +10465,9 @@
       "S. C. Krishnan",
       "Udutha Sarojini"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Udumalai Narayana Kavi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10241,26 +10478,31 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:33"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:33"
     },
     {
      "title": "Inba Logajothi Roobam Poley",
      "singers": [
-      "02:53"
+      "T. M. Soundararajan",
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Udumalai Narayana Kavi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:53"
     },
     {
      "title": "Inbam Serumaa, Thunbam Theerumaa",
      "singers": [
       "Ghantasala"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Udumalai Narayana Kavi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10271,10 +10513,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "03:13"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:13"
     },
     {
      "title": "Kanne Kanne Unnai Thodum",
@@ -10282,7 +10524,9 @@
       "P. Susheela",
       "Swarnalatha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Udumalai Narayana Kavi"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -10325,7 +10569,9 @@
       "S. C. Krishnan",
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Sundarakannan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10335,7 +10581,9 @@
       "P. B. Srinivas",
       "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Sundarakannan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10356,7 +10604,9 @@
      "singers": [
       "A. P. Komala"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -10367,15 +10617,20 @@
       "P. Leela"
      ],
      "lyricists": [
-      "03:06"
+      "Ku. Ma. Balasubramaniam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:06"
     },
     {
      "title": "Kaadhalenum Veenaithanai Geetham Paada",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "A. M. Rajah",
+      "P. Leela"
+     ],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -11062,7 +11317,9 @@
       "P. B. Sreenivas",
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Mayavanathan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11072,7 +11329,9 @@
       "T. M. Soundararajan",
       "P. B. Sreenivas"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Mayavanathan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11081,7 +11340,9 @@
      "singers": [
       "Sirkazhi Govindarajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Mayavanathan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11142,22 +11403,24 @@
     {
      "title": "Paattu Paada Vaayeduthen",
      "singers": [
-      "04:09"
-     ],
-     "lyricists": [
       "P. Susheela"
      ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:09"
     },
     {
      "title": "Nee Illadha Ulagathile Nimmathi",
-     "singers": [],
+     "singers": [
+      "P. Susheela"
+     ],
      "lyricists": [
-      "03:14"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:14"
     },
     {
      "title": "En Aaruyire",
@@ -11229,10 +11492,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "04:13"
+      "Villiputhan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:13"
     },
     {
      "title": "Andhi Saayum Verlai",
@@ -11240,10 +11503,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "03:24"
+      "Villiputhan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:24"
     },
     {
      "title": "Aarambame Inikkum",
@@ -11252,10 +11515,10 @@
       "Mohana"
      ],
      "lyricists": [
-      "03:01"
+      "Villiputhan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:01"
     },
     {
      "title": "Vidiyum Varai Kathirupen",
@@ -11263,17 +11526,19 @@
       "Seergazhi Govindarajan"
      ],
      "lyricists": [
-      "02:36"
+      "Villiputhan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:36"
     },
     {
      "title": "Andhi Saayum Verlai (different version)",
      "singers": [
       "Jikki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Villiputhan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11474,10 +11739,10 @@
       "A. L. Raghavan"
      ],
      "lyricists": [
-      "04:13"
+      "Villiputhan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:13"
     },
     {
      "title": "Kadhalukku Kaaleju Yenga Irukku",
@@ -11486,10 +11751,10 @@
       "A. G. Rathnamala"
      ],
      "lyricists": [
-      "03:15"
+      "Villiputhan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:15"
     },
     {
      "title": "Thithikkum Thamizhile",
@@ -11636,10 +11901,10 @@
       "M. S. Rajeswari"
      ],
      "lyricists": [
-      "03:10"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:10"
     },
     {
      "title": "Kannukkulle Onnirukku",
@@ -11648,19 +11913,22 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "04:51"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:51"
     },
     {
      "title": "Ulle Irukkum Ponnammaa",
      "singers": [
-      "03:19"
+      "T. M. Soundararajan",
+      "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:19"
     },
     {
      "title": "Manakkum Roja My Lady",
@@ -11669,10 +11937,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "03:30"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     },
     {
      "title": "Parakkum Paravaigal Neeye",
@@ -11691,14 +11959,20 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Appaa Un Magalai Paarthaayaa",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "P. Susheela"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -11753,10 +12027,10 @@
       "Soolamangalam Rajalakshmi"
      ],
      "lyricists": [
-      "05:22"
+      "V. Seetharaman"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:22"
     },
     {
      "title": "Konjum Salangai Olikettu",
@@ -11787,17 +12061,19 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "06:14"
+      "Ku. Ma. Balasubramaniam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "06:14"
     },
     {
      "title": "Vel Eduppome.... Vetri Vil Thoduppome",
      "singers": [
       "S. C. Krishnan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -11807,10 +12083,10 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "00:50"
+      "Ku. Ma. Balasubramaniam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "00:50"
     },
     {
      "title": "Kadhal Geetham Ketkuma",
@@ -11818,10 +12094,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "02:42"
+      "Ku. Ma. Balasubramaniam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:42"
     },
     {
      "title": "Vasantha Kalathendralil",
@@ -11971,11 +12247,12 @@
     {
      "title": "Oorukkum Theriyaadhu Yaarukkum Puriyaadhu",
      "singers": [
-      "04:16"
+      "T. M. Soundararajan",
+      "Soolamangalam Rajalakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:16"
     },
     {
      "title": "Varuvaar Oru Naal",
@@ -11989,20 +12266,20 @@
     {
      "title": "Vanakkam Vanakkam Aiyaa Ammaa",
      "singers": [
-      "03:06"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:06"
     },
     {
      "title": "Kannai Parikudha, Karuthai Izhukudha",
      "singers": [
-      "03:22"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:22"
     },
     {
      "title": "Kannirandum Thevaiyillai Kaanbadharkku",
@@ -12016,11 +12293,11 @@
     {
      "title": "Oorukkum Theriyaadhu Yaarukkum Puriyaadhu (pathos)",
      "singers": [
-      "02:03"
+      "Soolamangalam Rajalakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:03"
     },
     {
      "title": "Manadhil Konda Aasaigalai",
@@ -12066,8 +12343,12 @@
     },
     {
      "title": "Arasan Andre Kolvaan",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "Navarasu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -12076,7 +12357,9 @@
      "singers": [
       "S. Janaki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Navarasu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -12087,7 +12370,9 @@
       "Gowsalya",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Navarasu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -12096,13 +12381,17 @@
      "singers": [
       "M. K. Sekar"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Navarasu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Aalahaalamundavaney Aravanthanai Aninthavaney",
-     "singers": [],
+     "singers": [
+      "M. K. Sekar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -12131,15 +12420,23 @@
     },
     {
      "title": "Engengum Niraindhirukkum",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "P. Leela"
+     ],
+     "lyricists": [
+      "Solairasu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Enadhullam Magizhnthaadudhe",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "P. Leela"
+     ],
+     "lyricists": [
+      "Solairasu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -12196,9 +12493,7 @@
       "P. Susheela",
       "Nagayya"
      ],
-     "lyricists": [
-      "06:20"
-     ],
+     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -12216,15 +12511,15 @@
      "singers": [
       "S. Janaki"
      ],
-     "lyricists": [
-      "02:34"
-     ],
+     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Sollaamale Sollavaa Indru Sudhanthira Naalallavaa",
-     "singers": [],
+     "singers": [
+      "S. Janaki"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -12234,9 +12529,7 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [
-      "01:03"
-     ],
+     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -12246,9 +12539,7 @@
       "P. Susheela",
       "P. B. Srinivas"
      ],
-     "lyricists": [
-      "03:31"
-     ],
+     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -12280,7 +12571,9 @@
      "singers": [
       "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -12321,10 +12614,10 @@
       "K. P. Udayabhanu"
      ],
      "lyricists": [
-      "2:38"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:38"
     },
     {
      "title": "Thendral Paadavum",
@@ -12332,19 +12625,21 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:30"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:30"
     },
     {
      "title": "Thendral Paadavum - 2",
      "singers": [
-      "3:10"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thanjai N. Ramaiah Dass"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:10"
     },
     {
      "title": "Podu Podu Thekka Podu",
@@ -12355,10 +12650,10 @@
       "Ghantasala"
      ],
      "lyricists": [
-      "3:01"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:01"
     },
     {
      "title": "Inbamaana Iravidhuve",
@@ -12367,19 +12662,22 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:03"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:03"
     },
     {
      "title": "Kadhal Yathiraikku",
      "singers": [
-      "3:10"
+      "A. L. Raghavan",
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thanjai N. Ramaiah Dass"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:10"
     },
     {
      "title": "Kaalathai Maatrinaan",
@@ -12399,10 +12697,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:09"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:09"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Manithan_Maravillai",
@@ -12440,19 +12738,22 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:03"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:03"
     },
     {
      "title": "Kodiyavale Poong Kodiyavale",
      "singers": [
-      "04:23"
+      "T. M. Soundararajan",
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:23"
     },
     {
      "title": "Sonnaalum Vetkamadaaa",
@@ -12460,10 +12761,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:53"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:53"
     },
     {
      "title": "Kanni Pennain Kaipidithu",
@@ -12516,10 +12817,10 @@
       "group"
      ],
      "lyricists": [
-      "04:01"
+      "Elangkavi Muthukoothan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:01"
     },
     {
      "title": "Konji Konji Pesalaam",
@@ -12528,10 +12829,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "04:02"
+      "Elangkavi Muthukoothan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:02"
     },
     {
      "title": "Vandu Vandhu Mella Mella",
@@ -12684,20 +12985,20 @@
     {
      "title": "Padaithaane, Padaithaane Manithanai",
      "singers": [
-      "04:43"
+      "T. M. Soundararajan"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:43"
     },
     {
      "title": "Paavadai Dhavaniyil",
      "singers": [
-      "04:26"
+      "T. M. Soundararajan"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:26"
     },
     {
      "title": "Alangaram Alangaram",
@@ -12731,20 +13032,20 @@
     {
      "title": "Nethiyile Oru Kunguma Pottu",
      "singers": [
-      "03:43"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:43"
     },
     {
      "title": "Nee Nadanthaal Enna",
      "singers": [
-      "02:43"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:43"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Nichaya_Thamboolam",
@@ -12966,10 +13267,10 @@
       "G. K. Venkatesh"
      ],
      "lyricists": [
-      "03:32"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:32"
     },
     {
      "title": "Naan Kavignanum Illai",
@@ -12977,10 +13278,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "02:52"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:52"
     },
     {
      "title": "Nallavan Enakku",
@@ -12989,10 +13290,10 @@
       "P. B. Sreenivas"
      ],
      "lyricists": [
-      "03:20"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:20"
     },
     {
      "title": "Ohohoho Manidhargale",
@@ -13000,10 +13301,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:18"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:18"
     },
     {
      "title": "Pon Ondru Kanden",
@@ -13012,10 +13313,10 @@
       "P. B. Sreenivas"
      ],
      "lyricists": [
-      "03:13"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:13"
     },
     {
      "title": "Thannilavu Theniraikka",
@@ -13150,7 +13451,9 @@
       "T. M. Soundararajan",
       "P. Leela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "T. K. Sundara Vaathiyaar"
+     ],
      "musicDirectors": [],
      "length": "3:29"
     },
@@ -13159,99 +13462,121 @@
      "singers": [
       "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "T. K. Sundara Vaathiyaar"
+     ],
      "musicDirectors": [],
      "length": "3:20"
     },
     {
      "title": "Bakthi Kondaduvom",
      "singers": [
-      "3:04"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "T. K. Sundara Vaathiyaar"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:04"
     },
     {
      "title": "Kaappathun Paarum Ayya",
      "singers": [
-      "1:00"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "T. K. Sundara Vaathiyaar"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "1:00"
     },
     {
      "title": "Muraiyo Neethiyo",
      "singers": [
-      "2:43"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "T. K. Sundara Vaathiyaar"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:43"
     },
     {
      "title": "Enseyalaavathu",
      "singers": [
-      "2:54"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattinathar"
+     ],
      "musicDirectors": [],
-     "length": "Pattinathar"
+     "length": "2:54"
     },
     {
      "title": "Aiyirandu Thingal",
      "singers": [
-      "3:01"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattinathar"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:01"
     },
     {
      "title": "Munnai Itta Thee",
      "singers": [
-      "0:59"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattinathar"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "0:59"
     },
     {
      "title": "Ondrendriru",
      "singers": [
-      "3:23"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattinathar"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:23"
     },
     {
      "title": "Vaalal Mahavarindu",
      "singers": [
-      "2:51"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattinathar"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:51"
     },
     {
      "title": "Oru Mada Maadhu",
      "singers": [
-      "4:56"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Pattinathar"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:56"
     },
     {
      "title": "Kannirunthum",
      "singers": [
-      "2:40"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
-     "length": "A. Maruthakasi"
+     "length": "2:40"
     },
     {
      "title": "Thanga Bommai",
@@ -13581,7 +13906,9 @@
      "singers": [
       "S. V. Ponnusamy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thiruchi Thiyagarajan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -13591,10 +13918,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:37"
+      "Thiruchi Thiyagarajan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:37"
     },
     {
      "title": "Kannaal Pesuvom, Kaiyai Veesuvom",
@@ -13603,19 +13930,22 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "03:17"
+      "Thiruchi Thiyagarajan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:17"
     },
     {
      "title": "Paaduvom Poomalai Sooduvom",
      "singers": [
-      "02:17"
+      "Soolamangalam Rajalakshmi",
+      "L. R. Eswari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thiruchi Thiyagarajan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:17"
     },
     {
      "title": "Malarai Parithaai Thalaiyil Vaithaai",
@@ -13624,10 +13954,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "03:28"
+      "Thiruchi Thiyagarajan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:28"
     },
     {
      "title": "Pesiyathu Naanillai Kangal Thaane",
@@ -13647,10 +13977,10 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "03:11"
+      "Ekalaivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:11"
     },
     {
      "title": "Naan Onru Ninaithen Nadakkavillai",
@@ -13658,10 +13988,10 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "03:44"
+      "Ekalaivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:44"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Sengamala_Theevu",
@@ -13770,10 +14100,10 @@
       "L. R. Anjali"
      ],
      "lyricists": [
-      "02:31"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:31"
     },
     {
      "title": "Ponnedutthu Seidhu Vaiththa",
@@ -13783,10 +14113,10 @@
       "L. R. Anjali"
      ],
      "lyricists": [
-      "02:43"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:43"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Senthamarai_(film)",
@@ -14004,46 +14334,54 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:06"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:06"
     },
     {
      "title": "Ellorum Vaazhgavenru",
      "singers": [
-      "02:35"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:35"
     },
     {
      "title": "Veetinile Iruvar Vaazhginraar",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "P. Susheela"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Paatu Pirandhavudan Paarka Vandhaaye",
      "singers": [
-      "03:20"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:20"
     },
     {
      "title": "Aasaiyil Pirapathu Thunivu",
      "singers": [
-      "Mayavanathan"
+      "P. Susheela"
      ],
      "lyricists": [
-      "03:33"
+      "Mayavanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:33"
     },
     {
      "title": "Sandhanathil Nirameduthu",
@@ -14051,10 +14389,10 @@
       "S. Janaki"
      ],
      "lyricists": [
-      "03:17"
+      "Mayavanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:17"
     },
     {
      "title": "Yaen Mama Kovamaa",
@@ -14063,10 +14401,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "03:18"
+      "Mayavanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:18"
     },
     {
      "title": "Azhagaana Malare Arivaana Porule",
@@ -14074,10 +14412,10 @@
       "P. B. Sreenivas"
      ],
      "lyricists": [
-      "03:31"
+      "Mayavanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:31"
     },
     {
      "title": "Aasaiyil Pirapathu Thunivu 2",
@@ -14085,10 +14423,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:11"
+      "Mayavanathan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:11"
     },
     {
      "title": "Aambala Manasu Aasaiyinaale",
@@ -14136,7 +14474,9 @@
       "L. R. Eswari",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -14146,10 +14486,10 @@
       "S. Varalakshmi"
      ],
      "lyricists": [
-      "03:30"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     },
     {
      "title": "Seerulaavum Inbanatham Jeeva Sangeetham",
@@ -14158,10 +14498,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:18"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:18"
     },
     {
      "title": "Saalaiyile Puliyamaram Jameenthaaru",
@@ -14181,7 +14521,9 @@
      "singers": [
       "Athmasha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. S. Narayanan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -14201,7 +14543,9 @@
      "singers": [
       "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -14211,10 +14555,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:30"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Vadivukku_Valai_Kappu",
@@ -14575,11 +14919,15 @@
     {
      "title": "Anbu Enbathu – 2",
      "singers": [
-      "1:48"
+      "Sirkazhi Govindarajan",
+      "L. R. Eswari",
+      "K. Jamuna Rani"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "1:48"
     },
     {
      "title": "ChinnanChiru Magalai",
@@ -14587,10 +14935,10 @@
       "P.Susheela"
      ],
      "lyricists": [
-      "03:51"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:51"
     },
     {
      "title": "Antha Mayakkam Vendum",
@@ -14599,10 +14947,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "4:20"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:20"
     },
     {
      "title": "Sollap Pona... Yaarai Enge Vaipathu",
@@ -14621,10 +14969,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "4:26"
+      "Panchu Arunachalam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:26"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Aasai_Alaigal",
@@ -14660,18 +15008,23 @@
     {
      "title": "Maamaa Pille Maapille Maalaiyittan",
      "singers": [
-      "02:45"
+      "T. M. Soundararajan",
+      "S. Janaki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:45"
     },
     {
      "title": "Katti Vaicha Poovum Vaadavillaiye",
      "singers": [
       "S. Janaki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -14681,10 +15034,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:57"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:57"
     },
     {
      "title": "Yaarukku Naan Theengu Seythen",
@@ -14692,10 +15045,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:21"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:21"
     },
     {
      "title": "Aandavane Ezhaiyin Vaazhvil",
@@ -14703,10 +15056,10 @@
       "Thangappan"
      ],
      "lyricists": [
-      "02:57"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:57"
     },
     {
      "title": "Vattamitta Pottazhagan Kattazhagan Kandasaami",
@@ -15239,10 +15592,10 @@
       "P. B. Srinivas"
      ],
      "lyricists": [
-      "03:41"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:41"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Idhayathil_Nee",
@@ -15294,11 +15647,11 @@
     {
      "title": "Kaadhalile Patru Vaiththaal",
      "singers": [
-      "04:57"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:57"
     },
     {
      "title": "Kunguma Pottu Kulunguthadi",
@@ -15473,10 +15826,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "05:12"
+      "Alangudi Somu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:12"
     },
     {
      "title": "Neermel Nadakkalam",
@@ -15508,10 +15861,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:45"
+      "Alangudi Somu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:45"
     },
     {
      "title": "Uyirai Tharukiren",
@@ -15519,10 +15872,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:56"
+      "Alangudi Somu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:56"
     },
     {
      "title": "Vaanathil Varuvathu",
@@ -15531,10 +15884,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "04:09"
+      "Alangudi Somu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:09"
     },
     {
      "title": "Velga Naadu",
@@ -15691,13 +16044,13 @@
     {
      "title": "Raajaavum Vandhiduvaar",
      "singers": [
-      "A. Maruthakasi"
+      "P. Susheela"
      ],
      "lyricists": [
-      "2:59"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:59"
     },
     {
      "title": "Vandhu Vandhu Ovvonnaa Poguthe",
@@ -15705,10 +16058,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:57"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:57"
     },
     {
      "title": "Maargazhi Pochchu Thai Poranthaachu",
@@ -15717,10 +16070,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "2:56"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:56"
     },
     {
      "title": "Singaara Malligai Maruvu",
@@ -15728,10 +16081,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "02:43"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:43"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kaithiyin_Kathali",
@@ -15769,10 +16122,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "04:36"
+      "N. M. Muthukoothan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:36"
     },
     {
      "title": "Kettaalum Kettadhu Ippadi Kettudakkudaadhu",
@@ -15780,10 +16133,10 @@
       "A. G. Rathnamala"
      ],
      "lyricists": [
-      "01:59"
+      "N. M. Muthukoothan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:59"
     },
     {
      "title": "Aasai Vaikkira Idam Theriyanum Marandhuvidaadhe",
@@ -15803,10 +16156,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "02:30"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:30"
     },
     {
      "title": "Adhisayam Paarthen Mannile",
@@ -15814,10 +16167,10 @@
       "Seerkazhi Govindarajan"
      ],
      "lyricists": [
-      "03:37"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:37"
     },
     {
      "title": "Ninaikkum Pothu Nenjum Kannum",
@@ -15825,10 +16178,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "03:31"
+      "Pattukkottai Kalyanasundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:31"
     },
     {
      "title": "Neelavaana Pandhalin Keezhe Nilamadandhai Madiyin Mele",
@@ -16238,7 +16591,7 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": "03:34"
+     "length": "Vaali"
     },
     {
      "title": "Jaliyana Jodikala",
@@ -16247,34 +16600,34 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": "04:57"
+     "length": "Vaali"
     },
     {
      "title": "Kaathirundhene Naane",
      "singers": [
-      "03:37"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Vaali"
     },
     {
      "title": "Mappillaiyae Mappillaiye Kovama",
      "singers": [
-      "Karunaidhasan"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": "03:14"
+     "length": "Karunaidhasan"
     },
     {
      "title": "Nadanthu Kaadu Enakku",
      "singers": [
-      "Nallathambi"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": "02:45"
+     "length": "Nallathambi"
     },
     {
      "title": "Vanakkam Vanakkam",
@@ -16284,7 +16637,7 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": "04:35"
+     "length": "Nallathambi"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Konjum_Kumari",
@@ -16345,7 +16698,9 @@
       "A. G. Rathnamala",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Villiputhan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -16404,33 +16759,35 @@
     {
      "title": "Iravukku Aayiram",
      "singers": [
-      "03.11"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03.11"
     },
     {
      "title": "Kalla Malar",
      "singers": [
-      "A. Maruthakasi"
+      "P. Susheela"
      ],
      "lyricists": [
-      "03.14"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03.14"
     },
     {
      "title": "Pagaliley Chandiranai",
      "singers": [
-      "Kannadasan"
+      "P. Susheela"
      ],
      "lyricists": [
-      "03.20"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03.20"
     },
     {
      "title": "Chandranai Kanamal",
@@ -16439,10 +16796,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:28"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:28"
     },
     {
      "title": "Radhe Unakku",
@@ -16458,22 +16815,24 @@
     {
      "title": "Ulagam Ethiley Adagud",
      "singers": [
-      "Kannadasan"
+      "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03.30"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03.30"
     },
     {
      "title": "Unnai Solli Kutramillai",
      "singers": [
-      "03.32"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03.32"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kulamagal_Radhai",
@@ -17366,19 +17725,21 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:24"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:24"
     },
     {
      "title": "Oh.. Oh.. Chinnagnchiru Malarai Maranduvidaathe – another version",
      "singers": [
-      "01:17"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:17"
     },
     {
      "title": "Paarthathundaa Kettathundaa",
@@ -17398,19 +17759,21 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:26"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:26"
     },
     {
      "title": "Engiruntha Pothum Unnai Marakka Mudiyumaa",
      "singers": [
-      "03:08"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:08"
     },
     {
      "title": "Un Kathaiyum En Kathaiyum",
@@ -17418,10 +17781,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:19"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:19"
     },
     {
      "title": "Anbu Vaazhga Aasai Vaazhga",
@@ -17666,10 +18029,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:21"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:21"
     },
     {
      "title": "Enthan Kannai",
@@ -17678,10 +18041,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "03:27"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:27"
     },
     {
      "title": "Madhura Nagaril",
@@ -17690,10 +18053,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "05:44"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:44"
     },
     {
      "title": "Neerodum Vaikaiyile",
@@ -17702,10 +18065,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "04:30"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:30"
     },
     {
      "title": "Paar Magaley Paar",
@@ -17713,10 +18076,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "05:02"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:02"
     },
     {
      "title": "Paar Magaley Paar 2",
@@ -17724,10 +18087,10 @@
       "M. S. Viswanathan"
      ],
      "lyricists": [
-      "02:31"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:31"
     },
     {
      "title": "Poochudum Nerathile",
@@ -17735,10 +18098,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:46"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:46"
     },
     {
      "title": "Thuyil Kondal",
@@ -17746,10 +18109,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:06"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:06"
     },
     {
      "title": "Vetkamai Irukkuthu",
@@ -18045,7 +18408,9 @@
       "A. M. Rajah",
       "Jikki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Surabhi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -18055,7 +18420,9 @@
       "Kamala",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Surabhi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -18064,7 +18431,9 @@
      "singers": [
       "Sirkazhi Govindarajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Surabhi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -18075,10 +18444,10 @@
       "A. P. Komala"
      ],
      "lyricists": [
-      "03:16"
+      "Surabhi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:16"
     },
     {
      "title": "Veettinile Vennilaa",
@@ -18250,31 +18619,35 @@
     {
      "title": "Chithirai Maadha Nilavinile",
      "singers": [
-      "03:29"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ka. Mu. Sheriff"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:29"
     },
     {
      "title": "Ammaadiyo Athaanukku Kovatha Paaru",
      "singers": [
       "S. Janaki"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ka. Mu. Sheriff"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Kalyaana Saappadu Podum Munne",
      "singers": [
-      "Thiruchi Thiyagarajan"
+      "S. Janaki"
      ],
      "lyricists": [
-      "03:37"
+      "Thiruchi Thiyagarajan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:37"
     },
     {
      "title": "Maiyai Thottu Ezhudhiyavar",
@@ -18283,10 +18656,10 @@
       "Soolamangalam Rajalakshmi"
      ],
      "lyricists": [
-      "03:31"
+      "Thiruchi Thiyagarajan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:31"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Thulasi_Maadam",
@@ -18318,20 +18691,20 @@
     {
      "title": "Oomai Penn Oru",
      "singers": [
-      "4:03"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:03"
     },
     {
      "title": "Thookanna Kuruvi Kodu",
      "singers": [
-      "4:21"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:21"
     },
     {
      "title": "Aan Kaviyai Vella",
@@ -18414,10 +18787,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "03:32"
+      "Panchu Arunachalam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:32"
     },
     {
      "title": "Ennai Theriyalaiyaa, Innum Puriyalaiyaa",
@@ -18437,10 +18810,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:54"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:54"
     },
     {
      "title": "Ethanai Ethanai Inbamada",
@@ -18448,10 +18821,10 @@
       "P. B. Srinivas"
      ],
      "lyricists": [
-      "02:28"
+      "A. Maruthakasi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:28"
     },
     {
      "title": "Oho Mary Bul Bul Vaariyaa",
@@ -18827,10 +19200,10 @@
       "T. M. Soundararajan P. Susheela"
      ],
      "lyricists": [
-      "3:23"
+      "T. K. Krishnasamy"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:23"
     },
     {
      "title": "Penn Piranha Pavathai",
@@ -18838,10 +19211,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:28"
+      "T. K. Krishnasamy"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:28"
     },
     {
      "title": "Muthai Tharu",
@@ -18860,10 +19233,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "6:11"
+      "Arunagirinathar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "6:11"
     },
     {
      "title": "Ven Kudai Viruthu",
@@ -18871,10 +19244,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "1:13"
+      "Arunagirinathar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "1:13"
     },
     {
      "title": "Thandayani Vendayam",
@@ -18882,10 +19255,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "2:56"
+      "Arunagirinathar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:56"
     },
     {
      "title": "Pakkarai Vichitharamani",
@@ -18893,10 +19266,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "2:40"
+      "Arunagirinathar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:40"
     },
     {
      "title": "Yethanai Piravi Petru",
@@ -18926,10 +19299,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "1:24"
+      "Arunagirinathar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "1:24"
     },
     {
      "title": "Amma Deivam Agivittal",
@@ -19057,10 +19430,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:36"
+      "Ku. Ma. Balasubramaniam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:36"
     },
     {
      "title": "Velodu Vilaiyaadum Murugaiyaa",
@@ -19068,10 +19441,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "02:42"
+      "Ku. Ma. Balasubramaniam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:42"
     },
     {
      "title": "Anna Nadai Chinna Idai Eppadi",
@@ -19091,10 +19464,10 @@
       "A. G. Rathnamala"
      ],
      "lyricists": [
-      "03:54"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:54"
     },
     {
      "title": "Roja Poo Kannaththile Then Paayum",
@@ -19102,10 +19475,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "03:17"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:17"
     },
     {
      "title": "Unakku Onnu Enakku Onnu Irukkudhu Manasu",
@@ -19114,10 +19487,10 @@
       "A. G. Rathnamala"
      ],
      "lyricists": [
-      "03:32"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:32"
     },
     {
      "title": "Pozhudhu Pularnddhadhu Poo Pole",
@@ -19162,10 +19535,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "04:32"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:32"
     },
     {
      "title": "Moondrezhuththil En moochchirukkum",
@@ -19173,10 +19546,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:08"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:08"
     },
     {
      "title": "Indha Punnagai",
@@ -19185,10 +19558,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "05:14"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:14"
     },
     {
      "title": "Vannakkili sonna mozhi",
@@ -19197,10 +19570,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:40"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:40"
     },
     {
      "title": "Oru Pennai Paarththu",
@@ -19208,10 +19581,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "04:37"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:37"
     },
     {
      "title": "Unmaikku Veliyittu",
@@ -19739,11 +20112,11 @@
     {
      "title": "Iraikka Iraikka",
      "singers": [
-      "1:00"
+      "Sirkazhi Govindarajan"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "1:00"
     },
     {
      "title": "Kanmani Kanmai Kanne",
@@ -19766,20 +20139,20 @@
     {
      "title": "Kayilae Panamirundhal",
      "singers": [
-      "3:28"
+      "L. R. Eswari"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:28"
     },
     {
      "title": "Aadavarellam Aadavaralam",
      "singers": [
-      "3:23"
+      "L. R. Eswari"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:23"
     },
     {
      "title": "Pattu Chiragukonda",
@@ -19969,11 +20342,13 @@
     {
      "title": "Sollavaa, Kadhai Sollavaa",
      "singers": [
-      "03:55"
+      "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:55"
     },
     {
      "title": "Iravinil Aattam, Pagalinil Thookkam",
@@ -19981,19 +20356,21 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:42"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:42"
     },
     {
      "title": "Pottadhu Molaichuthadi Kannammaa",
      "singers": [
-      "03:22"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:22"
     },
     {
      "title": "Vandha Naal Mudhal",
@@ -20004,10 +20381,10 @@
       "Anjali"
      ],
      "lyricists": [
-      "08:49"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "08:49"
     },
     {
      "title": "Raja Raja Maha Raja Veeraprathaaban",
@@ -20344,11 +20721,11 @@
     {
      "title": "Po, Po, Po Enge Thaan Povaai",
      "singers": [
-      "04:04"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:04"
     },
     {
      "title": "Varuvaano Illaiyo",
@@ -20382,7 +20759,9 @@
     },
     {
      "title": "Unnai Paarththadhu Ange",
-     "singers": [],
+     "singers": [
+      "P. B. Sreenivas"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -20883,16 +21262,24 @@
     {
      "title": "Raajaathi Kaathirundhaa",
      "singers": [
+      "T. M. Soundararajan",
+      "P. Susheela"
+     ],
+     "lyricists": [
       "Vaali"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Ennaip Paarthu Edhai Paarthaalum",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan",
+      "P. Susheela"
+     ],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -20901,7 +21288,9 @@
      "singers": [
       "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -20910,7 +21299,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -21122,37 +21513,53 @@
      "singers": [
       "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. K. Velan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Chilaiye En Nilai Theriya",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "A. K. Velan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Azhuvaamal Azhuginra Penne",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "A. K. Velan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Chithiram Thaan Kalaindhatho",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "A. K. Velan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Senthaamarai Malar Pol",
      "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
       "A. Maruthakasi"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -21161,7 +21568,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -21171,16 +21580,21 @@
       "K. Rani",
       "group"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "A. Maruthakasi"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Vazhi Piranthadu, Nalla Vazhi Piranthadu",
      "singers": [
+      "K. Rani",
+      "group"
+     ],
+     "lyricists": [
       "Suratha"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
@@ -22342,11 +22756,11 @@
     {
      "title": "Sollaadha Kadhai Onru Sonnaanadi",
      "singers": [
-      "03:45"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:45"
     },
     {
      "title": "Kaattu Raani, Mugathai Kaattu Raani",
@@ -22361,11 +22775,12 @@
     {
      "title": "Othaiyadi Paadhaiyile Oruthi Manam Pogaiyile",
      "singers": [
-      "03:30"
+      "T. M. Soundararajan",
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kaattu_Rani_(1965_film)",
@@ -22403,10 +22818,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "06:14"
+      "Panchu Arunachalam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "06:14"
     },
     {
      "title": "Sange Muzhangu",
@@ -22437,10 +22852,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "04:57"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:57"
     },
     {
      "title": "Pallavan Pallavi",
@@ -22448,10 +22863,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:48"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:48"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kalangarai_Vilakkam",
@@ -22490,7 +22905,9 @@
      "singers": [
       "L. R. Eswari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Thellur Dharmarajan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -22510,7 +22927,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -22520,7 +22939,9 @@
       "T. M. Soundararajan",
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -22958,10 +23379,10 @@
       "Soolamangalam Rajalakshmi"
      ],
      "lyricists": [
-      "02:52"
+      "Alangudi Somu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:52"
     },
     {
      "title": "Kuyil Koovi Thuyil Ezhuppa – Sad",
@@ -22970,10 +23391,10 @@
       "Major Sundarrajan"
      ],
      "lyricists": [
-      "03:26"
+      "Alangudi Somu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:26"
     },
     {
      "title": "Vinnukku Melaadai",
@@ -23905,10 +24326,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "01:38"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:38"
     },
     {
      "title": "Thaazham Poovin",
@@ -24184,11 +24605,13 @@
     {
      "title": "Or Aayiram Parvaiyile",
      "singers": [
-      "5:48"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:48"
     },
     {
      "title": "Paaradi Kanne",
@@ -24198,10 +24621,10 @@
       "P. Suseela"
      ],
      "lyricists": [
-      "6:55"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "6:55"
     },
     {
      "title": "Manam Ennum Medai Mele",
@@ -24210,10 +24633,10 @@
       "P. Suseela"
      ],
      "lyricists": [
-      "3:30"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:30"
     },
     {
      "title": "Pozhuthum Vidyum",
@@ -24221,17 +24644,19 @@
       "P. Suseela"
      ],
      "lyricists": [
-      "3:39"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:39"
     },
     {
      "title": "Kaliyile Kaathadichaa",
      "singers": [
       "Sirkazhi Govindarajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -24242,21 +24667,22 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "3:17"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:17"
     },
     {
      "title": "Kandalum Kanndene",
      "singers": [
-      "Panchu Arunachalam"
+      "Sirkazhi Govindarajan",
+      "L. R. Eswari"
      ],
      "lyricists": [
-      "4:58"
+      "Panchu Arunachalam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:58"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Vallavanukku_Vallavan",
@@ -24963,10 +25389,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "6:09"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "6:09"
     },
     {
      "title": "Ingey Deivam Pathi",
@@ -24974,10 +25400,10 @@
       "A. L. Raghavan Mothi"
      ],
      "lyricists": [
-      "4:23"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:23"
     },
     {
      "title": "Santhipoma Indru",
@@ -24985,19 +25411,21 @@
       "P. B. Sreenivas L. R. Eswari"
      ],
      "lyricists": [
-      "3:48"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:48"
     },
     {
      "title": "Santhipoma Indru (Sad)",
      "singers": [
-      "3:06"
+      "P. B. Sreenivas L. R. Eswari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:06"
     },
     {
      "title": "Maarum Kanni Manam",
@@ -25005,10 +25433,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "1:42"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "1:42"
     },
     {
      "title": "Cycle Vandi Mele",
@@ -25127,7 +25555,9 @@
       "T. M. Soundararajan",
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Poovai Senguttuvan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -25196,11 +25626,12 @@
     {
      "title": "Aasaiya Kobama (Un Pazhakathin)",
      "singers": [
-      "3:34"
+      "T. M. Soundararajan",
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:34"
     },
     {
      "title": "Kaveri Karaiyin",
@@ -25522,13 +25953,13 @@
     {
      "title": "Engey Payanam",
      "singers": [
-      "Alangudi Somu"
+      "T. M. Soundararajan P. Susheela"
      ],
      "lyricists": [
-      "4:07"
+      "Alangudi Somu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:07"
     },
     {
      "title": "Malar Ponndra Paruvame",
@@ -25583,11 +26014,13 @@
     {
      "title": "Kaalathil Azhiyaada",
      "singers": [
-      "3.15"
+      "K. B. Sundarambal"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3.15"
     },
     {
      "title": "Kuzhandhaiyin Kodugal Oviyama .. Kalaimagal Enakoru",
@@ -25595,7 +26028,9 @@
       "T. M. Soundararajan",
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -25605,61 +26040,85 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:35"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:35"
     },
     {
      "title": "Maanikka Veenaiye...Yaar Tharuvar",
      "singers": [
-      "03:00"
+      "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:00"
     },
     {
      "title": "Malarum Vaan Nilavum",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Chinnaiya Endrazhaitha",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Thangame Thaamarai Mottukalaagi",
      "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
       "Ku. Ma. Balasubramaniam"
      ],
-     "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Pann Patta Nenjile Punn Pattadho",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Piraputtren Kaaliyidam",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Ariyaadha Maandhargale",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -25668,7 +26127,9 @@
      "singers": [
       "K. B. Sundarambal"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -25677,7 +26138,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -25689,7 +26152,9 @@
       "S. V. Ponnusamy",
       "Soolamangalam Rajalakshmi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Ku. Ma. Balasubramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -25896,21 +26361,22 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:30"
+      "Mu. Karunanidhi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     },
     {
      "title": "Onnu Kodutha",
      "singers": [
-      "Tiruchy Thyagarajan"
+      "T. M. Soundararajan",
+      "P. Susheela"
      ],
      "lyricists": [
-      "03:23"
+      "Tiruchy Thyagarajan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:23"
     },
     {
      "title": "Vasantha Kaalam Varumo",
@@ -26223,11 +26689,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "04:11",
-      "04:12"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:11 / 04:12 (film version)"
     },
     {
      "title": "Megangal Irundu (Odi Vanthu)",
@@ -26920,10 +27385,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "03:22"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:22"
     },
     {
      "title": "Ondra Iranda",
@@ -26932,10 +27397,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:42"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:42"
     },
     {
      "title": "Va Va Va Enakkakava",
@@ -26944,10 +27409,10 @@
       "K. Jamuna Rani"
      ],
      "lyricists": [
-      "03:26"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:26"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Selvam_(1966_film)",
@@ -27427,47 +27892,47 @@
     {
      "title": "Ponmeni Thazhuvamal",
      "singers": [
-      "4:23"
+      "P. Suseela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:23"
     },
     {
      "title": "En Vedhanaiyil",
      "singers": [
-      "3:14"
+      "P. Suseela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:14"
     },
     {
      "title": "Naane Varuven",
      "singers": [
-      "6:53"
+      "P. Suseela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "6:53"
     },
     {
      "title": "Naane Varuven (Solo)",
      "singers": [
-      "2:43"
+      "P. Suseela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:43"
     },
     {
      "title": "Naane Varuven (Sad)",
      "singers": [
-      "4:27"
+      "P. Suseela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:27"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Yaar_Nee%3F",
@@ -27500,14 +27965,18 @@
     },
     {
      "title": "Paasam Thudithathamma",
-     "singers": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Sivanai Thedi Bhakthargal Ponar",
-     "singers": [],
+     "singers": [
+      "T. M. Soundararajan"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -28261,11 +28730,11 @@
     {
      "title": "Nerukku Ner",
      "singers": [
-      "3:30"
+      "T. M. Soundararajan P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:30"
     },
     {
      "title": "Oru Naal Irundhen",
@@ -28657,10 +29126,10 @@
       "K. B. Sundarambal"
      ],
      "lyricists": [
-      "06:06"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "06:06"
     },
     {
      "title": "Konjum Kili",
@@ -28690,10 +29159,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "04:01"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:01"
     },
     {
      "title": "Murugane Senthil",
@@ -28701,10 +29170,10 @@
       "Sirkazhi Govindarajan"
      ],
      "lyricists": [
-      "00.58"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "00.58"
     },
     {
      "title": "Munthum Thamizh",
@@ -28715,10 +29184,10 @@
       "A. P. Komala"
      ],
      "lyricists": [
-      "01:51"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:51"
     },
     {
      "title": "Muruga Muruga Muruga",
@@ -28726,10 +29195,10 @@
       "K. B. Sundarambal"
      ],
      "lyricists": [
-      "01:43"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:43"
     },
     {
      "title": "Solla Solla (Film Version)",
@@ -28737,10 +29206,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "02:22"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:22"
     },
     {
      "title": "Solla Solla (Full Version)",
@@ -28748,10 +29217,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:21"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:21"
     },
     {
      "title": "Thirupparang Kundrathil",
@@ -28782,10 +29251,10 @@
       "S. Varalakshmi"
      ],
      "lyricists": [
-      "01:54"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:54"
     },
     {
      "title": "Vetrivel Veeravel",
@@ -28793,10 +29262,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "02:41"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:41"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kandhan_Karunai",
@@ -28858,10 +29327,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:09"
+      "Vidwan Ve. Lakshmanan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:09"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Karpooram",
@@ -28900,7 +29369,9 @@
       "T. M. Soundararajan",
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -28910,7 +29381,9 @@
       "T. M. Soundararajan",
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -28920,7 +29393,9 @@
       "T. M. Soundararajan",
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -28929,7 +29404,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -28938,7 +29415,9 @@
      "singers": [
       "Darapuram Sundarrjan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -28947,7 +29426,9 @@
      "singers": [
       "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -29222,10 +29703,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "3:32"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:32"
     },
     {
      "title": "Naan Aanai Ittal",
@@ -29256,10 +29737,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "5:35"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:35"
     },
     {
      "title": "Vanthaal Ennodu Engeya",
@@ -29267,10 +29748,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "4:26"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:26"
     },
     {
      "title": "Murder in a Birthday Party",
@@ -29331,7 +29812,9 @@
       "T. M. Soundararajan",
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -29340,7 +29823,9 @@
      "singers": [
       "T. M. Soundararajan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -29349,7 +29834,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -29358,7 +29845,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -29367,7 +29856,9 @@
      "singers": [
       "P. Susheela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -29408,10 +29899,10 @@
       "Tharapuram Sundararajan"
      ],
      "lyricists": [
-      "03:51"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:51"
     },
     {
      "title": "Thottatha Thodathathaa",
@@ -29420,10 +29911,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:42"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:42"
     },
     {
      "title": "Paravaigal Siraginaal Anaikka",
@@ -29431,10 +29922,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "03:35"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:35"
     },
     {
      "title": "Nandhan Vandhan Kovililae",
@@ -29484,10 +29975,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "04:47"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:47"
     },
     {
      "title": "Pattadai Thottil",
@@ -29495,10 +29986,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "03:17"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:17"
     },
     {
      "title": "Duettu Duettu Padum",
@@ -30040,21 +30531,21 @@
       "T. M. Soundararajan P. Susheela"
      ],
      "lyricists": [
-      "4:41"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:41"
     },
     {
      "title": "Kuyilaga Naan",
      "singers": [
-      "Vaali"
+      "T. M. Soundararajan P. Susheela"
      ],
      "lyricists": [
-      "3:52"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:52"
     },
     {
      "title": "Vennila Mugam",
@@ -30062,10 +30553,10 @@
       "T. M. Soundararajan L. R. Eswari"
      ],
      "lyricists": [
-      "3:41"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:41"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Selva_Magal",
@@ -31289,10 +31780,10 @@
       "R. Balasaraswathi Devi"
      ],
      "lyricists": [
-      "02:04"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:04"
     },
     {
      "title": "Kaasiyil Vaazhum Karunai Kadale",
@@ -31300,10 +31791,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:25"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:25"
     },
     {
      "title": "Aadum Mayile Venumaa",
@@ -31312,10 +31803,10 @@
       "Udutha Sarojini"
      ],
      "lyricists": [
-      "03:19"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:19"
     },
     {
      "title": "Ulagam Ariyaadha Pudhumai",
@@ -31323,10 +31814,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "04:01"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:01"
     },
     {
      "title": "Naranaiyum Nee Padaitthaai",
@@ -31334,10 +31825,10 @@
       "R. Balasaraswathi Devi"
      ],
      "lyricists": [
-      "03:05"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:05"
     },
     {
      "title": "Yaar Poi Solluvaar",
@@ -31345,10 +31836,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "03:44"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:44"
     },
     {
      "title": "Idhu Ingeyirukku Adhu Angeyirukku",
@@ -31357,10 +31848,10 @@
       "S. V. Ponnusamy"
      ],
      "lyricists": [
-      "04:06"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:06"
     },
     {
      "title": "Aaradi Kalli Nee Thaan",
@@ -31368,10 +31859,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "00:37"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "00:37"
     },
     {
      "title": "Aadhiyilum Paraiyan Alla",
@@ -31379,10 +31870,10 @@
       "T. M. Soundararajan"
      ],
      "lyricists": [
-      "01:55"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:55"
     },
     {
      "title": "Aadhavaa... Ponnudane Porul Niraindhu",
@@ -31391,10 +31882,10 @@
       "S. V. Ponnusami"
      ],
      "lyricists": [
-      "04:24"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:24"
     },
     {
      "title": "Needi Dhevam Ulagil",
@@ -31403,10 +31894,10 @@
       "Udutha Sarojini"
      ],
      "lyricists": [
-      "01:54"
+      "Thanjai N. Ramaiah Dass"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:54"
     },
     {
      "title": "Vinnavar Kadhiye Potri",
@@ -31725,11 +32216,13 @@
     {
      "title": "Kannan on the piano, Mallika on the floor",
      "singers": [
-      "01.02"
+      "M. S. Viswanathan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "No lyrics"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01.02 (instrumental)"
     },
     {
      "title": "Kettikariyin Poyyum",
@@ -31768,11 +32261,13 @@
     {
      "title": "Kannan, Malathi & action on music (part 2)",
      "singers": [
-      "01:32"
+      "M. S. Viswanathan"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "No lyrics"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:32 (instrumental)"
     },
     {
      "title": "Kangal Irandum",
@@ -31817,11 +32312,10 @@
       "Jayalalithaa"
      ],
      "lyricists": [
-      "02:57",
-      "02:58"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:57 / 02:58 (film version)"
     },
     {
      "title": "Paaduvor Paadinaal (reprise 2)",
@@ -31830,10 +32324,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "0:49"
+      "Vaali"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "0:49 (film version)"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kannan_En_Kadhalan",
@@ -32202,11 +32696,11 @@
     {
      "title": "Maalaiyitta Kanavan",
      "singers": [
-      "02:53"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:53"
     },
     {
      "title": "Oru Naal Pazhagiya",
@@ -32342,11 +32836,12 @@
     {
      "title": "Naan Kalaingan Alla",
      "singers": [
-      "3:56"
+      "T. M. Soundararajan",
+      "L. R. Eswari"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:56"
     },
     {
      "title": "Thiruthani Muruga Thennava Thalaiva",
@@ -32732,11 +33227,10 @@
       "P. Susheela"
      ],
      "lyricists": [
-      "4:12",
-      "4:16"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:12 / 4:16 (film version)"
     },
     {
      "title": "Naan Ungal Veetu",
@@ -33012,20 +33506,20 @@
     {
      "title": "Thithikkum Paaleduthu",
      "singers": [
-      "3:33"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:33"
     },
     {
      "title": "Vaanai Maranthu Nindra",
      "singers": [
-      "3:23"
+      "P. Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:23"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Thamarai_Nenjam",
@@ -33837,10 +34331,10 @@
       "L. R. Eswari"
      ],
      "lyricists": [
-      "03:21"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:21"
     },
     {
      "title": "Paattodu Raagam Inge",
@@ -33848,10 +34342,10 @@
       "Seerkazhi Govindarajan"
      ],
      "lyricists": [
-      "03:24"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:24"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Akka_Thangai",
@@ -33970,7 +34464,9 @@
       "T. M. Soundararajan",
       "L. R. Eswari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kannadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -33990,7 +34486,9 @@
      "singers": [
       "L. R. Eswari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Vaali"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -34452,38 +34950,38 @@
     {
      "title": "Thendralil Aadai",
      "singers": [
-      "3:54"
+      "Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:54"
     },
     {
      "title": "Chippikull Pani Vizhunthu",
      "singers": [
-      "2:00"
+      "Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:00"
     },
     {
      "title": "Sathiya Muthirai (Adhu Vanagam Padiya)",
      "singers": [
-      "4:10"
+      "Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:10"
     },
     {
      "title": "Kanne Pappa (sad)",
      "singers": [
-      "2:55"
+      "Susheela"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:55"
     },
     {
      "title": "Kalathil Idhu Nalla",
@@ -35002,11 +35500,12 @@
     {
      "title": "Engeyo Paartha Mugam",
      "singers": [
-      "3:25"
+      "P. B. Srinivas",
+      "L. R. Eswari"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:25"
     },
     {
      "title": "Kangalukkenna Kaval",
@@ -35028,7 +35527,9 @@
     },
     {
      "title": "Rajakutty",
-     "singers": [],
+     "singers": [
+      "T. M. Soundararajan P. Susheela"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""

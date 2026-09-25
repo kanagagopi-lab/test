@@ -75,27 +75,29 @@
     {
      "title": "Varuveer Magizhvudane",
      "singers": [
-      "Sindhu Bairavi"
+      "P. A. Periyanayaki"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:55"
     },
     {
      "title": "Jagadeeswari Sankari",
      "singers": [
-      "Vijayanaghari"
+      "P. A. Periyanayaki"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:02"
     },
     {
      "title": "Ennaippole Bhagyavati Yaar",
-     "singers": [],
+     "singers": [
+      "P. A. Periyanayaki"
+     ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:54"
     },
     {
      "title": "Aanandham Idhile",
@@ -313,14 +315,18 @@
     },
     {
      "title": "Ithupothe Kanpaalo",
-     "singers": [],
+     "singers": [
+      "K. V. Jayagowri"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Anbe Umadhu Inbamthanaye",
-     "singers": [],
+     "singers": [
+      "K. V. Jayagowri"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -336,14 +342,18 @@
     },
     {
      "title": "Piriya Nesiye, Endhan Maane",
-     "singers": [],
+     "singers": [
+      "P. U. Chinnappa"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Muthukkavi Chiththaritha",
-     "singers": [],
+     "singers": [
+      "P. U. Chinnappa"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -361,15 +371,19 @@
     {
      "title": "Komala Maane Guna Bhooshaname",
      "singers": [
-      "2:43"
+      "P. U. Chinnappa",
+      "K. V. Jayagowri"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:43"
     },
     {
      "title": "Pooja Balamidhuthaano",
-     "singers": [],
+     "singers": [
+      "P. U. Chinnappa",
+      "K. V. Jayagowri"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -461,7 +475,9 @@
     },
     {
      "title": "Naame Koodi Naalellam Uzhaithom",
-     "singers": [],
+     "singers": [
+      "P. G. Venkatesan"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -847,56 +863,56 @@
     {
      "title": "Maname Kanamum",
      "singers": [
-      "01:55"
+      "M. S. Subbulakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:55"
     },
     {
      "title": "Aggini Endrariyayo Karpudaya Mangayarai",
      "singers": [
-      "02:34"
+      "M. S. Subbulakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:34"
     },
     {
      "title": "Deviyai Poojai Seivay",
      "singers": [
-      "02:08"
+      "M. S. Subbulakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:08"
     },
     {
      "title": "Mangalamum Peruvar",
      "singers": [
-      "02:10"
+      "M. S. Subbulakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:10"
     },
     {
      "title": "Sollu Kulandaai",
      "singers": [
-      "03:21"
+      "M. S. Subbulakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:21"
     },
     {
      "title": "Deviyai Poojai Seivai",
      "singers": [
-      "03:30"
+      "M. S. Subbulakshmi"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     },
     {
      "title": "Jayadeviye Jagadambike Karunaiyai Arulvai Devi",
@@ -910,38 +926,38 @@
     {
      "title": "Anandamaana Ullasamudan Villaiyaduvom Paduvom Paattugalai",
      "singers": [
-      "01:54"
+      "Shanta Apte"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:54"
     },
     {
      "title": "Ado Devi, Ado Pogiran.. Iha Para Sukhamum",
      "singers": [
-      "02:43"
+      "Shanta Apte"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:43"
     },
     {
      "title": "Maaye, Yenadu Thaye",
      "singers": [
-      "01:59"
+      "Shanta Apte"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:59"
     },
     {
      "title": "Kulamigu Piraviyin",
      "singers": [
-      "02:19"
+      "Shanta Apte"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:19"
     },
     {
      "title": "Naadhan Uyirkku Mandraadum",
@@ -985,12 +1001,12 @@
     },
     {
      "title": "Idhu Enna Urakkam",
-     "singers": [],
-     "lyricists": [
-      "03:23"
+     "singers": [
+      "M. R. Krishnamoorthy"
      ],
+     "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:23"
     },
     {
      "title": "Prema Sanga Sugam",
@@ -1003,12 +1019,12 @@
     },
     {
      "title": "Ulagile",
-     "singers": [],
-     "lyricists": [
-      "03:41"
+     "singers": [
+      "P. G. Venkadesan"
      ],
+     "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:41"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Vedavathi_Alladhu_Seetha_Jananam",
@@ -1176,7 +1192,7 @@
      "singers": [],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Unaiyellar Kaathi Yaar",
@@ -1185,7 +1201,7 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Thillai Ambala",
@@ -1195,7 +1211,7 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": "01:56"
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Paavi Paarayan",
@@ -1204,166 +1220,176 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": "02:40"
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Enakkum Irangi",
-     "singers": [],
+     "singers": [
+      "M. M. Dandapani Desikar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Ellorum Varungal",
      "singers": [
-      "01:11"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Kana Kann Vendumo",
      "singers": [
-      "01:36"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Ulaganathan Thaalam",
-     "singers": [],
+     "singers": [
+      "M. M. Dandapani Desikar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Veeraadum",
      "singers": [
-      "03:13"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Sivaloga Nathanai",
      "singers": [
-      "03:07"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Sambo Sankara Samba",
-     "singers": [],
+     "singers": [
+      "M. M. Dandapani Desikar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Varugalaamo Ayya",
      "singers": [
-      "03:44"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Vara Vara Kettu Pochu",
-     "singers": [],
+     "singers": [
+      "M. M. Dandapani Desikar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Jathiyillum Kidaiyaen",
      "singers": [
-      "02:20"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Vazhi Marathirukkirathe",
      "singers": [
-      "5:33"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Hara Hara Jagatheesa",
      "singers": [
-      "02:03"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Piravaa Varam Tharum",
      "singers": [
-      "01:53"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "En Appanallavaa",
      "singers": [
-      "01:49"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Piththam Theliya",
      "singers": [
-      "02:44"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Ayyae Mettha Kadinam",
      "singers": [
-      "03:14"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Kaamamagatriya",
      "singers": [
-      "Kothamangalam Subbu"
+      "M. M. Dandapani Desikar"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": "02:22"
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Ambala Paatte Arul Paattu",
-     "singers": [],
+     "singers": [
+      "M. M. Dandapani Desikar"
+     ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Kaakkavendum Kadavule",
      "singers": [],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Manja Kulichavale",
@@ -1372,7 +1398,7 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Veeran Irulan Kaataeri",
@@ -1381,7 +1407,7 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Natta Nadavu Chezhikka Venum",
@@ -1391,21 +1417,27 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Ellai Pidaariye",
-     "singers": [],
+     "singers": [
+      "Kothamangalam Subbu",
+      "group"
+     ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Vara Vara Kettu Pochchu",
-     "singers": [],
+     "singers": [
+      "Kothamangalam Subbu",
+      "group"
+     ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Uyarap Panai Mael Kalayam",
@@ -1414,7 +1446,7 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     },
     {
      "title": "Vandiyit Paaram Pottu",
@@ -1423,7 +1455,7 @@
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Kothamangalam Subbu"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Nandanar_(1942_film)",
@@ -2298,7 +2330,9 @@
      "singers": [
       "Sahasranamam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kambadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2308,7 +2342,9 @@
       "T. R. Ramachandran",
       "A. R. Sakunthala"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kambadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2375,10 +2411,10 @@
       "U. R. Jeevarathnam"
      ],
      "lyricists": [
-      "02:47"
+      "Madurai Mariappa Swamigal"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:47"
     },
     {
      "title": "Om Namasivaya Enum Namam",
@@ -2415,7 +2451,9 @@
     },
     {
      "title": "Mandhiram Aavadhu Neeru Vanavar Meladhu Neeru",
-     "singers": [],
+     "singers": [
+      "K. R. Ramasamy"
+     ],
      "lyricists": [],
      "musicDirectors": [],
      "length": ""
@@ -2434,13 +2472,13 @@
     {
      "title": "Podhum Podhum Indha Janmam",
      "singers": [
-      "Sivaranjani"
+      "U. R. Jeevarathnam"
      ],
      "lyricists": [
-      "03:00"
+      "Madurai Mariappa Swamigal"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:00"
     },
     {
      "title": "Kulirnthu Than Nijamanal Udala Ulama",
@@ -2458,16 +2496,20 @@
      "singers": [
       "K. R. Ramasamy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kambadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Mattitta Punnaiyanganan",
      "singers": [
-      "Bhimpalas"
+      "K. R. Ramasamy"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kambadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2477,7 +2519,9 @@
       "K. R. Ramasamy",
       "U. R. Jeevarathnam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kambadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2486,7 +2530,9 @@
      "singers": [
       "T. A. Mathuram"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kambadasan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2832,7 +2878,9 @@
      "singers": [
       "M. S. Sundari Bai"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kothamangalam Subbu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2841,7 +2889,9 @@
      "singers": [
       "M. K. Radha"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kothamangalam Subbu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2850,7 +2900,9 @@
      "singers": [
       "M. S. Sundari Bai"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kothamangalam Subbu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2860,7 +2912,9 @@
       "M. K. Radha",
       "M. S. Sundari Bai"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kothamangalam Subbu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -2871,10 +2925,10 @@
       "M. S. Sundari Bai"
      ],
      "lyricists": [
-      "01:36"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:36"
     },
     {
      "title": "Katti Padikkiran Mutham Kottukiran",
@@ -2882,10 +2936,10 @@
       "S. Krishnamoorthy"
      ],
      "lyricists": [
-      "00:45"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "00:45"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Kannamma_En_Kadhali",
@@ -3184,17 +3238,19 @@
       "Kumari Rukmani"
      ],
      "lyricists": [
-      "02:12"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:12"
     },
     {
      "title": "Paavan Yamuna Theeram",
      "singers": [
       "Y. V. Rao"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Papanasam Sivan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3203,7 +3259,9 @@
      "singers": [
       "Jayagowri"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Papanasam Sivan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3213,10 +3271,10 @@
       "Kumari Rukmani"
      ],
      "lyricists": [
-      "02:20"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:20"
     },
     {
      "title": "Neel Kanjavizhik",
@@ -3224,19 +3282,21 @@
       "B. Jayamma"
      ],
      "lyricists": [
-      "03:05"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:05"
     },
     {
      "title": "Aa Aa Paaduvom Ellorum",
      "singers": [
-      "02:49"
+      "B. Jayamma"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Papanasam Sivan"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:49"
     },
     {
      "title": "Paaraamugam Eno Pethai En Parithapam",
@@ -3244,10 +3304,10 @@
       "Kumari Rukmani"
      ],
      "lyricists": [
-      "03:17"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:17"
     },
     {
      "title": "Aha Inre Peranantam",
@@ -3256,7 +3316,9 @@
       "B. Jayamma",
       "Y. V. Rao"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Papanasam Sivan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3266,7 +3328,9 @@
       "Kumari Rukmani",
       "Y. V. Rao"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Papanasam Sivan"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3276,7 +3340,9 @@
       "Kumari Rukmani",
       "Y. V. Rao"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Papanasam Sivan"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -3565,7 +3631,9 @@
     {
      "title": "Varayo Muruga Manala Varuga",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "Covai A. Aiyamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3576,22 +3644,26 @@
       "K. V. Janaki"
      ],
      "lyricists": [
-      "03:14"
+      "Covai A. Aiyamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:14"
     },
     {
      "title": "Vayatrai Pichikku Thenpal",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "Covai A. Aiyamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Kaikku Pathu Valaiyal Venum",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "Covai A. Aiyamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3601,15 +3673,17 @@
       "Thiruchi Loganathan"
      ],
      "lyricists": [
-      "03:18"
+      "Covai A. Aiyamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:18"
     },
     {
      "title": "Yare Nee Kooraye Mane",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "Covai A. Aiyamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -3620,10 +3694,10 @@
       "Thiruchi Loganathan"
      ],
      "lyricists": [
-      "03:06"
+      "Covai A. Aiyamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:06"
     },
     {
      "title": "Kallaneruvan En Ullathaiye",
@@ -3631,10 +3705,10 @@
       "K. V. Janaki"
      ],
      "lyricists": [
-      "03:09"
+      "Covai A. Aiyamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:09"
     },
     {
      "title": "Neersoozhntha Natellam",
@@ -3642,10 +3716,10 @@
       "M. M. Mariyappa"
      ],
      "lyricists": [
-      "02:05"
+      "Covai A. Aiyamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:05"
     },
     {
      "title": "Aaha Ini Yare Puvi Meethe Nampole",
@@ -3654,15 +3728,17 @@
       "K. V. Janaki"
      ],
      "lyricists": [
-      "02:09"
+      "Covai A. Aiyamuthu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:09"
     },
     {
      "title": "Vazhka Thamizh Nadu Vazhka Vazhkave",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "Covai A. Aiyamuthu"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -3981,11 +4057,13 @@
     {
      "title": "Aaduvome Pallu Paaduvome",
      "singers": [
-      "04:53"
+      "D. K. Pattammal"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Subramania Bharati"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:53"
     },
     {
      "title": "Vaazhiya Sendhamizhar Vaazhiya Natramizhar",
@@ -3993,7 +4071,9 @@
       "Devanarayanan",
       "T. S. Bhagavathi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Subramania Bharati"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4003,10 +4083,10 @@
       "T. R. Mahalingam"
      ],
      "lyricists": [
-      "01:33"
+      "Subramania Bharati"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:33"
     },
     {
      "title": "Solai Malar Oliyo",
@@ -4015,30 +4095,34 @@
       "T. S. Bhagavathi"
      ],
      "lyricists": [
-      "03:16"
+      "Subramania Bharati"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:16"
     },
     {
      "title": "Iga Vaazhvinile Aaanandham",
      "singers": [
-      "K. P. Kamatchisundaram"
+      "T. R. Mahalingam",
+      "T. S. Bhagavathi"
      ],
      "lyricists": [
-      "02:46"
+      "K. P. Kamatchisundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:46"
     },
     {
      "title": "Jega Meedhile Mei Kaadhalthaane",
      "singers": [
-      "02:08"
+      "T. R. Mahalingam",
+      "T. S. Bhagavathi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "K. P. Kamatchisundaram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:08"
     },
     {
      "title": "Vasandham Tharum Maalai",
@@ -4046,28 +4130,32 @@
       "T. S. Bagavathi"
      ],
      "lyricists": [
-      "02:35"
+      "K. P. Kamatchisundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:35"
     },
     {
      "title": "Udal Aaviyum Pol",
      "singers": [
-      "02:55"
+      "T. S. Bagavathi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "K. P. Kamatchisundaram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:55"
     },
     {
      "title": "Maalai Neramidhe Kola Kuyil Koovudhe",
      "singers": [
-      "01:59"
+      "T. S. Bagavathi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "K. P. Kamatchisundaram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:59"
     },
     {
      "title": "Amudhinai Vishamendru",
@@ -4075,10 +4163,10 @@
       "Devanarayanan"
      ],
      "lyricists": [
-      "02:05"
+      "K. P. Kamatchisundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:05"
     },
     {
      "title": "Devaamudha Mozhiyaale",
@@ -4086,10 +4174,10 @@
       "T. R. Mahalingam"
      ],
      "lyricists": [
-      "02:10"
+      "K. P. Kamatchisundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:10"
     },
     {
      "title": "Karunaamoorthi Gaandhi Mahaathmaa",
@@ -4097,19 +4185,21 @@
       "M. S. Rajeswari"
      ],
      "lyricists": [
-      "02:01"
+      "K. P. Kamatchisundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:01"
     },
     {
      "title": "Mahaan, Gaandhiye Mahaane",
      "singers": [
-      "03:27"
+      "M. S. Rajeswari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "K. P. Kamatchisundaram"
+     ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:27"
     },
     {
      "title": "Thagamai Seyr Amuthinai",
@@ -4117,10 +4207,10 @@
       "P. G. Venkatesan"
      ],
      "lyricists": [
-      "01:37"
+      "K. P. Kamatchisundaram"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:37"
     },
     {
      "title": "Kodaiyile Ilaipaatrikolla",
@@ -4274,10 +4364,10 @@
       "P. U. Chinnappa"
      ],
      "lyricists": [
-      "03:14"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:14"
     },
     {
      "title": "Dheivamum Mandhira Vaal",
@@ -4285,10 +4375,10 @@
       "T. R. Rajakumari"
      ],
      "lyricists": [
-      "03:02"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:02"
     },
     {
      "title": "Devinin Vadivazhagai",
@@ -4296,10 +4386,10 @@
       "T. R. Rajakumari"
      ],
      "lyricists": [
-      "03:03"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:03"
     },
     {
      "title": "Vennilave.... Aaruyirkkellam",
@@ -4307,10 +4397,10 @@
       "P. U. Chinnappa"
      ],
      "lyricists": [
-      "03:18"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:18"
     },
     {
      "title": "Utthama Nanban Unpol Undo",
@@ -4318,10 +4408,10 @@
       "P. U. Chinnappa"
      ],
      "lyricists": [
-      "03:11"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:11"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Pankajavalli_(film)",
@@ -4617,10 +4707,10 @@
       "M. Kalpagam"
      ],
      "lyricists": [
-      "02:42 /"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:42 /"
     },
     {
      "title": "Ayane Mayane",
@@ -4628,28 +4718,28 @@
       "S. S. Mani"
      ],
      "lyricists": [
-      "03:30"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     },
     {
      "title": "Aiyamaare Vanga Ammaamare Vanga",
      "singers": [],
      "lyricists": [
-      "07:16"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "07:16"
     },
     {
      "title": "Kannale Vettadhe Ennaiye",
      "singers": [],
      "lyricists": [
-      "08:43"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "08:43"
     },
     {
      "title": "Unakkum Enakkum",
@@ -4657,22 +4747,30 @@
       "Nagayya"
      ],
      "lyricists": [
-      "03:07"
+      "Kothamangalam Subbu"
+     ],
+     "musicDirectors": [],
+     "length": "03:07"
+    },
+    {
+     "title": "Enna Ruchiyo, Aha, Enna Ruchiyo",
+     "singers": [
+      "Nagayya"
+     ],
+     "lyricists": [
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
      "length": ""
     },
     {
-     "title": "Enna Ruchiyo, Aha, Enna Ruchiyo",
-     "singers": [],
-     "lyricists": [],
-     "musicDirectors": [],
-     "length": ""
-    },
-    {
      "title": "Vittalanai Panivom",
-     "singers": [],
-     "lyricists": [],
+     "singers": [
+      "Nagayya"
+     ],
+     "lyricists": [
+      "Kothamangalam Subbu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4681,7 +4779,9 @@
      "singers": [
       "T. V. Rathnam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Kothamangalam Subbu"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -4691,39 +4791,37 @@
       "Nagayya"
      ],
      "lyricists": [
-      "Papanasam Sivan"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": "03:21"
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Prabhu Pandu Ranga",
      "singers": [
-      "02:47"
+      "Nagayya"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Pandu Rangan Karunayale",
      "singers": [
-      "02:07"
+      "Nagayya"
      ],
      "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Bhakthiyudan Puganzhndhu Paaduvome",
      "singers": [
       "Nagarcoil Mahadevan"
      ],
-     "lyricists": [
-      "02:03"
-     ],
+     "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Poojai Seithome",
@@ -4731,11 +4829,9 @@
       "T. V. Rathnam",
       "group"
      ],
-     "lyricists": [
-      "02:29"
-     ],
+     "lyricists": [],
      "musicDirectors": [],
-     "length": ""
+     "length": "Papanasam Sivan"
     },
     {
      "title": "Musical Dance",
@@ -4936,10 +5032,12 @@
       "P. A. Periyanayaki"
      ],
      "lyricists": [
-      "3:06"
+      "Kambadasan"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "S. V. Venkataraman"
+     ],
+     "length": "3:06"
     },
     {
      "title": "Arunothayaanandhame",
@@ -4977,17 +5075,21 @@
       "Kambadasan"
      ],
      "musicDirectors": [
-      "6:16"
+      "S. V. Venkataraman"
      ],
-     "length": ""
+     "length": "6:16"
     },
     {
      "title": "Vanithamaniye Mounameno",
      "singers": [
       "T. R. Mahalingam"
      ],
-     "lyricists": [],
-     "musicDirectors": [],
+     "lyricists": [
+      "Kambadasan"
+     ],
+     "musicDirectors": [
+      "S. V. Venkataraman"
+     ],
      "length": ""
     },
     {
@@ -4997,10 +5099,12 @@
       "T. R. Mahalingam"
      ],
      "lyricists": [
-      "2:48"
+      "Kambadasan"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "S. V. Venkataraman"
+     ],
+     "length": "2:48"
     },
     {
      "title": "Jegamel Naan Ini Bhagyavaane",
@@ -5008,18 +5112,24 @@
       "T. R. Mahalingam"
      ],
      "lyricists": [
-      "2:59"
+      "Kambadasan"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "S. V. Venkataraman"
+     ],
+     "length": "2:59"
     },
     {
      "title": "Vaasanaiyaana Malar",
      "singers": [
       "P. R. Mangalam"
      ],
-     "lyricists": [],
-     "musicDirectors": [],
+     "lyricists": [
+      "Kambadasan"
+     ],
+     "musicDirectors": [
+      "S. V. Venkataraman"
+     ],
      "length": ""
     },
     {
@@ -5028,10 +5138,12 @@
       "P. A. Periyanayaki"
      ],
      "lyricists": [
-      "2:25"
+      "Kambadasan"
      ],
-     "musicDirectors": [],
-     "length": ""
+     "musicDirectors": [
+      "S. V. Venkataraman"
+     ],
+     "length": "2:25"
     },
     {
      "title": "Nenjame Nee Anjadhe",
@@ -5042,9 +5154,9 @@
       "T. N. Rajappa"
      ],
      "musicDirectors": [
-      "3:09"
+      "S. V. Venkataraman"
      ],
-     "length": ""
+     "length": "3:09"
     },
     {
      "title": "Matha Nin Deva Tharisiname",
@@ -5055,9 +5167,9 @@
       "Kambadasan"
      ],
      "musicDirectors": [
-      "3:38"
+      "S. V. Venkataraman"
      ],
-     "length": ""
+     "length": "3:38"
     },
     {
      "title": "Vaazhvinil En Uyir Vadivaana",
@@ -5065,9 +5177,11 @@
       "T. R. Mahalingam"
      ],
      "lyricists": [
+      "Kambadasan"
+     ],
+     "musicDirectors": [
       "M. S. Gnanamani"
      ],
-     "musicDirectors": [],
      "length": ""
     },
     {
@@ -5076,12 +5190,12 @@
       "P. A. Periyanayaki"
      ],
      "lyricists": [
-      "S. V. Venkataraman"
+      "Kambadasan"
      ],
      "musicDirectors": [
-      "3:06"
+      "S. V. Venkataraman"
      ],
-     "length": ""
+     "length": "3:06"
     },
     {
      "title": "Mannile Kadalil Poyi Marainthayo",
@@ -5092,9 +5206,9 @@
       "K. D. Santhanam"
      ],
      "musicDirectors": [
-      "2:38"
+      "S. V. Venkataraman"
      ],
-     "length": ""
+     "length": "2:38"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Gnana_Soundari_(Citadel_film)",
@@ -5127,21 +5241,27 @@
      "singers": [
       "S. Balachander"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Kaikorthu Edhirpaarkkum",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Aa Naane Magizhven",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5150,7 +5270,9 @@
      "singers": [
       "S. Balachander"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5159,49 +5281,63 @@
      "singers": [
       "S. Balachander"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Ee Paaradi Lakshmi",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Romeo Antonio",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Neela Mayil Vaaganano",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Nee Thoonga Mattayo",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Anbenum Amuthalithu",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
     {
      "title": "Kavali Yedhu Gopal",
      "singers": [],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5211,7 +5347,9 @@
       "S. Balachander",
       "Radha Jayalakshmi"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -5221,7 +5359,9 @@
       "S. Balachander",
       "P. Leela"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "M. S. Subramaniam"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -5545,10 +5685,10 @@
       "D. K. Pattammal"
      ],
      "lyricists": [
-      "03:15"
+      "T. K. Sundara Vaathiyar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:15"
     },
     {
      "title": "Kottai Kattatheydaa",
@@ -5556,10 +5696,10 @@
       "D. K. Pattammal"
      ],
      "lyricists": [
-      "02:45"
+      "T. K. Sundara Vaathiyar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:45"
     },
     {
      "title": "Mudnalai Vaayil Meendum",
@@ -5567,10 +5707,10 @@
       "D. K. Pattammal"
      ],
      "lyricists": [
-      "02:42"
+      "T. K. Sundara Vaathiyar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:42"
     },
     {
      "title": "Pei Kondalainthalum",
@@ -5579,10 +5719,10 @@
       "T. S. Durairaj"
      ],
      "lyricists": [
-      "02:37"
+      "T. K. Sundara Vaathiyar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:37"
     },
     {
      "title": "Aasaiyum Anbum Nirainthidum",
@@ -5590,10 +5730,10 @@
       "A. P. Komala"
      ],
      "lyricists": [
-      "02:59"
+      "T. K. Sundara Vaathiyar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:59"
     },
     {
      "title": "Vennai Thayir Paal Thirudum",
@@ -5601,17 +5741,19 @@
       "A. P. Komala"
      ],
      "lyricists": [
-      "03:02"
+      "T. K. Sundara Vaathiyar"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:02"
     },
     {
      "title": "Thuruppu Illaamey Paruppu Vegumaa",
      "singers": [
       "T. S. Durairaj"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "T. K. Sundara Vaathiyar"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -5933,10 +6075,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "01:56"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:56"
     },
     {
      "title": "Nonthavar",
@@ -5944,10 +6086,10 @@
       "M. S. Velappan"
      ],
      "lyricists": [
-      "02:15"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:15"
     },
     {
      "title": "Kani Kannan",
@@ -5955,10 +6097,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "01:23"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:23"
     },
     {
      "title": "Kannan Naamam",
@@ -5966,10 +6108,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "03:12"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:12"
     },
     {
      "title": "Pathiyavane",
@@ -5977,10 +6119,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "02:20"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:20"
     },
     {
      "title": "Indre Pirantha",
@@ -5988,10 +6130,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "02:56"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:56"
     },
     {
      "title": "Kuvalayathala",
@@ -5999,10 +6141,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "02:26"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:26"
     },
     {
      "title": "Vaaraamal",
@@ -6010,10 +6152,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "04:42"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:42"
     },
     {
      "title": "Thanthayum Nee",
@@ -6021,10 +6163,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "04:02"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:02"
     },
     {
      "title": "Krishna Muraari",
@@ -6032,10 +6174,10 @@
       "P. B. Rangachari"
      ],
      "lyricists": [
-      "01:54"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "01:54"
     },
     {
      "title": "Yezhaigal",
@@ -6043,10 +6185,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "04:31"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "04:31"
     },
     {
      "title": "Saantham",
@@ -6054,10 +6196,10 @@
       "M. M. Dandapani Desigar"
      ],
      "lyricists": [
-      "03:24"
+      "Papanasam Sivan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:24"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Thirumalisai_Alvar_(film)",
@@ -6378,17 +6520,19 @@
       "M. L. Vasanthakumari"
      ],
      "lyricists": [
-      "03:06"
+      "Rajagopla Iyer"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:06"
     },
     {
      "title": "Enadhu Ennam Veene",
      "singers": [
       "M. L. Vasanthakumari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6397,7 +6541,9 @@
      "singers": [
       "M. L. Vasanthakumari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6406,7 +6552,9 @@
      "singers": [
       "M. L. Vasanthakumari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6416,7 +6564,9 @@
       "Mayilsamy",
       "corus"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6425,7 +6575,9 @@
      "singers": [
       "S. Rajam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6545,17 +6697,19 @@
       "M. L. Vasanthakumari"
      ],
      "lyricists": [
-      "03:06"
+      "Rajagopla Iyer"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:06"
     },
     {
      "title": "Enadhu Ennam Veene",
      "singers": [
       "M. L. Vasanthakumari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6564,7 +6718,9 @@
      "singers": [
       "M. L. Vasanthakumari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6573,7 +6729,9 @@
      "singers": [
       "M. L. Vasanthakumari"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6583,7 +6741,9 @@
       "Mayilsamy",
       "corus"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     },
@@ -6592,7 +6752,9 @@
      "singers": [
       "S. Rajam"
      ],
-     "lyricists": [],
+     "lyricists": [
+      "Rajagopla Iyer"
+     ],
      "musicDirectors": [],
      "length": ""
     }
@@ -6629,10 +6791,10 @@
      "title": "Thalelo Rajakumarargale",
      "singers": [],
      "lyricists": [
-      "03:09"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:09"
     },
     {
      "title": "Maya Vinthaiyethane",
@@ -6641,10 +6803,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "3:54"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:54"
     },
     {
      "title": "Manum Mayilum Adum Solai",
@@ -6652,10 +6814,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:55"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:55"
     },
     {
      "title": "Laddu Laddu Mittai Venumaa",
@@ -6663,10 +6825,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "06:02"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "06:02"
     },
     {
      "title": "Manamohaname Vanavaasame",
@@ -6674,10 +6836,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "02:31"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:31"
     },
     {
      "title": "Aaha Aaduvene Geetham Paduvene",
@@ -6686,10 +6848,10 @@
       "T. A. Mothi"
      ],
      "lyricists": [
-      "03:30"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:30"
     },
     {
      "title": "Paradhesame Pogaadhe",
@@ -6697,10 +6859,10 @@
       "T. A. Mothi"
      ],
      "lyricists": [
-      "05:39"
+      "Kothamangalam Subbu"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "05:39"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Apoorva_Sagodharargal_(1949_film)",
@@ -7059,10 +7221,10 @@
       "Thiruchi Loganathan"
      ],
      "lyricists": [
-      "02:42"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:42"
     },
     {
      "title": "Kaaranam Theriyammal",
@@ -7070,10 +7232,10 @@
       "M. L. Vasanthakumari"
      ],
      "lyricists": [
-      "02:28"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:28"
     },
     {
      "title": "Kandaen Ayya",
@@ -7081,10 +7243,10 @@
       "K. V. Janaki"
      ],
      "lyricists": [
-      "02:19"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:19"
     },
     {
      "title": "Chithirai Paravaiyamma",
@@ -7092,10 +7254,10 @@
       "K. V. Janaki"
      ],
      "lyricists": [
-      "03:07"
+      "Kannadasan"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:07"
     },
     {
      "title": "Aasaipatten Machaan",
@@ -7697,10 +7859,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:07"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:07"
     },
     {
      "title": "Iga Vaazhvinil Kaadhal Mahaajothiye",
@@ -7709,10 +7871,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "3:08"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:08"
     },
     {
      "title": "Jothi Minnum",
@@ -7721,10 +7883,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:30"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:30"
     },
     {
      "title": "Vaaraayo Enai Marandhanaiyo",
@@ -7733,10 +7895,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:44"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:44"
     },
     {
      "title": "Unnai Paarkka Pogirenaa",
@@ -7744,10 +7906,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "3:10"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:10"
     },
     {
      "title": "Premaithaan Polladhaa",
@@ -7755,10 +7917,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:57"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:57"
     },
     {
      "title": "Enadhu Uyir Urugum Nilai",
@@ -7767,10 +7929,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "4:08"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:08"
     },
     {
      "title": "Parandhu Sellum Paingkiiiye",
@@ -7778,10 +7940,10 @@
       "Ghantasala"
      ],
      "lyricists": [
-      "2:55"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:55"
     },
     {
      "title": "Veen Pazhi Thaane Prabho",
@@ -7789,10 +7951,10 @@
       "R. Balasaraswathi Devi"
      ],
      "lyricists": [
-      "2:16"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:16"
     },
     {
      "title": "Oru Ooril Oru Raajaa",
@@ -7800,10 +7962,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "2:14"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:14"
     },
     {
      "title": "Assaalaa Malekkum",
@@ -7811,10 +7973,10 @@
       "Kasturi Siva Rao"
      ],
      "lyricists": [
-      "2:47"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:47"
     },
     {
      "title": "Maghimaiyodu Sadhaa Ezhai",
@@ -7824,10 +7986,10 @@
       "Madhavapeddi Satyam"
      ],
      "lyricists": [
-      "4:30"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:30"
     },
     {
      "title": "Kuliridhe Suvai Madhu",
@@ -7836,10 +7998,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "2:43"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:43"
     },
     {
      "title": "Kannaadi Kanni Neeye",
@@ -7848,10 +8010,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "2:21"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:21"
     },
     {
      "title": "Nee Thaane Ennaasai",
@@ -7859,10 +8021,10 @@
       "Ghantasala"
      ],
      "lyricists": [
-      "2:56"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:56"
     },
     {
      "title": "Neevene Naa Chaduvu",
@@ -8048,10 +8210,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:07"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:07"
     },
     {
      "title": "Iga Vaazhvinil Kaadhal Mahaajothiye",
@@ -8060,10 +8222,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "3:08"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:08"
     },
     {
      "title": "Jothi Minnum",
@@ -8072,10 +8234,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:30"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:30"
     },
     {
      "title": "Vaaraayo Enai Marandhanaiyo",
@@ -8084,10 +8246,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:44"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:44"
     },
     {
      "title": "Unnai Paarkka Pogirenaa",
@@ -8095,10 +8257,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "3:10"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "3:10"
     },
     {
      "title": "Premaithaan Polladhaa",
@@ -8106,10 +8268,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "2:57"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:57"
     },
     {
      "title": "Enadhu Uyir Urugum Nilai",
@@ -8118,10 +8280,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "4:08"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:08"
     },
     {
      "title": "Parandhu Sellum Paingkiiiye",
@@ -8129,10 +8291,10 @@
       "Ghantasala"
      ],
      "lyricists": [
-      "2:55"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:55"
     },
     {
      "title": "Veen Pazhi Thaane Prabho",
@@ -8140,10 +8302,10 @@
       "R. Balasaraswathi Devi"
      ],
      "lyricists": [
-      "2:16"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:16"
     },
     {
      "title": "Oru Ooril Oru Raajaa",
@@ -8151,10 +8313,10 @@
       "P. Leela"
      ],
      "lyricists": [
-      "2:14"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:14"
     },
     {
      "title": "Assaalaa Malekkum",
@@ -8162,10 +8324,10 @@
       "Kasturi Siva Rao"
      ],
      "lyricists": [
-      "2:47"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:47"
     },
     {
      "title": "Maghimaiyodu Sadhaa Ezhai",
@@ -8175,10 +8337,10 @@
       "Madhavapeddi Satyam"
      ],
      "lyricists": [
-      "4:30"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "4:30"
     },
     {
      "title": "Kuliridhe Suvai Madhu",
@@ -8187,10 +8349,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "2:43"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:43"
     },
     {
      "title": "Kannaadi Kanni Neeye",
@@ -8199,10 +8361,10 @@
       "Jikki"
      ],
      "lyricists": [
-      "2:21"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:21"
     },
     {
      "title": "Nee Thaane Ennaasai",
@@ -8210,10 +8372,10 @@
       "Ghantasala"
      ],
      "lyricists": [
-      "2:56"
+      "S. D. Sundharam"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "2:56"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Laila_Majnu_(1949_film)",
@@ -8414,10 +8576,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "03:09"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:09"
     },
     {
      "title": "Malardhanil Oru Azhagu Mayil",
@@ -8426,10 +8588,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "02:57"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:57"
     },
     {
      "title": "Gaanalolan Madhanagopaalan",
@@ -8437,10 +8599,10 @@
       "M. L. Vasanthakumari"
      ],
      "lyricists": [
-      "02:34"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:34"
     },
     {
      "title": "Varuvaare Dear Varuvaare",
@@ -8448,10 +8610,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "02:48"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "02:48"
     },
     {
      "title": "Kindhan Saritthirame Kindal Allave Alla",
@@ -8459,10 +8621,10 @@
       "N. S. Krishnan"
      ],
      "lyricists": [
-      "15:09"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "15:09"
     },
     {
      "title": "Naan Vanangum Dheivam",
@@ -8470,10 +8632,10 @@
       "P. Bhanumathi"
      ],
      "lyricists": [
-      "03:01"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:01"
     },
     {
      "title": "Vignaanatha Valarkka Porendi",
@@ -8482,10 +8644,10 @@
       "T. A. Mathuram"
      ],
      "lyricists": [
-      "03:11"
+      "Udumalai Narayana Kavi"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "03:11"
     },
     {
      "title": "Ettu Ezhu Aaru",
