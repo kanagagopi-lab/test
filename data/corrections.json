@@ -29,6 +29,16 @@
      "A. R. Rahman"
     ]
    }
+  },
+  {
+   "film": "Boys",
+   "year": 2003,
+   "song": "Secret of Success",
+   "set": {
+    "musicDirectors": [
+     "A. R. Rahman"
+    ]
+   }
   }
  ]
 }
