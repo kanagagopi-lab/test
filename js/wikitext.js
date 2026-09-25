@@ -206,8 +206,12 @@ export function parseSongTables(text) {
       if (lines.every((l) => l.startsWith('!')) && !cols) {
         const names = lines.flatMap((l) => tableCells(l, '!!')).map((c) => clean(c).toLowerCase());
         const find = (re) => names.findIndex((n) => re.test(n));
+        const numbering = /^(no\.?|#|s\.? ?no\.?|sl\.? ?no\.?|track( no\.?| number| #)?|number)$/;
+        const pick = (re) => names.findIndex((n) => re.test(n) && !numbering.test(n));
+        let title = pick(/song|title/);
+        if (title === -1) title = pick(/track/);
         cols = {
-          title: find(/song|title|track/),
+          title,
           singers: find(/sing|artist|vocal/),
           lyricists: find(/lyric|writ/),
           musicDirectors: find(/music|compos/),

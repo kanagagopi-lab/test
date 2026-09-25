@@ -123,3 +123,16 @@ test('credit notes, role labels, feat. and table attributes are cleaned from nam
   assert.deepEqual(toList('[Mangalampalli Balamurali Krishna]'), ['Mangalampalli Balamurali Krishna']);
   assert.equal(clean('Mandhiram Aavadhu Neeru<!--மந்திர மாவது'), 'Mandhiram Aavadhu Neeru');
 });
+
+test('a numbered "Track" column is not mistaken for the song title', () => {
+  const text = `{{Infobox film|name=Winner}}
+== Soundtrack ==
+{| class="wikitable"
+! Track !! Song !! Singers !! Lyricist
+|-
+| 1 || Engirundhai || [[Karthik (singer)|Karthik]] || [[Pa. Vijay]]
+|}`;
+  const p = parsePage('Winner', text);
+  assert.equal(p.songs[0].title, 'Engirundhai');
+  assert.deepEqual(p.songs[0].singers, ['Karthik']);
+});
