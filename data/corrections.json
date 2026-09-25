@@ -39,6 +39,16 @@
      "A. R. Rahman"
     ]
    }
+  },
+  {
+   "film": "Boys",
+   "year": 2003,
+   "song": "Maro Maro (Break The Rules)",
+   "set": {
+    "musicDirectors": [
+     "A. R. Rahman"
+    ]
+   }
   }
  ]
 }
