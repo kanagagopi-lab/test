@@ -1,0 +1,48 @@
+# Publishes the app to GitHub Pages. One-time setup: repository Settings → Pages →
+# Build and deployment → Source: "GitHub Actions".
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [claude/tamil-song-identifier-jjz07d, main]
+  # Commits made by the dataset workflow don't trigger `push`, so redeploy after it too.
+  workflow_run:
+    workflows: [Build song dataset]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # After the dataset workflow, deploy the branch it committed to (latest data).
+          ref: ${{ github.event.workflow_run.head_branch || github.ref }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm test
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp -r index.html css js data _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

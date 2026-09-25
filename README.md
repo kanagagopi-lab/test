@@ -75,7 +75,9 @@ npm start            # python3 -m http.server 8000 → http://localhost:8000
 npm test             # node --test (parser, search and importer tests)
 ```
 
-It can be hosted as-is on GitHub Pages or any other static host.
+### Publishing on GitHub Pages
+
+`.github/workflows/pages.yml` runs the tests and publishes the site on every push, and again after each dataset build. It needs a one-time setting: **Settings → Pages → Build and deployment → Source: GitHub Actions**. The site is then live at `https://<owner>.github.io/<repo>/`. Any other static host works too; just upload `index.html`, `css/`, `js/` and `data/`.
 
 ## Layout
 
