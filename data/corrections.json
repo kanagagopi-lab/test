@@ -19,6 +19,16 @@
      "A. R. Rahman"
     ]
    }
+  },
+  {
+   "film": "Boys",
+   "year": 2003,
+   "song": "Boom Boom",
+   "set": {
+    "musicDirectors": [
+     "A. R. Rahman"
+    ]
+   }
   }
  ]
 }
