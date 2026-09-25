@@ -81,3 +81,22 @@ test('canonicalize unifies spellings of one person but keeps different people ap
   assert.deepEqual(out[4].singers, ['A. Hariharan']);
   assert.deepEqual(out[5].singers, ['K. Hariharan']);
 });
+
+test('an actor name means that person; Vijay and C. Joseph Vijay are one actor', async () => {
+  const { canonicalize } = await import('../js/search.js');
+  const film = (name, actors) => ({ film: name, year: 2000, actors, songs: [{ title: `${name} song`, singers: [] }] });
+  const list = dedupe(canonicalize(flattenFilms([
+    film('Ghilli', ['Vijay', 'Trisha']),
+    film('Jana Nayagan', ['C. Joseph Vijay', 'Pooja Hegde']),
+    film('96', ['Vijay Sethupathi']),
+    film('Ramanaa', ['Vijayakanth']),
+  ])));
+  const idx2 = index(list);
+  const films = (q) => search(idx2, q).map((s) => s.film).sort();
+  assert.deepEqual(list.find((s) => s.film === 'Jana Nayagan').actors, ['Vijay', 'Pooja Hegde']);
+  assert.deepEqual(films({ actors: 'Vijay' }), ['Ghilli', 'Jana Nayagan']);
+  assert.deepEqual(films({ actors: 'C. Joseph Vijay' }), ['Ghilli', 'Jana Nayagan']);
+  assert.deepEqual(films({ actors: 'thalapathy' }), ['Ghilli', 'Jana Nayagan']);
+  assert.deepEqual(films({ actors: 'vija' }), ['96', 'Ghilli', 'Jana Nayagan', 'Ramanaa']);
+  assert.deepEqual(films({ actors: 'sethupathi' }), ['96']);
+});

@@ -67,6 +67,10 @@ export const ALIASES = {
   kamal: 'Kamal Haasan',
   ulaganayagan: 'Kamal Haasan',
   thalapathy: 'Vijay',
+  thalapathyvijay: 'Vijay',
+  ilayathalapathy: 'Vijay',
+  josephvijay: 'Vijay',
+  cjosephvijay: 'Vijay',
   thala: 'Ajith Kumar',
   janaki: 'S. Janaki',
   chithra: 'K. S. Chithra',
@@ -76,6 +80,13 @@ export const ALIASES = {
   str: 'Silambarasan',
   simbu: 'Silambarasan',
 };
+
+// Different names for one person, per field. The first name is the one shown. Kept to
+// fields where the short name is unambiguous: "Vijay" as an actor or singer is actor
+// Vijay, but a director credited "Vijay" may be A. L. Vijay.
+export const SAME_PERSON = [
+  { fields: ['actors', 'singers'], names: ['Vijay', 'C. Joseph Vijay', 'Joseph Vijay', 'Thalapathy Vijay', 'Ilayathalapathy Vijay'] },
+];
 
 export function expandAlias(term) {
   const key = basic(term).replace(/[^a-z]/g, '');

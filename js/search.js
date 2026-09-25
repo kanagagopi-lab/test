@@ -1,4 +1,4 @@
-import { fold, words, expandAlias } from './normalize.js';
+import { fold, words, expandAlias, SAME_PERSON } from './normalize.js';
 import { JUNK_NAME } from './wikitext.js';
 
 // Searchable categories. `key` is the song field; each field holds an array of strings
@@ -56,7 +56,28 @@ function nameKey(v) {
   return m ? `${m[1].replace(/[^A-Za-z]/g, '').toLowerCase()}|${fold(m[2])}` : `|${fold(v)}`;
 }
 
-export function canonicalize(songs) {
+// Replace listed alternative names (SAME_PERSON) with the person's main name.
+function applySamePerson(songs) {
+  const maps = {};
+  for (const { fields, names } of SAME_PERSON) {
+    for (const k of fields) {
+      maps[k] ??= new Map();
+      for (const n of names) maps[k].set(nameKey(n), names[0]);
+    }
+  }
+  return songs.map((s) => {
+    let out = s;
+    for (const [k, m] of Object.entries(maps)) {
+      if (!s[k]?.some((v) => m.has(nameKey(v)))) continue;
+      if (out === s) out = { ...s };
+      out[k] = [...new Set(s[k].map((v) => m.get(nameKey(v)) ?? v))];
+    }
+    return out;
+  });
+}
+
+export function canonicalize(input) {
+  const songs = applySamePerson(input);
   const counts = new Map(); // key → Map(spelling → n)
   for (const s of songs) {
     for (const k of PEOPLE) {
@@ -140,7 +161,7 @@ export function dedupe(songs) {
 
 // Precompute folded keys once per song so filtering stays fast on large libraries.
 export function index(songs) {
-  return songs.map((s) => {
+  const indexed = songs.map((s) => {
     const keys = {};
     for (const k of LIST_KEYS) {
       const vals = k === 'title' || k === 'film' ? [s[k]] : s[k];
@@ -149,13 +170,22 @@ export function index(songs) {
     keys.all = Object.values(keys).flat();
     return { song: s, keys };
   });
+  // Every full name per people field: a search term that is exactly someone's name
+  // means that person ("Vijay" is not "Vijay Sethupathi" or "Vijayakanth").
+  indexed.exact = {};
+  for (const k of PEOPLE) {
+    indexed.exact[k] = new Set();
+    for (const { keys } of indexed) for (const v of keys[k]) indexed.exact[k].add(v.whole);
+  }
+  return indexed;
 }
 
 // A single term matches a value when the whole folded term is a substring of the value,
 // or every word of the term starts some word of the value ("rah" → "A. R. Rahman").
-function termMatches(term, values) {
+function termMatches(term, values, exactNames) {
   const whole = fold(term);
   if (!whole) return true;
+  if (exactNames?.has(whole)) return values.some((v) => v.whole === whole);
   const qWords = words(term);
   return values.some(
     (v) => v.whole.includes(whole) || qWords.every((q) => v.words.some((w) => w.startsWith(q))),
@@ -186,7 +216,7 @@ export function search(indexed, query) {
       if (song.year != null && (song.year < from || song.year > to)) return false;
       if (song.year == null && (query.yearFrom || query.yearTo)) return false;
       for (const [k, terms] of active) {
-        if (!terms.every((t) => termMatches(t, keys[k]))) return false;
+        if (!terms.every((t) => termMatches(t, keys[k], indexed.exact?.[k]))) return false;
       }
       return anyTerms.every((t) => termMatches(t, keys.all));
     })
