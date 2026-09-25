@@ -2,7 +2,10 @@
 // film records ({ film, year, directors, actors, musicDirectors, songs, wiki, source }).
 // Works in the browser (CORS via origin=*) and in Node 18+ (pass a User-Agent header).
 
-import { parsePage, baseTitle, filmLinksFromList, yearListTitles } from './wikitext.js';
+import { parsePage as parseWikitext, baseTitle, filmLinksFromList, yearListTitles, LINK_MARK, personName } from './wikitext.js';
+
+// Keep credit link targets so they can be resolved through redirects below.
+const parsePage = (title, text) => parseWikitext(title, text, { rawLinks: true });
 
 export const API = 'https://en.wikipedia.org/w/api.php';
 export const DEFAULT_CATEGORY = 'Category:Tamil film soundtracks';
@@ -95,6 +98,43 @@ export function createClient({ fetchImpl = globalThis.fetch, headers = {}, api =
     return out;
   }
 
+  // Final article title for each title, following normalisation and redirects
+  // ("Vijay (actor)" and "C. Joseph Vijay" end up at the same article).
+  async function resolveTitles(titles) {
+    const out = new Map();
+    const list = [...new Set(titles)];
+    for (let i = 0; i < list.length; i += 50) {
+      const batch = list.slice(i, i + 50);
+      const data = await call({ action: 'query', redirects: '1', titles: batch.join('|') });
+      const alias = new Map();
+      for (const r of [...(data.query?.normalized ?? []), ...(data.query?.redirects ?? [])]) alias.set(r.from, r.to);
+      for (const t of batch) {
+        let r = t;
+        for (let n = 0; alias.has(r) && n < 5; n++) r = alias.get(r);
+        out.set(t, r);
+      }
+    }
+    return out;
+  }
+
+  // Replace link markers in credits with the resolved article's name.
+  async function finalizeNames(films) {
+    const PEOPLE = ['directors', 'actors', 'musicDirectors', 'lyricists', 'singers'];
+    const targets = new Set();
+    const each = (fn) => {
+      for (const f of films) {
+        for (const k of PEOPLE) if (f[k]) f[k] = fn(f[k]);
+        for (const s of f.songs) for (const k of PEOPLE) if (s[k]) s[k] = fn(s[k]);
+      }
+    };
+    each((list) => { list.forEach((v) => v.startsWith(LINK_MARK) && targets.add(v.slice(1))); return list; });
+    let resolved = new Map();
+    try {
+      resolved = await resolveTitles([...targets]);
+    } catch { /* fall back to the link targets as written */ }
+    each((list) => [...new Set(list.map((v) => (v.startsWith(LINK_MARK) ? personName(resolved.get(v.slice(1)) ?? v.slice(1)) : v)))]);
+  }
+
   // Film article titles listed on "List of Tamil films of <year>" pages.
   async function yearListFilms(from, to, onProgress = () => {}) {
     const lists = await pages(yearListTitles(from, to));
@@ -168,6 +208,7 @@ export function createClient({ fetchImpl = globalThis.fetch, headers = {}, api =
       });
     }
     const list = [...films.values()];
+    await finalizeNames(list);
     onProgress({
       done: total, total,
       message: `Imported ${list.length} film(s), ${list.reduce((n, f) => n + f.songs.length, 0)} song(s) from ${fetched.size} article(s)`,
@@ -175,5 +216,5 @@ export function createClient({ fetchImpl = globalThis.fetch, headers = {}, api =
     return list;
   }
 
-  return { call, categoryMembers, pages, yearListFilms, importTitles };
+  return { call, categoryMembers, pages, resolveTitles, yearListFilms, importTitles };
 }

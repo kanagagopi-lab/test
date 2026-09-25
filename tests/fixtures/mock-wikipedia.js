@@ -2,6 +2,12 @@
 // redirects, `continue` splitting and categories. Used by the tests.
 
 export const PAGES = {
+  'Jana Nayagan': `{{Infobox film|name=Jana Nayagan|starring={{ubl|[[C. Joseph Vijay]]|[[Pooja Hegde]]}}|music=[[Anirudh Ravichander]]|released=2026}}
+== Soundtrack ==
+{{Track listing|extra_column=Singer(s)|title1=Thalapathy Kacheri|extra1=[[Anirudh Ravichander|Anirudh]], [[C. Joseph Vijay|Vijay]]}}`,
+  Ghilli: `{{Infobox film|name=Ghilli|starring={{ubl|[[Vijay (actor)|Vijay]]|[[Trisha Krishnan|Trisha]]}}|music=[[Vidyasagar (composer)|Vidyasagar]]|released=2004}}
+== Soundtrack ==
+{{Track listing|extra_column=Singer(s)|title1=Appadi Podu|extra1=[[KK (singer)|KK]], [[Anuradha Sriram]]}}`,
   'List of Tamil films of 1987': `== Films ==
 {| class="wikitable"
 ! Title !! Director !! Cast
@@ -31,7 +37,7 @@ Soundtrack of ''[[Nayakan]]''.
 |}`,
 };
 
-const REDIRECTS = { 'Nayagan': 'Nayakan' };
+const REDIRECTS = { 'Nayagan': 'Nayakan', 'C. Joseph Vijay': 'Vijay (actor)', 'Thalapathy Vijay': 'Vijay (actor)' };
 
 export function mockFetch(url) {
   const p = new URL(url).searchParams;

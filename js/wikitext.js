@@ -106,15 +106,45 @@ export function clean(value) {
   return t.replace(/[ \t]+/g, ' ').replace(/ *\n */g, '\n').trim();
 }
 
-// Split a cleaned credit field into individual names.
+// People are identified by the article a credit links to, not the text shown: a
+// film may credit "C. Joseph Vijay" and another "Vijay", but both link to the same
+// article. Link targets (redirects resolved by the importer) become the name, minus any
+// disambiguation: [[Vijay (actor)|C. Joseph Vijay]] → "Vijay",
+// [[Sujatha Mohan|Sujatha]] → "Sujatha Mohan".
+export const LINK_MARK = '\u0001';
+let keepLinkMarks = false; // parsePage(…, { rawLinks: true }) sets this while it runs
+
+export function personName(target) {
+  const t = String(target).replace(/_/g, ' ').replace(/#.*$/, '').replace(/\s*\([^)]*\)\s*$/, '').trim();
+  return t ? t[0].toUpperCase() + t.slice(1) : t;
+}
+
+// Split a credit field into individual names.
 export function toList(value) {
-  return clean(value)
+  // Swap each wikilink for a placeholder so its target survives cleaning and splitting.
+  const links = [];
+  const marked = String(value ?? '').replace(/\[\[([^\]|]+)(?:\|([^\]]*))?\]\]/g, (m, target, text) => {
+    if (/^\s*(file|image|category):/i.test(target)) return m;
+    links.push({ target: target.trim(), text: (text ?? target).trim() });
+    return `\u0002${links.length - 1}\u0003`;
+  });
+  return clean(marked)
     // Credit notes: 'Vaali except "X" was written by Y', 'all songs except where noted'.
     .replace(/(^|\s)(except|unless otherwise)\b[^\n]*/gi, '$1')
     // Role labels become separators: "A Backing vocal: B", "Background score: C".
     .replace(/\b(?:backing|additional|background|backup)\s+(?:vocals?|score|music)\s*:/gi, '\n')
     .split(/\n|\*|,|;|\s+and\s+|\s+&\s+|\s\/\s|\s+(?:feat\.?|ft\.|featuring)\s+/i)
     .map((s) => s.replace(/\([^)]*\)/g, '').replace(/[[\]{}]/g, '').replace(/^[\s:•·-]+|[\s:•·-]+$/g, '').trim())
+    .map((s) => {
+      const only = s.match(/^\u0002(\d+)\u0003$/);
+      if (only) {
+        const { target, text } = links[Number(only[1])];
+        if (JUNK_NAME.test(text)) return '';
+        return keepLinkMarks ? LINK_MARK + target : personName(target);
+      }
+      // A link mixed with other text: keep the text as shown.
+      return s.replace(/\u0002(\d+)\u0003/g, (_, i) => links[Number(i)].text).trim();
+    })
     .filter((s) => s && s.length < 60 && !JUNK_NAME.test(s));
 }
 
@@ -287,7 +317,16 @@ export function baseTitle(title) {
  * filmLink: for a soundtrack article, the film it belongs to.
  * soundtrackLink: for a film article without a song list, its separate soundtrack article.
  */
-export function parsePage(title, text) {
+export function parsePage(title, text, { rawLinks = false } = {}) {
+  keepLinkMarks = rawLinks;
+  try {
+    return parsePageInner(title, text);
+  } finally {
+    keepLinkMarks = false;
+  }
+}
+
+function parsePageInner(title, text) {
   const filmBox = findTemplates(text, /^infobox (tamil )?film$/i)[0]?.params;
   const albumBox = findTemplates(text, /^infobox album$/i)[0]?.params;
   const heads = headings(text);

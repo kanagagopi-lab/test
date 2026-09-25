@@ -40,7 +40,7 @@ test('year import finds films and their songs, including separate soundtrack art
   const nayakan = films.find((f) => f.film === 'Nayakan');
   assert.equal(nayakan.year, 1987);
   assert.deepEqual(nayakan.directors, ['Mani Ratnam']);
-  assert.deepEqual(nayakan.actors, ['Kamal Haasan', 'Saranya']);
+  assert.deepEqual(nayakan.actors, ['Kamal Haasan', 'Saranya Ponvannan']);
   assert.deepEqual(nayakan.songs.map((s) => s.title), ['Thenpandi Seemayile', 'Nee Oru Kadhal Sangeetham']);
   assert.deepEqual(nayakan.songs[1].singers, ['Mano', 'K. S. Chithra']);
   assert.equal(nayakan.wiki, 'https://en.wikipedia.org/wiki/Nayakan');
@@ -69,4 +69,15 @@ test('build script writes decade files and the manifest', () => {
   // Second run resumes: the existing decade is skipped.
   run();
   assert.ok(existsSync(join(dir, 'wikipedia', '1980s.json')));
+});
+
+test('people are named by the article their credit links to, following redirects', async () => {
+  const films = await wiki.importTitles(['Jana Nayagan', 'Ghilli']);
+  const jn = films.find((f) => f.film === 'Jana Nayagan');
+  const gh = films.find((f) => f.film === 'Ghilli');
+  assert.deepEqual(jn.actors, ['Vijay', 'Pooja Hegde']); // [[C. Joseph Vijay]] redirects to Vijay (actor)
+  assert.deepEqual(gh.actors, ['Vijay', 'Trisha Krishnan']);
+  assert.deepEqual(jn.songs[0].singers, ['Anirudh Ravichander', 'Vijay']);
+  assert.deepEqual(gh.musicDirectors, ['Vidyasagar']);
+  assert.deepEqual(gh.songs[0].singers, ['KK', 'Anuradha Sriram']);
 });

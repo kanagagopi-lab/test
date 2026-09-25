@@ -61,7 +61,7 @@ test('parses a soundtrack article, skipping other-language track lists', () => {
   assert.equal(p.songs.length, 2);
   assert.deepEqual(p.songs[1], {
     title: 'Kadhal Rojave',
-    singers: ['S. P. Balasubrahmanyam', 'Sujatha'],
+    singers: ['S. P. Balasubrahmanyam', 'Sujatha Mohan'], // named by the linked article
     lyricists: ['Vairamuthu'],
     musicDirectors: [],
     length: '5:03',
