@@ -100,3 +100,18 @@ test('an actor name means that person; Vijay and C. Joseph Vijay are one actor',
   assert.deepEqual(films({ actors: 'vija' }), ['96', 'Ghilli', 'Jana Nayagan', 'Ramanaa']);
   assert.deepEqual(films({ actors: 'sethupathi' }), ['96']);
 });
+
+test("a lyricist's credits don't rename an actor with the same short name", async () => {
+  const { canonicalize } = await import('../js/search.js');
+  const films = [
+    { film: 'Ghilli', year: 2004, actors: ['Vijay'], songs: [{ title: 'a', singers: [], lyricists: ['Pa. Vijay'] }] },
+    { film: 'Villu', year: 2009, actors: ['Vijay'], songs: [{ title: 'b', singers: [], lyricists: ['Pa. Vijay'] }, { title: 'c', singers: [], lyricists: ['Pa. Vijay'] }] },
+    { film: 'Strawberry', year: 2015, actors: ['Pa. Vijay'], songs: [{ title: 'd', singers: [] }] },
+    { film: 'Other', year: 2016, actors: ['Pa. Vijay'], songs: [{ title: 'e', singers: [] }] },
+    { film: 'Janaki film', year: 1990, actors: [], songs: [{ title: 'f', singers: ['Janaki'] }, { title: 'g', singers: ['S. Janaki'] }, { title: 'h', singers: ['S. Janaki'] }] },
+  ];
+  const out = canonicalize(flattenFilms(films));
+  assert.deepEqual(out.filter((s) => s.film === 'Villu').map((s) => s.actors), [['Vijay'], ['Vijay']]);
+  assert.deepEqual(out.find((s) => s.film === 'Strawberry').actors, ['Pa. Vijay']);
+  assert.deepEqual(out.find((s) => s.title === 'f').singers, ['S. Janaki']); // bare → initialed still works
+});

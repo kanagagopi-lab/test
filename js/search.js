@@ -103,12 +103,18 @@ export function canonicalize(input) {
     total.set(key, n);
   }
 
+  // Names listed in SAME_PERSON are already settled; never fold them into another name.
+  const settled = new Set(SAME_PERSON.flatMap(({ names }) => names.map(nameKey)));
   const bareTo = {};
   for (const k of PEOPLE) {
+    // Counted within this field only: Pa. Vijay's lyricist credits say nothing about
+    // who an actor credited "Vijay" is.
+    const inField = new Map();
     const byBare = new Map(); // bare key → Set(full keys)
     for (const s of songs) {
       for (const v of s[k]) {
         const key = nameKey(v);
+        inField.set(key, (inField.get(key) ?? 0) + 1);
         if (key.startsWith('|')) continue;
         const bare = `|${key.split('|')[1]}`;
         if (!byBare.has(bare)) byBare.set(bare, new Set());
@@ -117,9 +123,9 @@ export function canonicalize(input) {
     }
     bareTo[k] = new Map();
     for (const [bare, fulls] of byBare) {
-      if (fulls.size !== 1 || !total.has(bare)) continue;
+      if (fulls.size !== 1 || !inField.has(bare) || settled.has(bare)) continue;
       const [full] = fulls;
-      if (total.get(full) >= total.get(bare)) bareTo[k].set(bare, full);
+      if (inField.get(full) >= inField.get(bare)) bareTo[k].set(bare, full);
     }
   }
 
