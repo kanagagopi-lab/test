@@ -66,6 +66,32 @@ Open **Library** at the bottom of the app, then use **Import films by year**, **
 
 Wikipedia text is licensed under CC BY-SA 4.0.
 
+## Correcting mistakes
+
+Wikipedia and the importer are both imperfect, so every song has a **Correct this** link. It opens a form with the song's details (title, singers, lyricists, music director) and the movie's (name, year, director, actors, and a music director for every song). There's also an option to remove a song that doesn't belong to the movie.
+
+- **Save on this device.** The fix applies immediately in your browser and is re-applied on every visit.
+- **Save & submit to GitHub.** This also opens a pre-filled GitHub issue containing the correction as JSON. The **Apply corrections** workflow (`.github/workflows/corrections.yml`) validates it, adds it to `data/corrections.json`, commits, closes the issue, and the site redeploys. Issues from the repository owner or collaborators are applied at once; anyone else's wait until a maintainer adds the `approved` label.
+
+Corrections are layered on top of the Wikipedia data every time the app loads, so they survive the monthly dataset rebuilds. You can also edit `data/corrections.json` by hand:
+
+```json
+{ "corrections": [
+  { "film": "Naalu Veli Nilam", "year": 1959,
+    "set": { "musicDirectors": ["K. V. Mahadevan", "M. K. Athmanathan"] } },
+  { "film": "Naalu Veli Nilam", "year": 1959, "song": "Kaani Nilam Vendum",
+    "set": { "musicDirectors": ["M. K. Athmanathan"] } },
+  { "film": "Some Film", "song": "Wrong Song", "delete": true }
+] }
+```
+
+- **Film-level entries** (no `"song"`) can set `film`, `year`, `directors`, `actors`, `musicDirectors` and `lyricists`. Setting `musicDirectors` or `lyricists` on a film also replaces the per-song values, except for songs that have their own correction.
+- **Song-level entries** can set `title`, `singers`, `lyricists`, `musicDirectors` and `length`.
+- **Missing entries are added.** A song or film that doesn't exist yet is created.
+- **`"delete": true`** removes a song, or a whole film if there's no `"song"`.
+
+If Wikipedia itself is wrong, please fix it there too; the next rebuild picks the fix up for everyone.
+
 ## Running
 
 The app is static HTML, CSS and JavaScript (ES modules) with no build step and no dependencies. It must be served over HTTP; opening `index.html` directly from disk won't work.
@@ -89,10 +115,13 @@ js/search.js             flattening, de-duplication, indexing, multi-field searc
 js/normalize.js          phonetic folding of romanised Tamil, nickname aliases
 js/wikitext.js           parser for Infobox film/album, Track listing and soundtrack tables
 js/wikipedia.js          Wikipedia API client and importer (browser and Node)
-js/store.js              IndexedDB persistence for imported films (localStorage fallback)
+js/store.js              IndexedDB persistence for imported films and local corrections
+js/corrections.js        validating and applying manual corrections
 scripts/build-dataset.mjs  Node CLI that builds data/wikipedia/*.json + data/datasets.json
 .github/workflows/       GitHub Action that runs the builder and commits the data
 data/seed.json           curated starter set
 data/datasets.json       list of dataset files the app loads
+data/corrections.json    manual corrections applied on top of the data
+scripts/apply-correction.mjs  turns a correction issue into a data/corrections.json entry
 tests/                   node:test suites
 ```

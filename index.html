@@ -114,9 +114,44 @@
         <label class="button secondary">Load JSON file<input id="import-file" type="file" accept="application/json,.json" hidden></label>
         <button id="clear" type="button" class="danger">Remove imported songs</button>
       </div>
+      <div class="import corrections-row">
+        <p class="small grow-full" id="corr-stats"></p>
+        <button id="corr-submit" type="button" class="secondary" hidden>Submit my corrections to GitHub</button>
+        <button id="corr-clear" type="button" class="danger" hidden>Discard my corrections</button>
+      </div>
       <p class="small">Sources: <a href="https://en.wikipedia.org/wiki/Category:Tamil_film_soundtracks" target="_blank" rel="noopener">Wikipedia: Tamil film soundtracks</a>. Gaana has no public API, so each song links to a Gaana search to play it.</p>
     </details>
   </main>
+
+  <dialog id="edit" aria-labelledby="edit-title">
+    <form method="dialog" id="edit-form">
+      <h2 id="edit-title">Correct this song</h2>
+      <p class="small">Separate several names with commas. Your change applies on this device right away. Submit it to share it with everyone.</p>
+      <fieldset>
+        <legend>This song</legend>
+        <label class="field"><span>Song title</span><input name="title" required></label>
+        <label class="field"><span>Singers</span><input name="singers"></label>
+        <label class="field"><span>Lyricists</span><input name="lyricists"></label>
+        <label class="field"><span>Music director(s) of this song</span><input name="musicDirectors"></label>
+        <label class="field narrow"><span>Length</span><input name="duration" placeholder="3:21"></label>
+      </fieldset>
+      <fieldset>
+        <legend>The whole movie</legend>
+        <label class="field"><span>Movie</span><input name="f_film" required></label>
+        <label class="field narrow"><span>Year</span><input name="f_year" type="number" min="1900" max="2100"></label>
+        <label class="field"><span>Movie director(s)</span><input name="f_directors"></label>
+        <label class="field"><span>Actors</span><input name="f_actors"></label>
+        <label class="field"><span>Music director(s) for every song</span><input name="f_musicDirectors" placeholder="leave empty to keep per-song values"></label>
+      </fieldset>
+      <label class="check"><input type="checkbox" name="delete"> This song doesn't belong to this movie: remove it</label>
+      <p class="error" id="edit-error" hidden></p>
+      <div class="actions">
+        <button value="cancel" type="button" class="secondary" id="edit-cancel">Cancel</button>
+        <button value="save" type="submit" class="secondary">Save on this device</button>
+        <button value="submit" type="submit">Save &amp; submit to GitHub</button>
+      </div>
+    </form>
+  </dialog>
 
   <template id="song-tpl">
     <li class="song">

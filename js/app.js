@@ -1,5 +1,6 @@
 import { FIELDS, flattenFilms, dedupe, canonicalize, index, search, isEmptyQuery, facet, distinct } from './search.js';
-import { loadLibrary, saveLibrary, mergeFilms, clearLibrary, filmKey } from './store.js';
+import { loadLibrary, saveLibrary, mergeFilms, clearLibrary, filmKey, loadLocalCorrections, saveLocalCorrections } from './store.js';
+import { applyCorrections, validateCorrection } from './corrections.js';
 import { createClient, DEFAULT_CATEGORY, FIRST_YEAR, wikiUrl } from './wikipedia.js';
 
 const PAGE = 50;
@@ -11,6 +12,8 @@ const form = $('#search');
 const wiki = createClient();
 
 let seedFilms = [];
+let sharedCorrections = [];
+let localCorrections = [];
 let libraryFilms = [];
 let stopRequested = false;
 let songs = [];
@@ -29,13 +32,14 @@ async function loadJson(url) {
 }
 
 function rebuild() {
-  songs = dedupe(canonicalize([
-    ...flattenFilms(libraryFilms, 'Wikipedia'),
-    ...flattenFilms(seedFilms, 'Starter set'),
-  ]));
+  const films = applyCorrections(
+    [...libraryFilms.map((f) => ({ ...f, source: f.source ?? 'Wikipedia' })), ...seedFilms],
+    [...sharedCorrections, ...localCorrections],
+  );
+  songs = dedupe(canonicalize(flattenFilms(films, 'Starter set')));
   indexed = index(songs);
-  const films = new Set(songs.map((s) => `${s.film}|${s.year}`)).size;
-  $('#lib-stats').textContent = `${songs.length.toLocaleString()} songs from ${films.toLocaleString()} films` +
+  const filmCount = new Set(songs.map((s) => `${s.film}|${s.year}`)).size;
+  $('#lib-stats').textContent = `${songs.length.toLocaleString()} songs from ${filmCount.toLocaleString()} films` +
     (libraryFilms.length ? ` (${libraryFilms.length.toLocaleString()} films imported)` : '');
   for (const f of FIELDS) {
     const dl = document.getElementById(`dl-${f.key}`);
@@ -145,6 +149,12 @@ function songItem(s) {
     link(`https://gaana.com/search/${encodeURIComponent(q)}`, 'Gaana'),
   );
   if (s.wiki) links.append(link(s.wiki, 'Wikipedia'));
+  const edit = document.createElement('button');
+  edit.type = 'button';
+  edit.className = 'edit';
+  edit.textContent = 'Correct this';
+  edit.addEventListener('click', () => openEditor(s));
+  links.append(edit);
   return li;
 }
 
@@ -193,6 +203,135 @@ function render() {
   }
   $('#more').hidden = results.length <= shown;
   renderFacets(results);
+}
+
+// ---------- corrections ----------
+
+// Where "Submit" opens a GitHub issue: the repo this page is served from on GitHub Pages
+// (https://<owner>.github.io/<repo>/), or the project's own repository elsewhere.
+const REPO = (() => {
+  const m = location.hostname.match(/^([\w-]+)\.github\.io$/);
+  const repo = location.pathname.split('/').filter(Boolean)[0];
+  return m && repo ? `${m[1]}/${repo}` : 'kanagagopi-lab/test';
+})();
+const MARKER = '<!-- tamil-song-finder-correction -->';
+
+let editing = null;
+const listText = (a) => (a ?? []).join(', ');
+const parseList = (v) => v.split(',').map((x) => x.trim()).filter(Boolean);
+
+function openEditor(song) {
+  editing = song;
+  const f = $('#edit-form');
+  f.elements.title.value = song.title;
+  f.elements.singers.value = listText(song.singers);
+  f.elements.lyricists.value = listText(song.lyricists);
+  f.elements.musicDirectors.value = listText(song.musicDirectors);
+  f.elements.duration.value = song.length ?? '';
+  f.elements.f_film.value = song.film;
+  f.elements.f_year.value = song.year ?? '';
+  f.elements.f_directors.value = listText(song.directors);
+  f.elements.f_actors.value = listText(song.actors);
+  f.elements.f_musicDirectors.value = '';
+  f.elements.delete.checked = false;
+  $('#edit-error').hidden = true;
+  $('#edit').showModal();
+}
+
+// Turn the edited form into correction entries (only the fields that changed).
+function correctionsFromForm(f, song) {
+  const target = { film: song.film, ...(song.year ? { year: song.year } : {}) };
+  const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+  const out = [];
+  if (f.elements.delete.checked) return [{ ...target, song: song.title, delete: true }];
+
+  const songSet = {};
+  const title = f.elements.title.value.trim();
+  if (title && title !== song.title) songSet.title = title;
+  for (const k of ['singers', 'lyricists', 'musicDirectors']) {
+    const v = parseList(f.elements[k].value);
+    if (!same(v, song[k] ?? [])) songSet[k] = v;
+  }
+  const len = f.elements.duration.value.trim();
+  if (len !== (song.length ?? '')) songSet.length = len;
+  // Empty lists mean "remove"; the validator requires names, so drop those fields instead.
+  for (const k of Object.keys(songSet)) if (Array.isArray(songSet[k]) && !songSet[k].length) delete songSet[k];
+  if (Object.keys(songSet).length) out.push({ ...target, song: song.title, set: songSet });
+
+  const filmSet = {};
+  const film = f.elements.f_film.value.trim();
+  if (film && film !== song.film) filmSet.film = film;
+  const year = Number(f.elements.f_year.value) || null;
+  if (year && year !== song.year) filmSet.year = year;
+  for (const [field, k] of [['f_directors', 'directors'], ['f_actors', 'actors']]) {
+    const v = parseList(f.elements[field].value);
+    if (v.length && !same(v, song[k] ?? [])) filmSet[k] = v;
+  }
+  const md = parseList(f.elements.f_musicDirectors.value);
+  if (md.length) filmSet.musicDirectors = md;
+  // Film changes go last: the song correction above still refers to the old film name.
+  if (Object.keys(filmSet).length) out.push({ ...target, set: filmSet });
+  return out.map(validateCorrection);
+}
+
+function issueUrl(list) {
+  const first = list[0];
+  const what = `${first.film}${first.year ? ` (${first.year})` : ''}${first.song ? ` – ${first.song}` : ''}`;
+  const title = list.length === 1 ? `Correction: ${what}` : `Corrections: ${list.length} changes (${what}, …)`;
+  const body = `${MARKER}
+Correction${list.length === 1 ? '' : 's'} submitted from Tamil Song Finder. The "Apply corrections" workflow adds ${list.length === 1 ? 'it' : 'them'} to \`data/corrections.json\` (automatically for the repository owner; otherwise after a maintainer adds the \`approved\` label).
+
+\`\`\`json
+${JSON.stringify(list, null, 2)}
+\`\`\`
+
+**Source / notes (optional):**
+`;
+  return `https://github.com/${REPO}/issues/new?${new URLSearchParams({ title, body })}`;
+}
+
+async function saveCorrections(list, submit) {
+  localCorrections = [...localCorrections, ...list];
+  await saveLocalCorrections(localCorrections);
+  rebuild();
+  updateCorrectionStats();
+  if (submit) window.open(issueUrl(list), '_blank', 'noopener');
+}
+
+function updateCorrectionStats() {
+  const n = localCorrections.length;
+  $('#corr-stats').textContent = n
+    ? `You have ${n} correction${n === 1 ? '' : 's'} saved on this device. They apply here right away; once submitted and accepted, they apply for everyone and you can discard your local copy.`
+    : 'Spotted a mistake? Use "Correct this" under any song.';
+  $('#corr-submit').hidden = !n;
+  $('#corr-clear').hidden = !n;
+}
+
+function wireEditing() {
+  const dlg = $('#edit');
+  const f = $('#edit-form');
+  $('#edit-cancel').addEventListener('click', () => dlg.close());
+  f.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    try {
+      const list = correctionsFromForm(f, editing);
+      if (!list.length) { dlg.close(); return; }
+      dlg.close();
+      await saveCorrections(list, e.submitter?.value === 'submit');
+    } catch (err) {
+      $('#edit-error').textContent = err.message;
+      $('#edit-error').hidden = false;
+    }
+  });
+  $('#corr-submit').addEventListener('click', () => window.open(issueUrl(localCorrections), '_blank', 'noopener'));
+  $('#corr-clear').addEventListener('click', async () => {
+    if (!confirm('Discard the corrections saved on this device? Ones already accepted on GitHub stay.')) return;
+    localCorrections = [];
+    await saveLocalCorrections([]);
+    rebuild();
+    updateCorrectionStats();
+  });
+  updateCorrectionStats();
 }
 
 // ---------- library / import ----------
@@ -327,6 +466,9 @@ async function main() {
   const [library, ...datasets] = await Promise.all([loadLibrary(), ...files.map((f) => loadJson(`data/${f}`))]);
   libraryFilms = library;
   seedFilms = datasets.flatMap((d) => d?.films ?? []);
+  sharedCorrections = (await loadJson('data/corrections.json'))?.corrections ?? [];
+  localCorrections = await loadLocalCorrections();
+  wireEditing();
   rebuild();
 }
 

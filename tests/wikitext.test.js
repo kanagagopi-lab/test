@@ -136,3 +136,26 @@ test('a numbered "Track" column is not mistaken for the song title', () => {
   assert.equal(p.songs[0].title, 'Engirundhai');
   assert.deepEqual(p.songs[0].singers, ['Karthik']);
 });
+
+test('merged (rowspan/colspan) cells fill every row they cover', () => {
+  // Shaped like Naalu Veli Nilam (1959): the composer cell spans several songs.
+  const text = `{{Infobox film|name=Naalu Veli Nilam}}
+== Soundtrack ==
+{| class="wikitable"
+! No. !! Song !! Singers !! Music !! Lyrics !! Length
+|-
+| 1 || Ooraar Urangaiyile || [[Thiruchi Loganathan]] & [[L. R. Eswari]] || rowspan="2" | [[K. V. Mahadevan]] || Folk Song || 03:21
+|-
+| 2 || Kulipen Panneerile || [[S. C. Krishnan]] & [[K. Jamuna Rani]] || [[A. Maruthakasi]] || 05:01
+|-
+| 3 || Kaani Nilam Vendum || [[Soolamangalam Rajalakshmi]] || [[M. K. Athmanathan]] || colspan="2" | 00:49
+|}`;
+  const [a, b, c] = parsePage('Naalu Veli Nilam', text).songs;
+  assert.deepEqual(a.musicDirectors, ['K. V. Mahadevan']);
+  assert.deepEqual(b.musicDirectors, ['K. V. Mahadevan']);
+  assert.deepEqual(b.lyricists, ['A. Maruthakasi']);
+  assert.equal(b.length, '05:01');
+  assert.deepEqual(c.musicDirectors, ['M. K. Athmanathan']);
+  assert.deepEqual(c.lyricists, []); // "00:49" is a duration, never a name
+  assert.equal(c.length, '00:49');
+});

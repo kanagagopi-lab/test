@@ -119,7 +119,7 @@ export function toList(value) {
 }
 
 // Placeholder entries that are not people.
-export const JUNK_NAME = /^(various( artists)?|n\/a|none|—|–|-|chorus|instrumental|unknown|tba|tbd|except where noted\.?)$/i;
+export const JUNK_NAME = /^(various( artists)?|n\/a|none|—|–|-|chorus|instrumental|unknown|tba|tbd|except where noted\.?|\d{1,2}[:.]\d{2}([:.]\d{2})?)$/i;
 
 export function yearOf(raw) {
   const m = String(raw ?? '').match(/\b(19[1-9]\d|20[0-4]\d)\b/);
@@ -186,25 +186,65 @@ export function parseTrackListings(text) {
   return songs;
 }
 
+// Cells of one table line: [{ text, rowspan, colspan }].
 function tableCells(line, sep) {
   return splitTopLevel(line.replace(/^[|!]/, ''), sep).map((cell) => {
-    // Strip a leading attribute block: `style="…" | content`.
+    // A leading attribute block: `rowspan="2" style="…" | content`.
     const parts = splitTopLevel(cell, '|');
-    return parts[parts.length - 1];
+    const attrs = parts.length > 1 ? parts.slice(0, -1).join('|') : '';
+    const span = (name) => {
+      const m = attrs.match(new RegExp(`${name}\\s*=\\s*"?(\\d+)`, 'i'));
+      return m ? Math.max(1, Math.min(50, Number(m[1]))) : 1;
+    };
+    return { text: parts[parts.length - 1], rowspan: span('rowspan'), colspan: span('colspan') };
   });
+}
+
+// Lay out a table's rows as a grid, copying merged (rowspan / colspan) cells into every
+// position they cover, so a music director spanning three songs isn't lost — and later
+// columns don't shift left — on the rows below it.
+function tableGrid(table) {
+  const grid = [];
+  const carry = []; // column → { text, left, header }
+  for (const row of table.split(/^\|-.*$/m)) {
+    const lines = row.split('\n').filter((l) => /^[|!]/.test(l) && !/^\{\||^\|\}|^\|\+/.test(l));
+    if (!lines.length) continue;
+    const header = lines.every((l) => l.startsWith('!'));
+    const cells = lines.flatMap((l) => tableCells(l, l.startsWith('!') ? '!!' : '||'));
+    const out = [];
+    let col = 0;
+    const fillCarried = () => {
+      while (carry[col]?.left > 0) {
+        out[col] = carry[col].text;
+        carry[col].left--;
+        col++;
+      }
+    };
+    for (const cell of cells) {
+      fillCarried();
+      for (let c = 0; c < cell.colspan; c++) {
+        out[col] = cell.text;
+        carry[col] = cell.rowspan > 1 ? { text: cell.text, left: cell.rowspan - 1 } : null;
+        col++;
+      }
+    }
+    fillCarried();
+    for (let c = col; c < carry.length; c++) {
+      if (carry[c]?.left > 0) { out[c] = carry[c].text; carry[c].left--; }
+    }
+    grid.push({ header, cells: out });
+  }
+  return grid;
 }
 
 export function parseSongTables(text) {
   const songs = [];
   const tables = text.match(/^\{\|[\s\S]*?^\|\}/gm) ?? [];
   for (const table of tables) {
-    const rows = table.split(/^\|-.*$/m).slice(0);
     let cols = null;
-    for (const row of rows) {
-      const lines = row.split('\n').filter((l) => /^[|!]/.test(l) && !/^\{\||^\|\}|^\|\+/.test(l));
-      if (!lines.length) continue;
-      if (lines.every((l) => l.startsWith('!')) && !cols) {
-        const names = lines.flatMap((l) => tableCells(l, '!!')).map((c) => clean(c).toLowerCase());
+    for (const { header, cells } of tableGrid(table)) {
+      if (header && !cols) {
+        const names = cells.map((c) => clean(c ?? '').toLowerCase());
         const find = (re) => names.findIndex((n) => re.test(n));
         const numbering = /^(no\.?|#|s\.? ?no\.?|sl\.? ?no\.?|track( no\.?| number| #)?|number)$/;
         const pick = (re) => names.findIndex((n) => re.test(n) && !numbering.test(n));
@@ -215,13 +255,12 @@ export function parseSongTables(text) {
           singers: find(/sing|artist|vocal/),
           lyricists: find(/lyric|writ/),
           musicDirectors: find(/music|compos/),
-          length: find(/length|duration/),
+          length: find(/length|duration|time/),
         };
         if (cols.title === -1) cols = null;
         continue;
       }
-      if (!cols) continue;
-      const cells = lines.flatMap((l) => tableCells(l, l.startsWith('!') ? '!!' : '||'));
+      if (!cols || header) continue;
       const title = cleanTitle(cells[cols.title] ?? '');
       if (!title) continue;
       const get = (k) => (cols[k] >= 0 ? toList(cells[cols[k]] ?? '') : []);

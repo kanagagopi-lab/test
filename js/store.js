@@ -84,3 +84,24 @@ export async function clearLibrary() {
   try { await idb('readwrite', (s) => s.delete('films')); } catch { /* ignore */ }
   try { localStorage.removeItem(LS_KEY); } catch { /* ignore */ }
 }
+
+// Corrections made in this browser (see corrections.js). Kept until cleared, so they keep
+// applying even before (or without) being submitted to the shared data/corrections.json.
+const LS_CORR = 'tamil-song-finder:corrections:v1';
+
+export async function loadLocalCorrections() {
+  try {
+    return (await idb('readonly', (s) => s.get('corrections'))) ?? [];
+  } catch {
+    try { return JSON.parse(localStorage.getItem(LS_CORR) ?? '[]'); } catch { return []; }
+  }
+}
+
+export async function saveLocalCorrections(list) {
+  try {
+    await idb('readwrite', (s) => s.put(list, 'corrections'));
+    return true;
+  } catch {
+    try { localStorage.setItem(LS_CORR, JSON.stringify(list)); return true; } catch { return false; }
+  }
+}
