@@ -105,3 +105,11 @@ test('clean / toList helpers', () => {
   assert.equal(yearOf('{{Film date|1995|03|10}}'), 1995);
   assert.equal(yearOf('unknown'), null);
 });
+
+test('placeholder names and stray quotes are dropped', () => {
+  assert.deepEqual(toList('[[Vaali]] except where noted'), ['Vaali']);
+  assert.deepEqual(toList('[[Mano]], Chorus'), ['Mano']);
+  const p = parsePage('X', `{{Infobox film|name=X}}\n== Soundtrack ==\n{{Track listing|extra_column=Singer(s)|title1=Kannathil Kannam" (female version)|extra1=Instrumental}}`);
+  assert.equal(p.songs[0].title, 'Kannathil Kannam (female version)');
+  assert.deepEqual(p.songs[0].singers, []);
+});

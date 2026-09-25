@@ -1,4 +1,4 @@
-import { FIELDS, flattenFilms, dedupe, index, search, isEmptyQuery, facet, distinct } from './search.js';
+import { FIELDS, flattenFilms, dedupe, canonicalize, index, search, isEmptyQuery, facet, distinct } from './search.js';
 import { loadLibrary, saveLibrary, mergeFilms, clearLibrary, filmKey } from './store.js';
 import { createClient, DEFAULT_CATEGORY, FIRST_YEAR, wikiUrl } from './wikipedia.js';
 
@@ -29,10 +29,10 @@ async function loadJson(url) {
 }
 
 function rebuild() {
-  songs = dedupe([
+  songs = dedupe(canonicalize([
     ...flattenFilms(libraryFilms, 'Wikipedia'),
     ...flattenFilms(seedFilms, 'Starter set'),
-  ]);
+  ]));
   indexed = index(songs);
   const films = new Set(songs.map((s) => `${s.film}|${s.year}`)).size;
   $('#lib-stats').textContent = `${songs.length.toLocaleString()} songs from ${films.toLocaleString()} films` +

@@ -110,8 +110,12 @@ export function toList(value) {
   return clean(value)
     .split(/\n|\*|,|;|\s+and\s+|\s+&\s+|\s\/\s/)
     .map((s) => s.replace(/\([^)]*\)/g, '').replace(/^[\s:•·-]+|[\s:•·-]+$/g, '').trim())
-    .filter((s) => s && s.length < 60 && !/^(various|n\/a|none|—|-)$/i.test(s));
+    .map((s) => s.replace(/\s*\b(except|unless otherwise) (where )?(noted|stated|specified)\.?$/i, '').trim())
+    .filter((s) => s && s.length < 60 && !JUNK_NAME.test(s));
 }
+
+// Placeholder entries that are not people.
+export const JUNK_NAME = /^(various( artists)?|n\/a|none|—|–|-|chorus|instrumental|unknown|tba|tbd|except where noted\.?)$/i;
 
 export function yearOf(raw) {
   const m = String(raw ?? '').match(/\b(19[1-9]\d|20[0-4]\d)\b/);
@@ -119,7 +123,7 @@ export function yearOf(raw) {
 }
 
 function cleanTitle(raw) {
-  return clean(raw).replace(/\n/g, ' ').replace(/^["“”']+|["“”']+$/g, '').trim();
+  return clean(raw).replace(/\n/g, ' ').replace(/["“”]/g, '').replace(/^'+|'+$/g, '').replace(/\s+/g, ' ').trim();
 }
 
 // Headings: [{ level, title, start }]

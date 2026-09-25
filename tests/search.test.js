@@ -63,3 +63,21 @@ test('dedupe merges repeated songs', () => {
   assert.equal(out.length, 1);
   assert.deepEqual(out[0].directors, ['Mani Ratnam']);
 });
+
+test('canonicalize unifies spellings of one person but keeps different people apart', async () => {
+  const { canonicalize } = await import('../js/search.js');
+  const film = (title, singers, lyricists = []) => ({ film: 'X', year: 1990, songs: [{ title, singers, lyricists }] });
+  const out = canonicalize(flattenFilms([
+    film('a', ['K. S. Chithra', 'S. Janaki'], ['Vaali']),
+    film('b', ['K. S. Chithra', 'S. Janaki'], ['Vaali']),
+    film('c', ['K.S. Chitra', 'Janaki', 'Chorus'], ['Vaalee', 'except where noted']),
+    film('d', ['Hariharan', 'Hariharan']),
+    film('e', ['A. Hariharan']),
+    film('f', ['K. Hariharan']),
+  ]));
+  assert.deepEqual(out[2].singers, ['K. S. Chithra', 'S. Janaki']);
+  assert.deepEqual(out[2].lyricists, ['Vaali']);
+  assert.deepEqual(out[3].singers, ['Hariharan']);
+  assert.deepEqual(out[4].singers, ['A. Hariharan']);
+  assert.deepEqual(out[5].singers, ['K. Hariharan']);
+});

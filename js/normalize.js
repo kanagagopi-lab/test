@@ -16,15 +16,34 @@ export function basic(s) {
     .toLowerCase();
 }
 
-export function fold(s) {
+// Names and titles repeat thousands of times across a library, so results are memoised.
+const foldCache = new Map();
+const wordsCache = new Map();
+
+function memo(cache, key, fn) {
+  let v = cache.get(key);
+  if (v === undefined) {
+    if (cache.size > 200000) cache.clear();
+    v = fn(key);
+    cache.set(key, v);
+  }
+  return v;
+}
+
+function foldUncached(s) {
   let t = basic(s).replace(/[^a-z0-9஀-௿]+/g, '');
-  for (const [from, to] of DIGRAPHS) t = t.split(from).join(to);
+  // Replacements apply in order (earlier rules must win, e.g. "th" before "h").
+  for (const [from, to] of DIGRAPHS) if (t.includes(from)) t = t.split(from).join(to);
   return t.replace(/(.)\1+/g, '$1');
 }
 
-// Split a query into folded words; empty words are dropped.
+export function fold(s) {
+  return memo(foldCache, String(s ?? ''), foldUncached);
+}
+
+// Split a string into folded words; empty words are dropped.
 export function words(s) {
-  return basic(s).split(/[^a-z0-9஀-௿]+/).map(fold).filter(Boolean);
+  return memo(wordsCache, String(s ?? ''), (k) => basic(k).split(/[^a-z0-9஀-௿]+/).map(fold).filter(Boolean));
 }
 
 // Common nicknames / abbreviations used by Tamil film fans.

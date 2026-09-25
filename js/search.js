@@ -1,4 +1,5 @@
 import { fold, words, expandAlias } from './normalize.js';
+import { JUNK_NAME } from './wikitext.js';
 
 // Searchable categories. `key` is the song field; each field holds an array of strings
 // (title/film are wrapped so everything is handled uniformly).
@@ -37,6 +38,85 @@ export function flattenFilms(films, source = '') {
     }
   }
   return songs;
+}
+
+const PEOPLE = ['actors', 'musicDirectors', 'lyricists', 'singers', 'directors'];
+
+// Wikipedia spells the same person many ways ("Vaali" / "Vaalee", "K. S. Chithra" /
+// "K.S. Chitra" / "Chithra"). Unify each name to its most common spelling so results and
+// facets don't split one person in two. Names that fold to the same key are merged; a
+// bare name ("Janaki") joins an initialed one ("S. Janaki") only when, within that field,
+// exactly one initialed form exists and it is at least as common.
+const INITIALS = /^((?:[A-Z][a-z]?\.\s*)+)(.+)$/;
+
+// Key for "same person": initials stay separate from the folded name so "A. Hariharan"
+// never collapses into "Hariharan", while "S.P. Balasubrahmanyam" == "S. P. Balasubramanyam".
+function nameKey(v) {
+  const m = v.trim().match(INITIALS);
+  return m ? `${m[1].replace(/[^A-Za-z]/g, '').toLowerCase()}|${fold(m[2])}` : `|${fold(v)}`;
+}
+
+export function canonicalize(songs) {
+  const counts = new Map(); // key → Map(spelling → n)
+  for (const s of songs) {
+    for (const k of PEOPLE) {
+      for (const raw of s[k]) {
+        const v = raw.trim();
+        const key = nameKey(v);
+        if (!counts.has(key)) counts.set(key, new Map());
+        counts.get(key).set(v, (counts.get(key).get(v) ?? 0) + 1);
+      }
+    }
+  }
+  const best = new Map();
+  const total = new Map();
+  for (const [key, spellings] of counts) {
+    let top = null;
+    let n = 0;
+    for (const [v, c] of spellings) {
+      n += c;
+      // Prefer the most common; on ties prefer the proper-cased, longer (punctuated) form.
+      if (!top || c > top[1] || (c === top[1] && /^[A-Z]/.test(v) && v.length > top[0].length)) top = [v, c];
+    }
+    best.set(key, top[0]);
+    total.set(key, n);
+  }
+
+  const bareTo = {};
+  for (const k of PEOPLE) {
+    const byBare = new Map(); // bare key → Set(full keys)
+    for (const s of songs) {
+      for (const v of s[k]) {
+        const key = nameKey(v);
+        if (key.startsWith('|')) continue;
+        const bare = `|${key.split('|')[1]}`;
+        if (!byBare.has(bare)) byBare.set(bare, new Set());
+        byBare.get(bare).add(key);
+      }
+    }
+    bareTo[k] = new Map();
+    for (const [bare, fulls] of byBare) {
+      if (fulls.size !== 1 || !total.has(bare)) continue;
+      const [full] = fulls;
+      if (total.get(full) >= total.get(bare)) bareTo[k].set(bare, full);
+    }
+  }
+
+  return songs.map((s) => {
+    const out = { ...s };
+    for (const k of PEOPLE) {
+      const seen = new Set();
+      out[k] = [];
+      for (const v of s[k]) {
+        if (JUNK_NAME.test(v.trim())) continue;
+        let key = nameKey(v);
+        key = bareTo[k].get(key) ?? key;
+        const name = best.get(key) ?? v;
+        if (!seen.has(name)) { seen.add(name); out[k].push(name); }
+      }
+    }
+    return out;
+  });
 }
 
 // Songs appear once per source; drop duplicates of the same (film, year, title),
