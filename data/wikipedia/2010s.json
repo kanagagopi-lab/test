@@ -1,5 +1,5 @@
 {
- "source": "Tamil films of 2010–2019 (List of Tamil films of <year> pages). From English Wikipedia, built 2026-09-25. Text under CC BY-SA 4.0.",
+ "source": "Tamil films of 2010–2019 (List of Tamil films of <year> pages). From English Wikipedia, built 2026-10-01. Text under CC BY-SA 4.0.",
  "films": [
   {
    "film": "Velaikari",
@@ -15537,8 +15537,7 @@
    "film": "Manmadhan",
    "year": 2004,
    "directors": [
-    "A. J. Murugan",
-    "Silambarasan"
+    "A. J. Murugan"
    ],
    "actors": [
     "Silambarasan",
@@ -18570,7 +18569,7 @@
       "Anwar"
      ],
      "lyricists": [
-      "L. G. Ravichandhar"
+      "L. G. Ravichandar"
      ],
      "musicDirectors": [],
      "length": "5:22"
@@ -44419,7 +44418,7 @@
    "year": 2013,
    "directors": [
     "K. Padmaraja",
-    "L. G. Ravichandhar"
+    "L. G. Ravichandar"
    ],
    "actors": [
     "Ramki",
@@ -47823,7 +47822,7 @@
    "film": "Aindhaam Thalaimurai Sidha Vaidhiya Sigamani",
    "year": 2014,
    "directors": [
-    "L. G. Ravichandhar"
+    "L. G. Ravichandar"
    ],
    "actors": [
     "Bharath",
@@ -53105,6 +53104,94 @@
    "source": "Wikipedia"
   },
   {
+   "film": "Pagadai Pagadai",
+   "year": 2014,
+   "directors": [
+    "Sasi Shanker"
+   ],
+   "actors": [
+    "Dilip Kumar Salvadi",
+    "Divya Singh"
+   ],
+   "musicDirectors": [
+    "John Peter",
+    "Ramji"
+   ],
+   "songs": [
+    {
+     "title": "Pakatai",
+     "singers": [
+      "Mukesh Mohamed"
+     ],
+     "lyricists": [
+      "Tamizhamuthan"
+     ],
+     "musicDirectors": [],
+     "length": ""
+    },
+    {
+     "title": "Pakkadia",
+     "singers": [
+      "Rita Thyagarajan"
+     ],
+     "lyricists": [
+      "Paul Mugil"
+     ],
+     "musicDirectors": [],
+     "length": ""
+    },
+    {
+     "title": "Man Vaasam",
+     "singers": [
+      "Saindhavi",
+      "Jagadees"
+     ],
+     "lyricists": [
+      "Va. Karuppan"
+     ],
+     "musicDirectors": [],
+     "length": ""
+    },
+    {
+     "title": "Thookkividu Collor",
+     "singers": [
+      "Mukesh"
+     ],
+     "lyricists": [
+      "Tamizhamuthan"
+     ],
+     "musicDirectors": [],
+     "length": ""
+    },
+    {
+     "title": "Maarudhea",
+     "singers": [
+      "Pooja"
+     ],
+     "lyricists": [
+      "Tamizhamuthan"
+     ],
+     "musicDirectors": [],
+     "length": ""
+    },
+    {
+     "title": "Pakatai",
+     "singers": [
+      "Mukesh",
+      "Kritika",
+      "J. Kumar"
+     ],
+     "lyricists": [
+      "Tamizhamuthan"
+     ],
+     "musicDirectors": [],
+     "length": ""
+    }
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Pagadai_Pagadai",
+   "source": "Wikipedia"
+  },
+  {
    "film": "Panivizhum Malarvanam",
    "year": 2014,
    "directors": [
@@ -57877,7 +57964,7 @@
    "source": "Wikipedia"
   },
   {
-   "film": "Idu Enna Maayam",
+   "film": "Idhu Enna Maayam",
    "year": 2015,
    "directors": [
     "A. L. Vijay"
@@ -95052,7 +95139,7 @@
    "film": "Naan Avalai Sandhitha Pothu",
    "year": 2019,
    "directors": [
-    "L. G. Ravichandhar"
+    "L. G. Ravichandar"
    ],
    "actors": [
     "Santhosh Prathap",

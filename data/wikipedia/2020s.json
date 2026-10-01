@@ -1,5 +1,5 @@
 {
- "source": "Tamil films of 2020–2026 (List of Tamil films of <year> pages). From English Wikipedia, built 2026-09-25. Text under CC BY-SA 4.0.",
+ "source": "Tamil films of 2020–2026 (List of Tamil films of <year> pages). From English Wikipedia, built 2026-10-01. Text under CC BY-SA 4.0.",
  "films": [
   {
    "film": "Dhruva Natchathiram",
@@ -92,10 +92,8 @@
    "actors": [
     "Dhanush",
     "Mammootty",
-    "Naseeruddin Shah",
     "Sai Pallavi",
-    "Sreeleela",
-    "Indrans"
+    "Sreeleela"
    ],
    "musicDirectors": [
     "Sai Abhyankkar"
@@ -114,6 +112,35 @@
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Om_(2026_film)",
+   "source": "Wikipedia"
+  },
+  {
+   "film": "Pisaasu",
+   "year": 2014,
+   "directors": [
+    "Mysskin"
+   ],
+   "actors": [
+    "Naga",
+    "Prayaga Martin"
+   ],
+   "musicDirectors": [
+    "Arrol Corelli"
+   ],
+   "songs": [
+    {
+     "title": "Pogum Paadhai",
+     "singers": [
+      "Uthara Unnikrishnan"
+     ],
+     "lyricists": [
+      "Thamizhachi Thangapandian"
+     ],
+     "musicDirectors": [],
+     "length": "3:59"
+    }
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Pisaasu",
    "source": "Wikipedia"
   },
   {
@@ -21929,7 +21956,7 @@
    "year": 2023,
    "directors": [
     "Suresh Babu R.",
-    "L. G. Ravichandhar"
+    "L. G. Ravichandar"
    ],
    "actors": [
     "Balaji Murugadoss",
@@ -28888,6 +28915,50 @@
    "source": "Wikipedia"
   },
   {
+   "film": "Vallavan Vaguthadhada",
+   "year": 2024,
+   "directors": [
+    "Vinayek Durai"
+   ],
+   "actors": [
+    "Tej Charanraj",
+    "Rajesh Balachandiran",
+    "Aananya Mani"
+   ],
+   "musicDirectors": [
+    "Sagishna Xavier"
+   ],
+   "songs": [
+    {
+     "title": "Vallavan Vaguthadhada",
+     "singers": [
+      "Yazin Nizar",
+      "Krishna K."
+     ],
+     "lyricists": [
+      "Varuon Thushyanthan"
+     ],
+     "musicDirectors": [],
+     "length": "3:58"
+    },
+    {
+     "title": "Zoosa",
+     "singers": [
+      "Sagishna Xavier",
+      "Flute Charles",
+      "Vandana Srinivasan"
+     ],
+     "lyricists": [
+      "Varuon Thushyanthan"
+     ],
+     "musicDirectors": [],
+     "length": "3:46"
+    }
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Vallavan_Vaguthadhada",
+   "source": "Wikipedia"
+  },
+  {
    "film": "Vettaiyan",
    "year": 2024,
    "directors": [
@@ -35599,7 +35670,7 @@
     {
      "title": "Vaa Veerabathra",
      "singers": [
-      "ADK"
+      "Dinesh Kanagaratnam"
      ],
      "lyricists": [
       "Uma Devi"
@@ -36909,6 +36980,64 @@
    "source": "Wikipedia"
   },
   {
+   "film": "Baththa",
+   "year": 2026,
+   "directors": [
+    "Balaji Tharaneetharan"
+   ],
+   "actors": [
+    "Vijay Sethupathi",
+    "Lijomol Jose"
+   ],
+   "musicDirectors": [
+    "Sai Abhyankkar"
+   ],
+   "songs": [
+    {
+     "title": "Magale",
+     "singers": [
+      "Sai Abhyankkar",
+      "Harini"
+     ],
+     "lyricists": [],
+     "musicDirectors": [],
+     "length": "4:18"
+    },
+    {
+     "title": "Ooroda Oththa Don",
+     "singers": [
+      "Sai Abhyankkar",
+      "Vangal Pulla Vicky",
+      "Thamizh Aadhavan"
+     ],
+     "lyricists": [],
+     "musicDirectors": [],
+     "length": "3:46"
+    },
+    {
+     "title": "Jiguchikkan",
+     "singers": [
+      "Sai Abhyankkar",
+      "Thamizh Aadhavan"
+     ],
+     "lyricists": [],
+     "musicDirectors": [],
+     "length": "1:48"
+    },
+    {
+     "title": "Mozhiye",
+     "singers": [
+      "Sid Sriram"
+     ],
+     "lyricists": [],
+     "musicDirectors": [],
+     "length": "3:52"
+    }
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Baththa",
+   "source": "Wikipedia"
+  },
+  {
    "film": "Blast",
    "year": 2026,
    "directors": [
@@ -37451,7 +37580,7 @@
       "Ilaiyaraaja"
      ],
      "musicDirectors": [],
-     "length": ""
+     "length": "5:04"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Dorothy_(film)",
@@ -37621,6 +37750,61 @@
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Draupathi_2",
+   "source": "Wikipedia"
+  },
+  {
+   "film": "Enna Vilai",
+   "year": 2026,
+   "directors": [
+    "Sajeev Pazhoor"
+   ],
+   "actors": [
+    "Karunas",
+    "Nimisha Sajayan",
+    "Vijayalakshmi Veeramani",
+    "Shashaa Shivakumar",
+    "Kamalesh Jagan",
+    "Heesha"
+   ],
+   "musicDirectors": [
+    "Sam C. S."
+   ],
+   "songs": [
+    {
+     "title": "Kadalaadum Seemayile",
+     "singers": [
+      "Anthony Daasan"
+     ],
+     "lyricists": [
+      "Karthik Netha"
+     ],
+     "musicDirectors": [],
+     "length": "4:01"
+    },
+    {
+     "title": "Vaan Meeru",
+     "singers": [
+      "Shivam"
+     ],
+     "lyricists": [
+      "Karthik Netha"
+     ],
+     "musicDirectors": [],
+     "length": "4:04"
+    },
+    {
+     "title": "Maanarthiku Enna Vilai",
+     "singers": [
+      "Deepak Blue"
+     ],
+     "lyricists": [
+      "Ilango Krishnan"
+     ],
+     "musicDirectors": [],
+     "length": "3:32"
+    }
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Enna_Vilai",
    "source": "Wikipedia"
   },
   {
@@ -38070,28 +38254,6 @@
    ],
    "songs": [
     {
-     "title": "Hukum Reloaded",
-     "singers": [
-      "Anirudh Ravichander"
-     ],
-     "lyricists": [
-      "Super Subu"
-     ],
-     "musicDirectors": [],
-     "length": "1:31"
-    },
-    {
-     "title": "One Name",
-     "singers": [
-      "Anirudh Ravichander"
-     ],
-     "lyricists": [
-      "Heisenberg"
-     ],
-     "musicDirectors": [],
-     "length": "1:00"
-    },
-    {
      "title": "Ala Bolelo",
      "singers": [
       "Anirudh Ravichander",
@@ -38117,6 +38279,121 @@
      ],
      "musicDirectors": [],
      "length": "3:37"
+    },
+    {
+     "title": "Netru Ponavai",
+     "singers": [
+      "Shankar Mahadevan"
+     ],
+     "lyricists": [
+      "Vignesh Shivan"
+     ],
+     "musicDirectors": [],
+     "length": "4:24"
+    },
+    {
+     "title": "Veramaari",
+     "singers": [
+      "Thamizh Aadhavan"
+     ],
+     "lyricists": [
+      "Thamizh Aadhavan"
+     ],
+     "musicDirectors": [],
+     "length": "2:32"
+    },
+    {
+     "title": "Jailer 2 Theme",
+     "singers": [
+      "Anirudh Ravichander",
+      "MS Krsna"
+     ],
+     "lyricists": [
+      "Super Subu"
+     ],
+     "musicDirectors": [],
+     "length": "1:47"
+    },
+    {
+     "title": "Bindaas",
+     "singers": [
+      "Anirudh Ravichander",
+      "Deepthi Suresh"
+     ],
+     "lyricists": [
+      "Super Subu"
+     ],
+     "musicDirectors": [],
+     "length": "4:14"
+    },
+    {
+     "title": "Putaapu Gang",
+     "singers": [
+      "Thamizh Aadhavan"
+     ],
+     "lyricists": [
+      "Thamizh Aadhavan"
+     ],
+     "musicDirectors": [],
+     "length": "2:40"
+    },
+    {
+     "title": "Shaitaan",
+     "singers": [
+      "Romy"
+     ],
+     "lyricists": [
+      "Vivek",
+      "Super Subu"
+     ],
+     "musicDirectors": [],
+     "length": "2:55"
+    },
+    {
+     "title": "One Name",
+     "singers": [
+      "Anirudh Ravichander",
+      "Yogisekar",
+      "Jagadeesh Kumar",
+      "Balraj",
+      "Sridhar Sena",
+      "Shenbagaraj",
+      "Govind Prasad"
+     ],
+     "lyricists": [
+      "Super Subu"
+     ],
+     "musicDirectors": [],
+     "length": "3:24"
+    },
+    {
+     "title": "Dileep Theme",
+     "singers": [],
+     "lyricists": [],
+     "musicDirectors": [],
+     "length": "1:12"
+    },
+    {
+     "title": "Dil Haareya",
+     "singers": [
+      "Ritesh G. Rao"
+     ],
+     "lyricists": [
+      "Ritesh G. Rao"
+     ],
+     "musicDirectors": [],
+     "length": "2:58"
+    },
+    {
+     "title": "Hukum Reloaded",
+     "singers": [
+      "Anirudh Ravichander"
+     ],
+     "lyricists": [
+      "Super Subu"
+     ],
+     "musicDirectors": [],
+     "length": "1:34"
     }
    ],
    "wiki": "https://en.wikipedia.org/wiki/Jailer_2",
@@ -39654,6 +39931,61 @@
    "source": "Wikipedia"
   },
   {
+   "film": "Mustafa Mustafa",
+   "year": 2026,
+   "directors": [
+    "Praveen Saravanan"
+   ],
+   "actors": [
+    "Sathish",
+    "Suresh Ravi",
+    "Monica Chinnakotla",
+    "Maanasa Choudhary"
+   ],
+   "musicDirectors": [
+    "M. S. Jones Rupert"
+   ],
+   "songs": [
+    {
+     "title": "Thara Thara",
+     "singers": [
+      "G. V. Prakash Kumar"
+     ],
+     "lyricists": [
+      "Naveen Bharathi"
+     ],
+     "musicDirectors": [],
+     "length": "3:34"
+    },
+    {
+     "title": "Haffa Haffa",
+     "singers": [
+      "Vaisagh"
+     ],
+     "lyricists": [
+      "Naveen Bharathi"
+     ],
+     "musicDirectors": [],
+     "length": "2:24"
+    },
+    {
+     "title": "Sir Ah Paaru Thaaru Maaru",
+     "singers": [
+      "Anthony Daasan",
+      "Deepthi Suresh",
+      "Shenbagaraj Ganesalingam"
+     ],
+     "lyricists": [
+      "Naveen Bharathi"
+     ],
+     "musicDirectors": [],
+     "length": "4:19"
+    }
+   ],
+   "wiki": "https://en.wikipedia.org/wiki/Mustafa_Mustafa_(film)",
+   "source": "Wikipedia"
+  },
+  {
    "film": "My Lord",
    "year": 2026,
    "directors": [
@@ -39981,8 +40313,8 @@
     "Sudha Kongara"
    ],
    "actors": [
-    "Ravi Mohan",
     "Sivakarthikeyan",
+    "Ravi Mohan",
     "Atharvaa",
     "Sreeleela"
    ],
